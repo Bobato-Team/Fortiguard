@@ -1,0 +1,1341 @@
+{
+    "Title": "Streaming Media and Download Apps DB",
+    "Version": "00001.00032",
+    "Timestamp": "20260327140502",
+    "Format": 1,
+    "Application": [
+        {
+            "Name": "10play",
+            "Vendor": "Paramount Networks",
+            "Description": "10Play is an Australian free video on demand and catch-up TV service.",
+            "Domain": [
+                "*.10.com.au"
+            ]
+        },
+        {
+            "Name": "7plus",
+            "Vendor": "Seven West Media",
+            "Description": "7plus is a video on demand, catch-up TV service",
+            "Domain": [
+                "*.7plus.com.au"
+            ]
+        },
+        {
+            "Name": "ABC",
+            "Vendor": "Disney",
+            "Description": "The American Broadcasting Company is an American commercial broadcast television and radio network",
+            "Domain": [
+                "*.abc.com"
+            ]
+        },
+        {
+            "Name": "AbemaTV",
+            "Vendor": "AbemaTV",
+            "Description": "AbemaTV is a video distribution company that offers free channels of original live broadcast content, news, music, sports, and dramas.",
+            "Domain": [
+                "*.abema.tv"
+            ]
+        },
+        {
+            "Name": "Acorn TV",
+            "Vendor": "AMC",
+            "Description": "Acorn TV is a targeted media streaming service aimed at bringing new shows from around the world to fans of detectives, police dramas, and thrillers.",
+            "Domain": [
+                "*.acorn.tv",
+                "boltacorn1-a.akamaihd.net"
+            ]
+        },
+        {
+            "Name": "Amazon Music",
+            "Vendor": "Amazon",
+            "Description": "Amazon Music is a music streaming platform and online music store. It provides both free and paid services.",
+            "Domain": [
+                "*music.amazon.com"
+            ]
+        },
+        {
+            "Name": "Amazon Prime Video",
+            "Vendor": "Amazon",
+            "Description": "Amazon Prime Video is a subscription video on-demand over-the-top streaming and rental service of Amazon.",
+            "Domain": [
+                "*.aiv-cdn.net",
+                "*.aiv-delivery.net",
+                "*.amazonvideo.com",
+                "*.prime-video.amazon.dev",
+                "*.primevideo.club",
+                "*.primevideo.com",
+                "*.pv-cdn.net",
+                "atv-ps*.amazon.com"
+            ]
+        },
+        {
+            "Name": "AMC+",
+            "Vendor": "AMC",
+            "Description": "AMC+ is an on-demand premium streaming bundle that brings together the best of AMC, BBC America, IFC, and Sundance TV.",
+            "Domain": [
+                "*.amcplus.com",
+                "amcplus-a.akamaized.net"
+            ]
+        },
+        {
+            "Name": "Anchor",
+            "Vendor": "Spotify",
+            "Description": "Anchor is a podcasting platform that helps creating a podcast with ease by the users.",
+            "Domain": [
+                "*.anchor.fm",
+                "*.anchor.fm.admin-mcas.ms",
+                "*.anchor.fm938.cn",
+                "*.anchorfm.zendesk.com"
+            ]
+        },
+        {
+            "Name": "Apple Music",
+            "Vendor": "Apple",
+            "Description": "Apple music and video streaming service",
+            "Domain": [
+                "*.itunes.apple.com",
+                "*.music.apple.com"
+            ]
+        },
+        {
+            "Name": "Apple TV+",
+            "Vendor": "Apple",
+            "Description": "Apple TV+ is a streaming service from Apple.",
+            "Domain": [
+                "*.tv.apple.com",
+                "*.tv.g.apple.com",
+                "*.tv.v.aaplimg.com",
+                "bpapi.apple.com",
+                "sylvan.apple.com"
+            ]
+        },
+        {
+            "Name": "BritBox",
+            "Vendor": "ITV plc",
+            "Description": "BritBox is an online digital video subscription service.",
+            "Domain": [
+                "*.britbox.com",
+                "vod-dash-ntham-comm-live.akamaized.net",
+                "vod-dash-ntham-comm.live.cf.md.bbci.co.uk"
+            ]
+        },
+        {
+            "Name": "CBC Gem",
+            "Vendor": "CBC Television",
+            "Description": "CBC Gem is CBC's official streaming platform, featuring live and on-demand content from across its television network",
+            "Domain": [
+                "*.gem.cbc.ca",
+                "cbcrclinear-tor.akamaized.net"
+            ]
+        },
+        {
+            "Name": "CBS Broadcasting",
+            "Vendor": "Paramount Global",
+            "Description": "CBS is an American commercial broadcast television and radio network serving",
+            "Domain": [
+                "*.cbs.com",
+                "cbsn-us.cbsnstream.cbsnews.com"
+            ]
+        },
+        {
+            "Name": "Channel 4",
+            "Vendor": "Channel Four Television",
+            "Description": "Channel 4 provides public broadcasting services via television.",
+            "Domain": [
+                "*.channel4.com"
+            ]
+        },
+        {
+            "Name": "Cinemax",
+            "Vendor": "Warner Bros. Discovery",
+            "Description": "Cinemax is an American pay television, cable, and satellite television network",
+            "Domain": [
+                "*.cinemax.com"
+            ]
+        },
+        {
+            "Name": "Crunchyroll",
+            "Vendor": "Sony",
+            "Description": "Crunchyroll is an American subscription video on-demand over-the-top streaming service",
+            "Domain": [
+                "*.crunchyroll.com",
+                "*.v.vrv.co"
+            ]
+        },
+        {
+            "Name": "Dailymotion",
+            "Vendor": "Dailymotion",
+            "Description": "Dailymotion is a video-sharing technology platform for users and enterprise.",
+            "Domain": [
+                "*.dai.ly",
+                "*.dailymotion.com",
+                "*.dailymotion.fr",
+                "*.dailymotion.pl",
+                "*.dailymotion.us",
+                "*.dailymotionadvertising.com",
+                "*.dmcdn.net",
+                "*.dmxleo.com"
+            ]
+        },
+        {
+            "Name": "DIRECTV",
+            "Vendor": "AT&T",
+            "Description": "DirecTV (trademarked as DIRECTV) is an American multichannel video programming distributor",
+            "Domain": [
+                "*.directv.com",
+                "*.directvnow.com",
+                "*.dtvce.com"
+            ]
+        },
+        {
+            "Name": "Discovery+",
+            "Vendor": "Warner Bros. Discovery",
+            "Description": "Discovery Plus is a service to provide easy streaming to Discovery, TLC, Animal Planet, Food Network, and HGTV series in one streaming app.",
+            "Domain": [
+                "*.discoveryplus.co.uk",
+                "*.discoveryplus.com",
+                "*.discoveryplus.in",
+                "*.discoveryplus.it",
+                "*.discoveryplus.se",
+                "dplus-us-gcs-prod-vod.akamaized.net"
+            ]
+        },
+        {
+            "Name": "Disney+",
+            "Vendor": "Disney",
+            "Description": "A subscription video on-demand streaming service by Disney.",
+            "Domain": [
+                "*.cdn.registerdisney.go.com",
+                "*.disney-plus.net",
+                "*.disney-portal.my.onetrust.com",
+                "*.disneyplus.bn5x.net",
+                "*.disneyplus.com",
+                "*.disneyplus.com.ssl.sc.omtrdc.net",
+                "*.disneyplus.disney.co.jp",
+                "*.dssott.com",
+                "*.global.edge.bamgrid.com",
+                "*.search-api-disney.svcs.dssott.com",
+                "*.starott.com",
+                "disney-vod-na-west-1.top.comcast.net",
+                "disney.api.edge.bamgrid.com",
+                "disney.content.edge.bamgrid.com",
+                "disney.demdex.net",
+                "search-api-disney.bamgrid.com"
+            ]
+        },
+        {
+            "Name": "Eros Now",
+            "Vendor": "Eros International",
+            "Description": "Eros Now is an Indian subscription-based, video on-demand entertainment and media platform",
+            "Domain": [
+                "*.erosnow.com"
+            ]
+        },
+        {
+            "Name": "ESPN+",
+            "Vendor": "Disney",
+            "Description": "ESPN+ is an American over-the-top subscription video streaming service and marketed as an add-on to ESPN's core linear networks.",
+            "Domain": [
+                "*.espnplus.com",
+                "*.plus.espn.com"
+            ]
+        },
+        {
+            "Name": "ETV win",
+            "Vendor": "ETV Network",
+            "Description": "ETV Win is an Indian subscription video on-demand and over-the-top streaming service",
+            "Domain": [
+                "*.etvwin.com"
+            ]
+        },
+        {
+            "Name": "FC2 Live",
+            "Vendor": "FC2",
+            "Description": "FC2 Live is a platform that provides live broadcasting services and two-way video chat.",
+            "Domain": [
+                "*.live-storage.fc2.com",
+                "*.live.fc2.com"
+            ]
+        },
+        {
+            "Name": "FC2 Video",
+            "Vendor": "FC2",
+            "Description": "FC2 Video is a service to publicize and share videos on the web.",
+            "Domain": [
+                "*.video-thumbnail2.fc2.com",
+                "*.video.fc2.com",
+                "*.video18-sslcdn2.fc2.com"
+            ]
+        },
+        {
+            "Name": "Fox Now",
+            "Vendor": "Fox",
+            "Description": "Fox Now is an American commercial broadcast television network.",
+            "Domain": [
+                "*.fox.com"
+            ]
+        },
+        {
+            "Name": "Foxtel Now",
+            "Vendor": "Fox",
+            "Description": "Foxtel Now is an Australian internet television service which offers subscriptions to over 50 live channels and hundreds of video on-demand titles.",
+            "Domain": [
+                "*.foxtel.com.au"
+            ]
+        },
+        {
+            "Name": "fuboTV",
+            "Vendor": "fuboTV",
+            "Description": "fuboTV is an American streaming television service.",
+            "Domain": [
+                "*.fubo.tv",
+                "*.fubotv.com"
+            ]
+        },
+        {
+            "Name": "Funimation",
+            "Vendor": "Sony",
+            "Description": "Funimation (Now is Crunchyroll) is an American subscription video on-demand over-the-top streaming service",
+            "Domain": [
+                "*.funimation.com"
+            ]
+        },
+        {
+            "Name": "Global Television Network",
+            "Vendor": "Corus Entertainment",
+            "Description": "The Global Television Network  is a Canadian English-language terrestrial television network.",
+            "Domain": [
+                "*.globaltv.com"
+            ]
+        },
+        {
+            "Name": "GoToMeeting",
+            "Vendor": "GoTo",
+            "Description": "An online meeting, desktop sharing, and video conferencing software package by LogMeIn",
+            "Domain": [
+                "*.gotomeet.at",
+                "*.gotomeet.me",
+                "*.gotomeeting.ca",
+                "*.gotomeeting.co.uk",
+                "*.gotomeeting.com",
+                "*.gotomeeting.com.au",
+                "*.gotomeeting.de",
+                "*.gotomeeting.es",
+                "*.gotomeeting.fr",
+                "*.gotomeeting.ie",
+                "*.gotomeeting.in",
+                "*.gotomeeting.it",
+                "*.gotomeeting.net",
+                "*.joingotomeeting.com",
+                "*.meet.goto.com",
+                "*.netviewer.com"
+            ]
+        },
+        {
+            "Name": "GoToStage",
+            "Vendor": "GoTo",
+            "Description": "GoToStage is the video platform for content that business professionals crave.",
+            "Domain": [
+                "*.gotostage.com",
+                "saas-g2w-cbr-prod-usstandard.s3.amazonaws.com"
+            ]
+        },
+        {
+            "Name": "HBO",
+            "Vendor": "WarnerMedia Studios & Networks",
+            "Description": "HBO is a media cable service for the subscribers. It provides a variety of movies, shows, news, sports and merchandise to the users.",
+            "Domain": [
+                "*.hbo.com",
+                "*.hbogo.co.th",
+                "*.hbogo.com",
+                "*.hbogo.eu",
+                "*.hbogoasia.com",
+                "*.hbogoasia.id",
+                "*.hbogoasia.ph"
+            ]
+        },
+        {
+            "Name": "HBO Max",
+            "Vendor": "WarnerMedia Studios & Networks",
+            "Description": "HBO Max is a streaming service that streams original series with a catalog of movies and TV shows.",
+            "Domain": [
+                "*.hbomax.com",
+                "*.hbomaxcdn.com",
+                "*.hbonow.com",
+                "*.hbxmax.com",
+                "*.maxgo.com",
+                "hbomax-images.warnermediacdn.com"
+            ]
+        },
+        {
+            "Name": "Hotstar",
+            "Vendor": "Disney",
+            "Description": "Disney+ Hotstar is a subscription video-on-demand over-the-top streaming service.",
+            "Domain": [
+                "*.hotstar.com"
+            ]
+        },
+        {
+            "Name": "Hulu",
+            "Vendor": "Hulu",
+            "Description": "Hulu is a dependable option for streaming new and classic shows as well as live TV across a wide variety of platforms.",
+            "Domain": [
+                "*.hulu.com",
+                "*.hulu.jp",
+                "*.huluad.com",
+                "*.huluim.com",
+                "*.hulumail.com",
+                "*.huluqa.com",
+                "*.hulustream.com",
+                "assetshuluimcom-a.akamaihd.net"
+            ]
+        },
+        {
+            "Name": "ITVX",
+            "Vendor": "ITV plc",
+            "Description": "ITVX provides media measurement solutions for product placement and branded entertainment.",
+            "Domain": [
+                "*.itv.com"
+            ]
+        },
+        {
+            "Name": "Jio TV",
+            "Vendor": "Jio",
+            "Description": "JioTV is an Indian streaming television service",
+            "Domain": [
+                "*.jiotv.com"
+            ]
+        },
+        {
+            "Name": "JioSaavn",
+            "Vendor": "JioSaavn",
+            "Description": "JioSaavn is an Indian music streaming service and a digital distributor.",
+            "Domain": [
+                "*.jiosaavn.com",
+                "*.saavncdn.com"
+            ]
+        },
+        {
+            "Name": "Kakao TV",
+            "Vendor": "Kakao",
+            "Description": "Kakao TV is a platform where anyone can easily watch live streaming and on-demand videos and create high quality videos.",
+            "Domain": [
+                "app-tv.kakao.com",
+                "play-tv.kakao.com",
+                "stats-tv.kakao.com",
+                "tv.kakao.com"
+            ]
+        },
+        {
+            "Name": "Kick",
+            "Vendor": "Kick",
+            "Description": "Kick.com is a live-streaming platform hosting all types of entertainment content and broadcasts.",
+            "Domain": [
+                "*.kick.com",
+                "video-weaver.sjc06.hls.live-video.net"
+            ]
+        },
+        {
+            "Name": "KweliTV",
+            "Vendor": "kweliTV",
+            "Description": "kweliTV is a black-owned streaming service that offers a range of TV shows, movies, anime, and documentaries, including award-winning content.",
+            "Domain": [
+                "*.kweli.tv"
+            ]
+        },
+        {
+            "Name": "MGM+",
+            "Vendor": "Amazon",
+            "Description": "MGM+ is a premium cable and satellite television network consisting of recent and older theatrically released motion pictures, original television series, documentaries, and music and comedy specials.",
+            "Domain": [
+                "*.mgmplus.com",
+                "epixhls.akamaized.net"
+            ]
+        },
+        {
+            "Name": "Mubi",
+            "Vendor": "Mubi",
+            "Description": "Mubi is a global streaming platform, production company and film distributor.",
+            "Domain": [
+                "*.mubi.com",
+                "*.mubicdn.net"
+            ]
+        },
+        {
+            "Name": "Music Choice",
+            "Vendor": "Music Choice",
+            "Description": "Music Choice is an American television music service that digitally broadcasts audio-based music channels and video-related content to cable television providers in the United Stat",
+            "Domain": [
+                "*.musicchoice.com"
+            ]
+        },
+        {
+            "Name": "myTuner",
+            "Vendor": "Appgeneration Software",
+            "Description": "myTuner Radio is an Internet radio platform that offers users the ability to listen to the streaming audio of more than 50,000 radio stations of 200 countries.",
+            "Domain": [
+                "*.mytuner-radio.com"
+            ]
+        },
+        {
+            "Name": "Napster",
+            "Vendor": "Hivemind Capital Partners",
+            "Description": "Napster offers interactive music experiences, creating better ways to discover, share, acquire and enjoy the universe of music",
+            "Domain": [
+                "*.napster.com"
+            ]
+        },
+        {
+            "Name": "Naver TV",
+            "Vendor": "NAVER",
+            "Description": "Naver TV is an online video streaming and video sharing service.",
+            "Domain": [
+                "*.tv.naver.com",
+                "naver-channela-h.smartmediarep.com"
+            ]
+        },
+        {
+            "Name": "NBC",
+            "Vendor": "NBCUniversal Media",
+            "Description": "The National Broadcasting Company (NBC) is an American commercial broadcast television and radio network serving.",
+            "Domain": [
+                "*.nbc.com",
+                "nbcume.hb.omtrdc.net"
+            ]
+        },
+        {
+            "Name": "Netflix",
+            "Vendor": "Netflix",
+            "Description": "Netflix is a subscription-based streaming service that allows their members to watch TV shows and movies without commercials on an internet-connected device.",
+            "Domain": [
+                "*.hibana-netflix.jp",
+                "*.netflix.ac",
+                "*.netflix.ad",
+                "*.netflix.ae",
+                "*.netflix.af",
+                "*.netflix.ag",
+                "*.netflix.ai",
+                "*.netflix.al",
+                "*.netflix.am",
+                "*.netflix.ar",
+                "*.netflix.as",
+                "*.netflix.at",
+                "*.netflix.ax",
+                "*.netflix.az",
+                "*.netflix.ba",
+                "*.netflix.be",
+                "*.netflix.bg",
+                "*.netflix.bi",
+                "*.netflix.bo",
+                "*.netflix.bs",
+                "*.netflix.bt",
+                "*.netflix.by",
+                "*.netflix.bz",
+                "*.netflix.ca",
+                "*.netflix.cf",
+                "*.netflix.cg",
+                "*.netflix.ch",
+                "*.netflix.ci",
+                "*.netflix.cl",
+                "*.netflix.cm",
+                "*.netflix.cn",
+                "*.netflix.co",
+                "*.netflix.com",
+                "*.netflix.cr",
+                "*.netflix.cu",
+                "*.netflix.cx",
+                "*.netflix.cz",
+                "*.netflix.de",
+                "*.netflix.dj",
+                "*.netflix.dk",
+                "*.netflix.dm",
+                "*.netflix.do",
+                "*.netflix.ec",
+                "*.netflix.ee",
+                "*.netflix.es",
+                "*.netflix.eu",
+                "*.netflix.fi",
+                "*.netflix.fm",
+                "*.netflix.fo",
+                "*.netflix.fr",
+                "*.netflix.ga",
+                "*.netflix.gd",
+                "*.netflix.ge",
+                "*.netflix.gf",
+                "*.netflix.gg",
+                "*.netflix.gl",
+                "*.netflix.gm",
+                "*.netflix.gp",
+                "*.netflix.gq",
+                "*.netflix.gr",
+                "*.netflix.gs",
+                "*.netflix.gt",
+                "*.netflix.gy",
+                "*.netflix.hk",
+                "*.netflix.hm",
+                "*.netflix.hn",
+                "*.netflix.ht",
+                "*.netflix.hu",
+                "*.netflix.id",
+                "*.netflix.im",
+                "*.netflix.in",
+                "*.netflix.io",
+                "*.netflix.is",
+                "*.netflix.it",
+                "*.netflix.je",
+                "*.netflix.jo",
+                "*.netflix.jp",
+                "*.netflix.ke",
+                "*.netflix.kg",
+                "*.netflix.ki",
+                "*.netflix.kn",
+                "*.netflix.kr",
+                "*.netflix.ky",
+                "*.netflix.kz",
+                "*.netflix.la",
+                "*.netflix.lc",
+                "*.netflix.li",
+                "*.netflix.lk",
+                "*.netflix.lt",
+                "*.netflix.lu",
+                "*.netflix.ly",
+                "*.netflix.ma",
+                "*.netflix.md",
+                "*.netflix.mg",
+                "*.netflix.mk",
+                "*.netflix.ml",
+                "*.netflix.mn",
+                "*.netflix.mp",
+                "*.netflix.mq",
+                "*.netflix.ms",
+                "*.netflix.mu",
+                "*.netflix.mw",
+                "*.netflix.mx",
+                "*.netflix.my",
+                "*.netflix.na",
+                "*.netflix.net",
+                "*.netflix.nf",
+                "*.netflix.ni",
+                "*.netflix.nl",
+                "*.netflix.no",
+                "*.netflix.nr",
+                "*.netflix.nu",
+                "*.netflix.nz",
+                "*.netflix.om",
+                "*.netflix.pa",
+                "*.netflix.pe",
+                "*.netflix.ph",
+                "*.netflix.pk",
+                "*.netflix.pl",
+                "*.netflix.pn",
+                "*.netflix.pr",
+                "*.netflix.ps",
+                "*.netflix.pt",
+                "*.netflix.qa",
+                "*.netflix.re",
+                "*.netflix.ro",
+                "*.netflix.rs",
+                "*.netflix.ru",
+                "*.netflix.rw",
+                "*.netflix.sb",
+                "*.netflix.sc",
+                "*.netflix.se",
+                "*.netflix.sg",
+                "*.netflix.sh",
+                "*.netflix.si",
+                "*.netflix.sk",
+                "*.netflix.sl",
+                "*.netflix.sm",
+                "*.netflix.sn",
+                "*.netflix.sr",
+                "*.netflix.st",
+                "*.netflix.sv",
+                "*.netflix.sx",
+                "*.netflix.tc",
+                "*.netflix.tg",
+                "*.netflix.tj",
+                "*.netflix.tk",
+                "*.netflix.tl",
+                "*.netflix.tm",
+                "*.netflix.tn",
+                "*.netflix.to",
+                "*.netflix.tt",
+                "*.netflix.tv",
+                "*.netflix.tw",
+                "*.netflix.ua",
+                "*.netflix.ug",
+                "*.netflix.uk",
+                "*.netflix.us",
+                "*.netflix.uz",
+                "*.netflix.vc",
+                "*.netflix.vg",
+                "*.netflix.vn",
+                "*.netflix.vu",
+                "*.netflix.ws",
+                "*.netflixdnstest1.com",
+                "*.netflixdnstest10.com",
+                "*.netflixdnstest2.com",
+                "*.netflixdnstest3.com",
+                "*.netflixdnstest4.com",
+                "*.netflixdnstest5.com",
+                "*.netflixdnstest6.com",
+                "*.netflixdnstest7.com",
+                "*.netflixdnstest8.com",
+                "*.netflixdnstest9.com",
+                "*.netflixstudios.com",
+                "*.nflx.io",
+                "*.nflxext.com",
+                "*.nflximg.com",
+                "*.nflximg.net",
+                "*.nflxsearch.net",
+                "*.nflxso.net",
+                "*.nflxvideo.net"
+            ]
+        },
+        {
+            "Name": "NRK TV",
+            "Vendor": "NRK",
+            "Description": "NRK TV is a streaming service and online television platform",
+            "Domain": [
+                "*.tv.nrk.no",
+                "nrk-od-world-03.akamaized.net"
+            ]
+        },
+        {
+            "Name": "Pandora",
+            "Vendor": "Pandora Media",
+            "Description": "Pandora is an American subscription-based music streaming service, providing a highly-personalized listening experience to users.",
+            "Domain": [
+                "*.pandora.com"
+            ]
+        },
+        {
+            "Name": "Paramount+",
+            "Vendor": "Paramount",
+            "Description": "Paramount+ is a streaming service that streams Movies, Documentaries, Shows etc.",
+            "Domain": [
+                "*.paramountplus.com",
+                "*.paramountplus.com.au"
+            ]
+        },
+        {
+            "Name": "Patari",
+            "Vendor": "Patari",
+            "Description": "Patari provides Pakistani music and is known as the largest local music streaming service in Pakistan",
+            "Domain": [
+                "*.patari.pk"
+            ]
+        },
+        {
+            "Name": "PBS",
+            "Vendor": "PBS",
+            "Description": "The Public Broadcasting Service (PBS) is an American public broadcaster and non-commercial, free-to-air television network.",
+            "Domain": [
+                "*.pbs.org",
+                "*.publicmediasignin.org"
+            ]
+        },
+        {
+            "Name": "Peacock",
+            "Vendor": "Comcast",
+            "Description": "Peacock is an American over-the-top video streaming service.",
+            "Domain": [
+                "*.peacock.com",
+                "*.peacocktv.com"
+            ]
+        },
+        {
+            "Name": "Philo",
+            "Vendor": "Philo",
+            "Description": "Philo (formerly Tivli) is an American internet television company",
+            "Domain": [
+                "*.philo.com"
+            ]
+        },
+        {
+            "Name": "Pilipinas Live",
+            "Vendor": "Cignal TV",
+            "Description": "Pilipinas Live is a subscription-based over-the-top streaming platform",
+            "Domain": [
+                "*.pilipinaslive.com"
+            ]
+        },
+        {
+            "Name": "Plex",
+            "Vendor": "Plex",
+            "Description": "Plex is a globally available one-stop-shop streaming media service offering free movies and TV shows and free-to-stream live TV channels.",
+            "Domain": [
+                "*.plex.tv",
+                "*.plex.wurl.tv",
+                "*.plexvideos.com"
+            ]
+        },
+        {
+            "Name": "Pluto TV",
+            "Vendor": "Paramount",
+            "Description": "Pluto TV is a free streaming service with many channels that offers the ability to watch movies, live programming, and even your favorite television shows freely.",
+            "Domain": [
+                "*.pluto.tv",
+                "*.plutotv.com",
+                "*.plutotv.net"
+            ]
+        },
+        {
+            "Name": "Popcornflix",
+            "Vendor": "Chicken Soup for the Soul",
+            "Description": "Popcornflix is a website and over-the-top (OTT) service offering free ad-supported streaming video.",
+            "Domain": [
+                "*.popcornflix.com",
+                "popcornflix-prod-cdn.cloud.seachange.com"
+            ]
+        },
+        {
+            "Name": "Qobuz",
+            "Vendor": "Xandrie SA",
+            "Description": "Qobuz is an online music service that offers streaming subscriptions and pay-as-you-go downloads.",
+            "Domain": [
+                "*.qobuz.com"
+            ]
+        },
+        {
+            "Name": "Roku",
+            "Vendor": "Roku",
+            "Description": "Roku is a digital media players that allows user to watch free and paid video content on their TV via the Internet.",
+            "Domain": [
+                "*.roku.com",
+                "*.rokulabs.com"
+            ]
+        },
+        {
+            "Name": "ROXi",
+            "Vendor": "ROXi",
+            "Description": "ROXi is a free TV Music App bringing friends and family together to enjoy unlimited music videos, karaoke and games",
+            "Domain": [
+                "*.roxi.tv"
+            ]
+        },
+        {
+            "Name": "RTP Play",
+            "Vendor": "RTP",
+            "Description": "RTP is a public service broadcasting organisation operating four national television channels and three national radio stations, as well as several satellite and cable offerings.",
+            "Domain": [
+                "*.rtp.pt"
+            ]
+        },
+        {
+            "Name": "Rumble",
+            "Vendor": "Rumble",
+            "Description": "Rumble is an online video platform where users can stream and upload videos for entertainment.",
+            "Domain": [
+                "*.rmbl.ws",
+                "*.rumble.com"
+            ]
+        },
+        {
+            "Name": "SBS On Demand",
+            "Vendor": "Special Broadcasting Service",
+            "Description": "SBS On Demand provides on-demand access to almost all the TV programs that are broadcast on the SBS's linear broadcast channels.",
+            "Domain": [
+                "*.sbs.com.au"
+            ]
+        },
+        {
+            "Name": "SHOWTIME",
+            "Vendor": "Paramount",
+            "Description": "A Showtime subscription offers live broadcasts as content airs in real-time.",
+            "Domain": [
+                "*.sho.com",
+                "*.showtime.ca",
+                "*.showtime.com",
+                "*.showtime.com.au",
+                "*.showtime.net",
+                "bcboltshowtime1-a.akamaized.net"
+            ]
+        },
+        {
+            "Name": "SiriusXM",
+            "Vendor": "Sirius XM Radio",
+            "Description": "SiriusXM Satellite Radio is a subscription service that features a larger variety of programming than traditional radio, as well as clearer reception.",
+            "Domain": [
+                "*.siriusxm.com",
+                "*.xmradio.com",
+                "siriusxm-priprodlive.akamaized.net"
+            ]
+        },
+        {
+            "Name": "Sky Go",
+            "Vendor": "Sky UK Limited",
+            "Description": "Sky Go is a streaming television service provided free for Sky TV subscribers in the United Kingdom and Ireland.",
+            "Domain": [
+                "*.sky.com"
+            ]
+        },
+        {
+            "Name": "Sling TV",
+            "Vendor": "Sling",
+            "Description": "Sling TV is a service that livestreams news, live sports, and other TV shows from the Internet.",
+            "Domain": [
+                "*.sling.com",
+                "*.sling.tv"
+            ]
+        },
+        {
+            "Name": "Somm TV",
+            "Vendor": "Forgotten Man Films",
+            "Description": "Somm tv is a food and wine streaming network that provides documentary, series of wineries, and restaurateurs.",
+            "Domain": [
+                "*.sommtv.com"
+            ]
+        },
+        {
+            "Name": "SonyLIV",
+            "Vendor": "Sony Pictures Networks",
+            "Description": "SonyLIV is an Indian subscription video-on-demand over-the-top streaming service",
+            "Domain": [
+                "*.sonyliv.com"
+            ]
+        },
+        {
+            "Name": "SoundCloud",
+            "Vendor": "SoundCloud",
+            "Description": "SoundCloud is a social sound platform for people to discover and enjoy music.",
+            "Domain": [
+                "*.sndcdn.com",
+                "*.soundcloud.app.goo.gl",
+                "*.soundcloud.com",
+                "*.soundcloudmail.com"
+            ]
+        },
+        {
+            "Name": "Spotify",
+            "Vendor": "Spotify",
+            "Description": "A provider of music streaming and media services",
+            "Domain": [
+                "*.spotify.ai",
+                "*.spotify.biz",
+                "*.spotify.cl",
+                "*.spotify.cn",
+                "*.spotify.co",
+                "*.spotify.com",
+                "*.spotify.io",
+                "*.spotify.jp",
+                "*.spotify.net",
+                "*.spotify.org",
+                "*.spotify.ph",
+                "*.spotify.uk",
+                "*.spotify.us",
+                "*.spotifycdn.com",
+                "audio-ak-spotify-com.akamaized.net"
+            ]
+        },
+        {
+            "Name": "Starz",
+            "Vendor": "Lionsgate",
+            "Description": "Starz is a streaming platform that offers entertainment in the form of blockbuster films, classic series, and original content.",
+            "Domain": [
+                "*.starz.ca",
+                "*.starz.com",
+                "*.starz.tv"
+            ]
+        },
+        {
+            "Name": "Stingray Music",
+            "Vendor": "Stingray",
+            "Description": "Stingray Music is a  multi-platform audio service that broadcasts continuous streaming music and other forms of audio on multiple channel feeds.",
+            "Domain": [
+                "*.galaxie.ca",
+                "*.stingray.com"
+            ]
+        },
+        {
+            "Name": "STV Player",
+            "Vendor": "STV Group",
+            "Description": "STV Player is a video on demand service and available free-of-charge across the UK, online, on mobile and on all major TV platforms.",
+            "Domain": [
+                "*.stv.tv"
+            ]
+        },
+        {
+            "Name": "The CW",
+            "Vendor": "Nexstar Media Group",
+            "Description": "The CW Network brings customers the way to have free TV full-length episodes and instantly go social by connecting to favorite CW shows.",
+            "Domain": [
+                "*.cwtv.com"
+            ]
+        },
+        {
+            "Name": "Tidal",
+            "Vendor": "Block",
+            "Description": "TIDAL is a music and entertainment platform that creates connects artists and fans, giving them exclusive access to high-profile content.",
+            "Domain": [
+                "*.tidal.com"
+            ]
+        },
+        {
+            "Name": "TikTok",
+            "Vendor": "ByteDance",
+            "Description": "TikTok is a short-form, video-sharing app that allows users to create and share 15-second videos, on any topic.",
+            "Domain": [
+                "*.douyin.com",
+                "*.muscdn.com",
+                "*.musical.ly",
+                "*.tiktok.com",
+                "*.tiktokcdn.com",
+                "*.tiktokv.com"
+            ]
+        },
+        {
+            "Name": "Tubi TV",
+            "Vendor": "Fox",
+            "Description": "Tubi is a free streaming service that offers a mix of on-demand content like TV series and movies and live streaming channels.",
+            "Domain": [
+                "*.tubi.com",
+                "*.tubi.io",
+                "*.tubi.tv",
+                "*.tubitv.com"
+            ]
+        },
+        {
+            "Name": "TuneIn",
+            "Vendor": "TuneIn",
+            "Description": "TuneIn is a global audio streaming service providing news, radio, sports, music, and podcasts",
+            "Domain": [
+                "*.tunein.com"
+            ]
+        },
+        {
+            "Name": "TVer",
+            "Vendor": "TVer",
+            "Description": "TVer is an  ad-supported video on demand service that offers a commercial TV distribution.",
+            "Domain": [
+                "*.tver.jp"
+            ]
+        },
+        {
+            "Name": "Twitch",
+            "Vendor": "Amazon",
+            "Description": "Twitch is a video live streaming service that focuses on video game live streaming, including broadcasts of esports competitions, in addition to offering music broadcasts, creative content.",
+            "Domain": [
+                "*.twitch.com",
+                "*.twitch.tv"
+            ]
+        },
+        {
+            "Name": "Vidgo",
+            "Vendor": "Vidgo",
+            "Description": "Vidgo is an American streaming television service that offer sports, news and general entertainment content as well as cloud-based digital video recorder and programming.",
+            "Domain": [
+                "*.vidgo.com"
+            ]
+        },
+        {
+            "Name": "Vidio",
+            "Vendor": "Emtek",
+            "Description": "Vidio is a video-sharing website that allows users to upload, watch, and share videos anytime and anywhere.",
+            "Domain": [
+                "*.vidio.com",
+                "token-media-vidio-com.vidiocdn.net"
+            ]
+        },
+        {
+            "Name": "Vimeo",
+            "Vendor": "Vimeo",
+            "Description": "Vimeo is an optimized online video streaming site that allows users to upload and promote their videos with a high degree of customization not found on competing sites.",
+            "Domain": [
+                "*.vimeo.com",
+                "*.vimeocdn.com"
+            ]
+        },
+        {
+            "Name": "Vudu",
+            "Vendor": "Fandango",
+            "Description": "Vudu is a digital video store and streaming service.",
+            "Domain": [
+                "*.vudu.com",
+                "ic-602d2400-03d3ca-4vuduavod.s.loris.llnwd.net"
+            ]
+        },
+        {
+            "Name": "Webex",
+            "Vendor": "Cisco",
+            "Description": "Cisco web conferencing and videoconferencing applications",
+            "Domain": [
+                "*.ciscospark.com",
+                "*.ciscosparkcontent.com",
+                "*.ciscowebex.com",
+                "*.ciscowebex.demdex.net",
+                "*.imi.chat",
+                "*.imimobile.com",
+                "*.wbx2.com",
+                "*.webex.ca",
+                "*.webex.co.in",
+                "*.webex.co.it",
+                "*.webex.co.jp",
+                "*.webex.co.kr",
+                "*.webex.co.nz",
+                "*.webex.co.uk",
+                "*.webex.com",
+                "*.webex.com.au",
+                "*.webex.com.br",
+                "*.webex.com.cn",
+                "*.webex.com.hk",
+                "*.webex.com.mx",
+                "*.webex.de",
+                "*.webex.es",
+                "*.webex.fr",
+                "*.webexapis.com",
+                "*.webexapps.com",
+                "*.webexconnect.com",
+                "*.webexcontent.com"
+            ]
+        },
+        {
+            "Name": "Xumo Play",
+            "Vendor": "Comcast",
+            "Description": "Xumo Play is an American over-the-top internet television service, it offers a free ad-supported streaming television (FAST) and advertising video on demand (AVOD) service",
+            "Domain": [
+                "*.play.xumo.com",
+                "*.xumo.tv"
+            ]
+        },
+        {
+            "Name": "YouTube",
+            "Vendor": "Google",
+            "Description": "An online video-sharing platform",
+            "Domain": [
+                "*.about.youtube",
+                "*.blog.youtube",
+                "*.googlevideo.com",
+                "*.gvt1.com",
+                "*.video.google.com",
+                "*.youtu.be",
+                "*.youtube-3rd-party.com",
+                "*.youtube-creatorcommunity.com",
+                "*.youtube-nocookie.com",
+                "*.youtube.ae",
+                "*.youtube.al",
+                "*.youtube.am",
+                "*.youtube.at",
+                "*.youtube.az",
+                "*.youtube.ba",
+                "*.youtube.be",
+                "*.youtube.bg",
+                "*.youtube.bh",
+                "*.youtube.bo",
+                "*.youtube.by",
+                "*.youtube.ca",
+                "*.youtube.cat",
+                "*.youtube.ch",
+                "*.youtube.cl",
+                "*.youtube.co",
+                "*.youtube.co.ae",
+                "*.youtube.co.at",
+                "*.youtube.co.cr",
+                "*.youtube.co.hu",
+                "*.youtube.co.id",
+                "*.youtube.co.il",
+                "*.youtube.co.in",
+                "*.youtube.co.jp",
+                "*.youtube.co.ke",
+                "*.youtube.co.kr",
+                "*.youtube.co.ma",
+                "*.youtube.co.nz",
+                "*.youtube.co.th",
+                "*.youtube.co.tz",
+                "*.youtube.co.ug",
+                "*.youtube.co.uk",
+                "*.youtube.co.ve",
+                "*.youtube.co.za",
+                "*.youtube.co.zw",
+                "*.youtube.com",
+                "*.youtube.com.ar",
+                "*.youtube.com.au",
+                "*.youtube.com.az",
+                "*.youtube.com.bd",
+                "*.youtube.com.bh",
+                "*.youtube.com.bo",
+                "*.youtube.com.br",
+                "*.youtube.com.by",
+                "*.youtube.com.co",
+                "*.youtube.com.do",
+                "*.youtube.com.ec",
+                "*.youtube.com.ee",
+                "*.youtube.com.eg",
+                "*.youtube.com.es",
+                "*.youtube.com.gh",
+                "*.youtube.com.gr",
+                "*.youtube.com.gt",
+                "*.youtube.com.hk",
+                "*.youtube.com.hn",
+                "*.youtube.com.hr",
+                "*.youtube.com.jm",
+                "*.youtube.com.jo",
+                "*.youtube.com.kw",
+                "*.youtube.com.lb",
+                "*.youtube.com.lv",
+                "*.youtube.com.ly",
+                "*.youtube.com.mk",
+                "*.youtube.com.mt",
+                "*.youtube.com.mx",
+                "*.youtube.com.my",
+                "*.youtube.com.ng",
+                "*.youtube.com.ni",
+                "*.youtube.com.om",
+                "*.youtube.com.pa",
+                "*.youtube.com.pe",
+                "*.youtube.com.ph",
+                "*.youtube.com.pk",
+                "*.youtube.com.pt",
+                "*.youtube.com.py",
+                "*.youtube.com.qa",
+                "*.youtube.com.ro",
+                "*.youtube.com.sa",
+                "*.youtube.com.sg",
+                "*.youtube.com.sv",
+                "*.youtube.com.tn",
+                "*.youtube.com.tr",
+                "*.youtube.com.tw",
+                "*.youtube.com.ua",
+                "*.youtube.com.uy",
+                "*.youtube.com.ve",
+                "*.youtube.cr",
+                "*.youtube.cz",
+                "*.youtube.de",
+                "*.youtube.dk",
+                "*.youtube.ee",
+                "*.youtube.es",
+                "*.youtube.fi",
+                "*.youtube.fr",
+                "*.youtube.ge",
+                "*.youtube.googleapis.com",
+                "*.youtube.gr",
+                "*.youtube.gt",
+                "*.youtube.hk",
+                "*.youtube.hr",
+                "*.youtube.hu",
+                "*.youtube.ie",
+                "*.youtube.in",
+                "*.youtube.iq",
+                "*.youtube.is",
+                "*.youtube.it",
+                "*.youtube.jo",
+                "*.youtube.jp",
+                "*.youtube.kr",
+                "*.youtube.kz",
+                "*.youtube.la",
+                "*.youtube.lk",
+                "*.youtube.lt",
+                "*.youtube.lu",
+                "*.youtube.lv",
+                "*.youtube.ly",
+                "*.youtube.ma",
+                "*.youtube.md",
+                "*.youtube.me",
+                "*.youtube.mk",
+                "*.youtube.mn",
+                "*.youtube.mx",
+                "*.youtube.my",
+                "*.youtube.ng",
+                "*.youtube.ni",
+                "*.youtube.nl",
+                "*.youtube.no",
+                "*.youtube.pa",
+                "*.youtube.pe",
+                "*.youtube.ph",
+                "*.youtube.pk",
+                "*.youtube.pl",
+                "*.youtube.pr",
+                "*.youtube.pt",
+                "*.youtube.qa",
+                "*.youtube.ro",
+                "*.youtube.rs",
+                "*.youtube.ru",
+                "*.youtube.sa",
+                "*.youtube.se",
+                "*.youtube.sg",
+                "*.youtube.si",
+                "*.youtube.sk",
+                "*.youtube.sn",
+                "*.youtube.soy",
+                "*.youtube.sv",
+                "*.youtube.tn",
+                "*.youtube.tv",
+                "*.youtube.ua",
+                "*.youtube.ug",
+                "*.youtube.uy",
+                "*.youtube.vn",
+                "*.youtubeeducation.com",
+                "*.youtubeembeddedplayer.googleapis.com",
+                "*.youtubei.googleapis.com",
+                "*.youtubekids.com",
+                "*.youtubemobilesupport.com",
+                "*.yt.be",
+                "*.yt3.ggpht.com",
+                "*.ytimg.com",
+                "*.ytkids.app.goo.gl",
+                "video.l.google.com",
+                "youtube-ui.l.google.com",
+                "yt-video-upload.l.google.com",
+                "ytimg.l.google.com"
+            ]
+        },
+        {
+            "Name": "Zattoo",
+            "Vendor": "Zattoo",
+            "Description": "Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices.",
+            "Domain": [
+                "*.magine.tv",
+                "*.zattic.com",
+                "*.zattoo-sports.de",
+                "*.zattoo-ssl.wemfbox.ch",
+                "*.zattoo.be",
+                "*.zattoo.ca",
+                "*.zattoo.ch",
+                "*.zattoo.co",
+                "*.zattoo.co.za",
+                "*.zattoo.com",
+                "*.zattoo.de",
+                "*.zattoo.es",
+                "*.zattoo.football",
+                "*.zattoo.fr",
+                "*.zattoo.info",
+                "*.zattoo.it",
+                "*.zattoo.net",
+                "*.zattoo.org",
+                "*.zattoo.ru",
+                "*.zattoo.tv",
+                "*.zattoo.us"
+            ]
+        },
+        {
+            "Name": "ZEE5",
+            "Vendor": "Zee Entertainment Enterprises",
+            "Description": "ZEE5 is an Indian subscription video on demand and streaming service.",
+            "Domain": [
+                "*.zee5.com"
+            ]
+        },
+        {
+            "Name": "Zoom",
+            "Vendor": "Zoom",
+            "Description": "Videotelephony and online chat services",
+            "Domain": [
+                "*.zoom.ada.support",
+                "*.zoom.com",
+                "*.zoom.com.cn",
+                "*.zoom.us",
+                "*.zoomapp.cloud",
+                "*.zoomonprem.com",
+                "zoom-general.s3.amazonaws.com"
+            ]
+        },
+        {
+            "Name": "Zoom for Government",
+            "Vendor": "Zoom",
+            "Description": "Video and web conferencing service authorized by FedRAMP.",
+            "Domain": [
+                "*.zoomgov.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1492 @@
+[2026-04-15 07:40:59.4139949 UTC-05:00] [696:13056] [fortitray  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 881s) 2026-04-15 07:40:59.411 type: 0x10f size: 512 memory: 0x0000000000000000
+[2026-04-15 07:40:59.4203247 UTC-05:00] [696:13056] [fortitray  420   debug] FortiTray.exe Version:7.4.5.1949
+[2026-04-15 07:40:59.4356110 UTC-05:00] [696:13056] [fortitray  349    info] lockdownEnabled=0
+[2026-04-15 07:41:30.4994758 UTC-05:00] [696:13056] [fortitray  757   debug] CFortiTrayApp::InitInstance() message pump becomes active
+[2026-04-15 07:41:30.5009762 UTC-05:00] [696:13056] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-15 07:41:30.5009824 UTC-05:00] [696:13056] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-15 07:41:30.6811978 UTC-05:00] [696:13056] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-15 07:41:31.1763061 UTC-05:00] [696:13056] [fortitray  735    info] ready event FC_{5514642D-71E3-4F7F-9380-E7BAE892BA7B}_1 ready to handle WM_ message.
+[2026-04-15 07:41:31.1763240 UTC-05:00] [696:13056] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-15 07:41:32.2543851 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:41:32.3447814 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848859, currentTime is 1776256892
+[2026-04-15 07:41:32.3473337 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:41:35.1710045 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:41:35.1745530 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848859, currentTime is 1776256895
+[2026-04-15 07:41:35.1767581 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:42:12.7143708 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:42:12.7606122 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848925, currentTime is 1776256932
+[2026-04-15 07:42:12.7651362 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:42:13.9945302 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:42:14.0005757 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848925, currentTime is 1776256933
+[2026-04-15 07:42:14.0180644 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:42:51.3052931 UTC-05:00] [696:13056] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-15 07:42:51.3098127 UTC-05:00] [696:13056] [fortitray  1492   debug] FortiTray Desktop window was not safely destroyed, destroy now
+[2026-04-15 07:42:51.3098231 UTC-05:00] [696:13056] [fortitray  3339   debug] CFortiTrayDlg::DestroyWindow
+[2026-04-15 07:42:51.3187465 UTC-05:00] [696:13056] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-15 07:42:51.3242928 UTC-05:00] [696:13056] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-15 07:42:52.5202447 UTC-05:00] [696:13056] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-15 07:42:55.3869952 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:42:55.3903858 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848925, currentTime is 1776256975
+[2026-04-15 07:42:55.3989403 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:43:09.4834907 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:43:10.0419261 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848925, currentTime is 1776256990
+[2026-04-15 07:43:10.0690972 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:43:16.0332279 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:43:16.0358608 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848991, currentTime is 1776256996
+[2026-04-15 07:43:16.0382207 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:44:12.2794266 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:44:12.3539703 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778848991, currentTime is 1776257052
+[2026-04-15 07:44:12.3669088 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:44:21.2733834 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:44:21.4672018 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849057, currentTime is 1776257061
+[2026-04-15 07:44:21.4698381 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:45:10.0942839 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:45:10.5086733 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849057, currentTime is 1776257110
+[2026-04-15 07:45:10.5335641 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:45:22.2607347 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:45:22.2652005 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849119, currentTime is 1776257122
+[2026-04-15 07:45:22.2678388 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:46:10.4463618 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:46:10.4507980 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849119, currentTime is 1776257170
+[2026-04-15 07:46:10.4534204 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:46:23.0170190 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:46:23.0243353 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849180, currentTime is 1776257183
+[2026-04-15 07:46:23.0278753 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:47:11.2886484 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:47:11.2941677 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849180, currentTime is 1776257231
+[2026-04-15 07:47:11.2965370 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:47:23.7861883 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:47:23.7916229 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849241, currentTime is 1776257243
+[2026-04-15 07:47:23.7936843 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:48:11.6857659 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:48:12.4534181 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849241, currentTime is 1776257292
+[2026-04-15 07:48:12.4661383 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:48:24.7712321 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:48:24.7764598 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849301, currentTime is 1776257304
+[2026-04-15 07:48:24.7794577 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:49:12.5066262 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:49:12.5109975 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849301, currentTime is 1776257352
+[2026-04-15 07:49:12.5142146 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:49:25.5264630 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:49:25.5299904 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849362, currentTime is 1776257365
+[2026-04-15 07:49:25.5326339 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:50:13.3388159 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:50:13.3435111 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849362, currentTime is 1776257413
+[2026-04-15 07:50:13.3461039 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:50:25.8737491 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:50:25.8782214 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849423, currentTime is 1776257425
+[2026-04-15 07:50:25.8807634 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:51:14.2735025 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:51:14.2769941 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849423, currentTime is 1776257474
+[2026-04-15 07:51:14.2798864 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:51:27.8326588 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:51:27.8372381 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849484, currentTime is 1776257487
+[2026-04-15 07:51:27.8397589 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:52:14.7326093 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:52:14.7363116 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849484, currentTime is 1776257534
+[2026-04-15 07:52:14.7380956 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:52:28.8411280 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:52:28.8452931 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849546, currentTime is 1776257548
+[2026-04-15 07:52:28.8474396 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:53:14.6367470 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:53:14.6407864 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849546, currentTime is 1776257594
+[2026-04-15 07:53:14.6430655 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:53:29.7951873 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:53:29.8004076 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849607, currentTime is 1776257609
+[2026-04-15 07:53:29.8042308 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:54:15.7782787 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:54:15.7813143 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849607, currentTime is 1776257655
+[2026-04-15 07:54:15.7828647 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:54:30.4343378 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:54:30.4378148 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849667, currentTime is 1776257670
+[2026-04-15 07:54:30.4408448 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:55:16.2265898 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:55:16.2294671 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849667, currentTime is 1776257716
+[2026-04-15 07:55:16.2310051 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:55:30.7909040 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:55:30.7951044 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849728, currentTime is 1776257730
+[2026-04-15 07:55:30.7971333 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:56:16.6967891 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:56:16.7005448 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849728, currentTime is 1776257776
+[2026-04-15 07:56:16.7096743 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:56:31.2895228 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:56:31.2927079 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849788, currentTime is 1776257791
+[2026-04-15 07:56:31.2946543 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:57:17.5774212 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:57:17.5808579 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849788, currentTime is 1776257837
+[2026-04-15 07:57:17.5826535 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:57:31.7264304 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:57:31.7304296 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849849, currentTime is 1776257851
+[2026-04-15 07:57:31.7323701 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:58:17.9609554 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:58:17.9651227 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849849, currentTime is 1776257897
+[2026-04-15 07:58:17.9677441 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:58:32.5371496 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:58:32.5410998 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849910, currentTime is 1776257912
+[2026-04-15 07:58:32.5430230 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:59:18.8845959 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:59:18.8892746 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849910, currentTime is 1776257958
+[2026-04-15 07:59:18.8917787 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 07:59:33.4758541 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 07:59:33.4797107 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849970, currentTime is 1776257973
+[2026-04-15 07:59:33.4819289 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:00:19.7122157 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:00:19.7161900 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778849970, currentTime is 1776258019
+[2026-04-15 08:00:19.7190823 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:00:34.3720552 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:00:34.3760438 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850032, currentTime is 1776258034
+[2026-04-15 08:00:34.3789255 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:01:20.5608692 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:01:20.5645420 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850032, currentTime is 1776258080
+[2026-04-15 08:01:20.5664660 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:01:25.6394280 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:01:25.6418577 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850032, currentTime is 1776258085
+[2026-04-15 08:01:25.6438760 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:01:27.6439769 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:01:27.6463813 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850032, currentTime is 1776258087
+[2026-04-15 08:01:27.6499418 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:01:35.1728014 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:01:35.1766953 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850092, currentTime is 1776258095
+[2026-04-15 08:01:35.1810477 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:02:20.9719036 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:02:20.9754052 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850092, currentTime is 1776258140
+[2026-04-15 08:02:20.9771371 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:02:35.5708912 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:02:35.5745007 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850153, currentTime is 1776258155
+[2026-04-15 08:02:35.5782704 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:03:21.4498822 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:03:21.4534399 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850153, currentTime is 1776258201
+[2026-04-15 08:03:21.4549739 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:03:35.5717112 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:03:35.5754085 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850213, currentTime is 1776258215
+[2026-04-15 08:03:35.5781874 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:04:21.9995028 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:04:22.0025162 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850213, currentTime is 1776258262
+[2026-04-15 08:04:22.0039539 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:04:36.1032557 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:04:36.1061422 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850273, currentTime is 1776258276
+[2026-04-15 08:04:36.1075048 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:05:21.9562069 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:05:21.9600661 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850273, currentTime is 1776258321
+[2026-04-15 08:05:21.9619961 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:05:37.1274702 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:05:37.1322880 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850334, currentTime is 1776258337
+[2026-04-15 08:05:37.1354296 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:06:23.0676663 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:06:23.0709615 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850334, currentTime is 1776258383
+[2026-04-15 08:06:23.0726370 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:06:37.5912602 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:06:37.5943791 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850395, currentTime is 1776258397
+[2026-04-15 08:06:37.5957786 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:07:23.5126954 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:07:23.5156135 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850395, currentTime is 1776258443
+[2026-04-15 08:07:23.5169006 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:07:37.5693136 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:07:37.5732344 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850455, currentTime is 1776258457
+[2026-04-15 08:07:37.5754633 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:08:24.6456191 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:08:24.6486808 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850455, currentTime is 1776258504
+[2026-04-15 08:08:24.6500360 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:08:38.2791532 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:08:38.2819691 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850515, currentTime is 1776258518
+[2026-04-15 08:08:38.2832698 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:09:24.2108191 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:09:24.2135754 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850515, currentTime is 1776258564
+[2026-04-15 08:09:24.2148753 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:09:38.2957592 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:09:38.2995282 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850576, currentTime is 1776258578
+[2026-04-15 08:09:38.3018257 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:10:24.7367276 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:10:24.7394684 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850576, currentTime is 1776258624
+[2026-04-15 08:10:24.7406254 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:10:38.8742222 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:10:38.8774142 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850636, currentTime is 1776258638
+[2026-04-15 08:10:38.8786538 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:11:24.8087508 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:11:24.8121399 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850636, currentTime is 1776258684
+[2026-04-15 08:11:24.8146406 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:11:39.3801649 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:11:39.3830053 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850696, currentTime is 1776258699
+[2026-04-15 08:11:39.3842191 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:12:25.2095816 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:12:25.2133001 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850696, currentTime is 1776258745
+[2026-04-15 08:12:25.2214318 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:12:39.7963906 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:12:39.8002219 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850757, currentTime is 1776258759
+[2026-04-15 08:12:39.8022090 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:13:25.6774377 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:13:25.6814371 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850757, currentTime is 1776258805
+[2026-04-15 08:13:25.6836116 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:13:39.7524621 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:13:39.7553845 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850817, currentTime is 1776258819
+[2026-04-15 08:13:39.7567117 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:14:26.0944169 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:14:26.1057013 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850817, currentTime is 1776258866
+[2026-04-15 08:14:26.1076940 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:14:40.1671683 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:14:40.1704863 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850877, currentTime is 1776258880
+[2026-04-15 08:14:40.1717747 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:15:26.4014465 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:15:26.4042673 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850877, currentTime is 1776258926
+[2026-04-15 08:15:26.4057408 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:15:40.4712309 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:15:40.4742209 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850938, currentTime is 1776258940
+[2026-04-15 08:15:40.4756652 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:16:26.6393937 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:16:26.6424975 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850938, currentTime is 1776258986
+[2026-04-15 08:16:26.6439677 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:16:40.7381291 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:16:40.7418959 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850998, currentTime is 1776259000
+[2026-04-15 08:16:40.7442180 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:17:27.1813293 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:17:27.1842827 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778850998, currentTime is 1776259047
+[2026-04-15 08:17:27.1856205 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:17:41.3968093 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:17:41.3996278 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851058, currentTime is 1776259061
+[2026-04-15 08:17:41.4008727 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:18:27.3274257 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:18:27.3302373 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851058, currentTime is 1776259107
+[2026-04-15 08:18:27.3314520 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:18:41.4583080 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:18:41.4609536 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851119, currentTime is 1776259121
+[2026-04-15 08:18:41.4621507 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:19:27.4162419 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:19:27.4197105 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851119, currentTime is 1776259167
+[2026-04-15 08:19:27.4219926 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:19:42.0238522 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:19:42.0266461 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851179, currentTime is 1776259182
+[2026-04-15 08:19:42.0279249 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:20:27.9361551 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:20:27.9391427 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851179, currentTime is 1776259227
+[2026-04-15 08:20:27.9404867 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:20:42.5168131 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:20:42.5196110 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851239, currentTime is 1776259242
+[2026-04-15 08:20:42.5208771 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:21:28.4633927 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:21:28.4672539 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851239, currentTime is 1776259288
+[2026-04-15 08:21:28.4685293 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:21:42.5770077 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:21:42.5798191 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851300, currentTime is 1776259302
+[2026-04-15 08:21:42.5811999 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:22:28.4222937 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:22:28.4267614 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851300, currentTime is 1776259348
+[2026-04-15 08:22:28.4293002 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:22:43.1097360 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:22:43.1128664 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851360, currentTime is 1776259363
+[2026-04-15 08:22:43.1144888 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:23:29.1345860 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:23:29.1376112 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851360, currentTime is 1776259409
+[2026-04-15 08:23:29.1390765 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:23:43.2808711 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:23:43.2837002 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851420, currentTime is 1776259423
+[2026-04-15 08:23:43.2849823 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:24:29.2538199 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:24:29.2569674 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851420, currentTime is 1776259469
+[2026-04-15 08:24:29.2582322 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:24:43.3738774 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:24:43.3777954 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851481, currentTime is 1776259483
+[2026-04-15 08:24:43.3803866 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:25:29.4190453 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:25:29.4218005 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851481, currentTime is 1776259529
+[2026-04-15 08:25:29.4230051 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:25:44.0298540 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:25:44.0330331 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851541, currentTime is 1776259544
+[2026-04-15 08:25:44.0344481 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:26:30.1596204 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:26:30.1634299 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851541, currentTime is 1776259590
+[2026-04-15 08:26:30.1655892 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:26:44.3240120 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:26:44.3276293 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851601, currentTime is 1776259604
+[2026-04-15 08:26:44.3290636 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:27:30.3934902 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:27:30.3965084 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851601, currentTime is 1776259650
+[2026-04-15 08:27:30.3978995 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:27:44.5003149 UTC-05:00] [696:13056] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:27:44.5035858 UTC-05:00] [696:13056] [fortitray  88    info] C() dwVPNExpirationTime is 1778851662, currentTime is 1776259664
+[2026-04-15 08:27:44.5079924 UTC-05:00] [696:13056] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:28:15.6496506 UTC-05:00] [13944:13948] [fortitray  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 3717s) 2026-04-15 08:28:15.646 type: 0x10f size: 512 memory: 0x0000000000000000
+[2026-04-15 08:28:15.6511088 UTC-05:00] [13944:13948] [fortitray  420   debug] FortiTray.exe Version:7.4.5.1949
+[2026-04-15 08:28:15.6727828 UTC-05:00] [13944:13948] [fortitray  349    info] lockdownEnabled=0
+[2026-04-15 08:28:46.0509600 UTC-05:00] [13944:13948] [fortitray  757   debug] CFortiTrayApp::InitInstance() message pump becomes active
+[2026-04-15 08:28:46.0522554 UTC-05:00] [13944:13948] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-15 08:28:46.0522604 UTC-05:00] [13944:13948] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-15 08:28:46.0633849 UTC-05:00] [13944:13948] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-15 08:28:46.1028143 UTC-05:00] [13944:13948] [fortitray  735    info] ready event FC_{5514642D-71E3-4F7F-9380-E7BAE892BA7B}_1 ready to handle WM_ message.
+[2026-04-15 08:28:46.1028276 UTC-05:00] [13944:13948] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-15 08:28:46.5984178 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:28:46.6282535 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851724, currentTime is 1776259726
+[2026-04-15 08:28:46.6303385 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:28:47.1062704 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:28:47.1081974 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851724, currentTime is 1776259727
+[2026-04-15 08:28:47.1096728 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:28:49.1071145 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:28:49.1098659 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851724, currentTime is 1776259729
+[2026-04-15 08:28:49.1110555 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:29:30.9003047 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:29:30.9037042 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851724, currentTime is 1776259770
+[2026-04-15 08:29:30.9055745 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:29:47.0486955 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:29:47.0527644 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851784, currentTime is 1776259787
+[2026-04-15 08:29:47.0565287 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:30:30.9479983 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:30:30.9520530 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851784, currentTime is 1776259830
+[2026-04-15 08:30:30.9543834 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:30:47.5839215 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:30:47.5869922 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851845, currentTime is 1776259847
+[2026-04-15 08:30:47.5884035 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:31:31.2980758 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:31:31.3013912 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851845, currentTime is 1776259891
+[2026-04-15 08:31:31.3029339 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:31:47.9665581 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:31:47.9705234 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851905, currentTime is 1776259907
+[2026-04-15 08:31:47.9720842 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:32:27.2738859 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:32:27.2768746 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851905, currentTime is 1776259947
+[2026-04-15 08:32:27.2787391 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:32:31.8425995 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:32:31.8462980 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851905, currentTime is 1776259951
+[2026-04-15 08:32:31.8475936 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:32:48.0510326 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:32:48.0540382 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851965, currentTime is 1776259968
+[2026-04-15 08:32:48.0554410 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:33:32.4073830 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:33:32.4097322 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851965, currentTime is 1776260012
+[2026-04-15 08:33:32.4107774 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:33:41.0373729 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:33:41.0406962 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851965, currentTime is 1776260021
+[2026-04-15 08:33:41.0424772 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:33:43.0466522 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:33:43.0487717 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778851965, currentTime is 1776260023
+[2026-04-15 08:33:43.0503003 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:33:50.1133361 UTC-05:00] [13944:13948] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 08:33:50.1170367 UTC-05:00] [13944:13948] [fortitray  88    info] C() dwVPNExpirationTime is 1778852027, currentTime is 1776260030
+[2026-04-15 08:33:50.1186220 UTC-05:00] [13944:13948] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 08:33:51.6613541 UTC-05:00] [13944:13948] [fortitray  1448   debug] DeamonDlgProc
+[2026-04-15 08:33:51.6613640 UTC-05:00] [13944:13948] [fortitray  3339   debug] CFortiTrayDlg::DestroyWindow
+[2026-04-15 08:33:51.7475162 UTC-05:00] [13944:13948] [fortitray  1418    info] trace stopped
+[2026-04-15 09:06:05.1395468 UTC-05:00] [6428:7220] [fortitray  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 1548s) 2026-04-15 09:06:05.133 type: 0x10f size: 512 memory: 0x0000000000000000
+[2026-04-15 09:06:05.1435058 UTC-05:00] [6428:7220] [fortitray  420   debug] FortiTray.exe Version:7.4.5.1949
+[2026-04-15 09:06:05.1529470 UTC-05:00] [6428:7220] [fortitray  349    info] lockdownEnabled=0
+[2026-04-15 09:06:31.6583475 UTC-05:00] [6428:7220] [fortitray  757   debug] CFortiTrayApp::InitInstance() message pump becomes active
+[2026-04-15 09:06:31.6613096 UTC-05:00] [6428:7220] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-15 09:06:31.6613190 UTC-05:00] [6428:7220] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-15 09:06:31.6854891 UTC-05:00] [6428:7220] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-15 09:06:33.0693446 UTC-05:00] [6428:7220] [fortitray  735    info] ready event FC_{5514642D-71E3-4F7F-9380-E7BAE892BA7B}_1 ready to handle WM_ message.
+[2026-04-15 09:06:33.0693671 UTC-05:00] [6428:7220] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-15 09:06:34.1083910 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:06:34.1647481 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778853968, currentTime is 1776261994
+[2026-04-15 09:06:34.1670030 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:06:38.7512857 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:06:38.7602307 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778853968, currentTime is 1776261998
+[2026-04-15 09:06:38.7645484 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:06:53.0589755 UTC-05:00] [6428:7220] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-15 09:06:53.0610778 UTC-05:00] [6428:7220] [fortitray  1492   debug] FortiTray Desktop window was not safely destroyed, destroy now
+[2026-04-15 09:06:53.0610877 UTC-05:00] [6428:7220] [fortitray  3339   debug] CFortiTrayDlg::DestroyWindow
+[2026-04-15 09:06:53.0680891 UTC-05:00] [6428:7220] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-15 09:06:53.0697097 UTC-05:00] [6428:7220] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-15 09:06:54.3049262 UTC-05:00] [6428:7220] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-15 09:06:56.5765047 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:06:56.5788251 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778853968, currentTime is 1776262016
+[2026-04-15 09:06:56.5809212 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:07:14.1252958 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:07:14.1287129 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854031, currentTime is 1776262034
+[2026-04-15 09:07:14.1309034 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:07:16.6266002 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:07:16.6290201 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854031, currentTime is 1776262036
+[2026-04-15 09:07:16.6308701 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:08:12.1822509 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:08:12.1859440 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854031, currentTime is 1776262092
+[2026-04-15 09:08:12.1882815 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:08:14.7203195 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:08:14.7234054 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854092, currentTime is 1776262094
+[2026-04-15 09:08:14.7264141 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:09:12.6355654 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:09:12.6400182 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854092, currentTime is 1776262152
+[2026-04-15 09:09:12.6427338 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:09:15.1565338 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:09:15.1590901 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854152, currentTime is 1776262155
+[2026-04-15 09:09:15.1618329 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:10:13.1006312 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:10:13.1046354 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854152, currentTime is 1776262213
+[2026-04-15 09:10:13.1068484 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:10:15.5985074 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:10:15.6012810 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854213, currentTime is 1776262215
+[2026-04-15 09:10:15.6037642 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:11:13.3808425 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:11:13.3848978 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854213, currentTime is 1776262273
+[2026-04-15 09:11:13.3875688 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:11:15.9100470 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:11:15.9132110 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854273, currentTime is 1776262275
+[2026-04-15 09:11:15.9171812 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:12:14.2619925 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:12:14.2656895 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854334, currentTime is 1776262334
+[2026-04-15 09:12:14.2750530 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 09:12:16.7882915 UTC-05:00] [6428:7220] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 09:12:16.7905319 UTC-05:00] [6428:7220] [fortitray  88    info] C() dwVPNExpirationTime is 1778854334, currentTime is 1776262336
+[2026-04-15 09:12:16.7922298 UTC-05:00] [6428:7220] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:22:24.9096766 UTC-05:00] [12232:8924] [fortitray  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 4117s) 2026-04-15 10:22:24.902 type: 0x10f size: 512 memory: 0x0000000000000000
+[2026-04-15 10:22:24.9105358 UTC-05:00] [12232:8924] [fortitray  420   debug] FortiTray.exe Version:7.4.5.1949
+[2026-04-15 10:22:24.9154699 UTC-05:00] [12232:8924] [fortitray  349    info] lockdownEnabled=0
+[2026-04-15 10:22:33.2142415 UTC-05:00] [12232:8924] [fortitray  757   debug] CFortiTrayApp::InitInstance() message pump becomes active
+[2026-04-15 10:22:33.2189788 UTC-05:00] [12232:8924] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-15 10:22:33.2189878 UTC-05:00] [12232:8924] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-15 10:22:33.2613241 UTC-05:00] [12232:8924] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-15 10:22:33.9684728 UTC-05:00] [12232:8924] [fortitray  735    info] ready event FC_{5514642D-71E3-4F7F-9380-E7BAE892BA7B}_1 ready to handle WM_ message.
+[2026-04-15 10:22:33.9684868 UTC-05:00] [12232:8924] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-15 10:22:34.5650438 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:22:34.5902717 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858547, currentTime is 1776266554
+[2026-04-15 10:22:34.5930710 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:22:37.8994289 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:22:37.9025004 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858547, currentTime is 1776266557
+[2026-04-15 10:22:37.9041234 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:22:39.9137100 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:22:40.0202648 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858547, currentTime is 1776266560
+[2026-04-15 10:22:40.0960086 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:22:54.4924619 UTC-05:00] [12232:8924] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-15 10:22:54.4958621 UTC-05:00] [12232:8924] [fortitray  1492   debug] FortiTray Desktop window was not safely destroyed, destroy now
+[2026-04-15 10:22:54.4958707 UTC-05:00] [12232:8924] [fortitray  3339   debug] CFortiTrayDlg::DestroyWindow
+[2026-04-15 10:22:54.5012061 UTC-05:00] [12232:8924] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-15 10:22:54.5047858 UTC-05:00] [12232:8924] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-15 10:22:55.8355947 UTC-05:00] [12232:8924] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-15 10:22:58.5225690 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:22:58.5277861 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858547, currentTime is 1776266578
+[2026-04-15 10:22:58.5306447 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:23:33.7983544 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:23:33.8027965 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858611, currentTime is 1776266613
+[2026-04-15 10:23:33.8056464 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:23:40.8873803 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:23:40.8913968 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858611, currentTime is 1776266620
+[2026-04-15 10:23:40.8938347 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:24:34.2228267 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:24:34.2270347 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858671, currentTime is 1776266674
+[2026-04-15 10:24:34.2294876 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:24:40.7828179 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:24:40.7863319 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858671, currentTime is 1776266680
+[2026-04-15 10:24:40.7886511 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:25:34.1815426 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:25:34.1849787 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858731, currentTime is 1776266734
+[2026-04-15 10:25:34.1870860 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:25:41.2156731 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:25:41.2194505 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858731, currentTime is 1776266741
+[2026-04-15 10:25:41.2219283 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:26:34.6101118 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:26:34.6127785 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858792, currentTime is 1776266794
+[2026-04-15 10:26:34.6139240 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:26:41.6621296 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:26:41.6646016 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858792, currentTime is 1776266801
+[2026-04-15 10:26:41.6656098 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:27:34.7966798 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:27:34.7991721 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858852, currentTime is 1776266854
+[2026-04-15 10:27:34.8002276 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:27:41.8268860 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:27:41.8294703 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858852, currentTime is 1776266861
+[2026-04-15 10:27:41.8306222 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:28:34.9768796 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:28:34.9795283 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858912, currentTime is 1776266914
+[2026-04-15 10:28:34.9808055 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:28:42.0225084 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:28:42.0249537 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858912, currentTime is 1776266922
+[2026-04-15 10:28:42.0259486 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:29:35.4721393 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:29:35.4764107 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858973, currentTime is 1776266975
+[2026-04-15 10:29:35.4791359 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:29:42.4936620 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:29:42.4961484 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778858973, currentTime is 1776266982
+[2026-04-15 10:29:42.4972195 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:30:36.4763270 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:30:36.4790868 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859033, currentTime is 1776267036
+[2026-04-15 10:30:36.4803311 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:30:43.4923062 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:30:43.4963191 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859033, currentTime is 1776267043
+[2026-04-15 10:30:43.4977304 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:31:36.4159748 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:31:36.4185309 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859094, currentTime is 1776267096
+[2026-04-15 10:31:36.4195818 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:31:43.4900492 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:31:43.4929797 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859094, currentTime is 1776267103
+[2026-04-15 10:31:43.4946397 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:32:36.8363092 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:32:36.8404645 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859154, currentTime is 1776267156
+[2026-04-15 10:32:36.8422221 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:32:43.8799011 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:32:43.8822889 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859154, currentTime is 1776267163
+[2026-04-15 10:32:43.8833165 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:33:37.2402384 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:33:37.2429877 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859214, currentTime is 1776267217
+[2026-04-15 10:33:37.2442473 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:33:44.2940962 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:33:44.2965663 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859214, currentTime is 1776267224
+[2026-04-15 10:33:44.2975865 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:34:37.2772265 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:34:37.2800704 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859275, currentTime is 1776267277
+[2026-04-15 10:34:37.2813597 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:34:44.3127728 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:34:44.3153904 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859275, currentTime is 1776267284
+[2026-04-15 10:34:44.3167695 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:35:37.7532083 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:35:37.7569440 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859335, currentTime is 1776267337
+[2026-04-15 10:35:37.7595388 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:35:44.8673008 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:35:44.8696843 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859335, currentTime is 1776267344
+[2026-04-15 10:35:44.8706946 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:36:37.8792711 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:36:37.8818157 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859395, currentTime is 1776267397
+[2026-04-15 10:36:37.8830682 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:36:44.9341868 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:36:44.9367400 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859395, currentTime is 1776267404
+[2026-04-15 10:36:44.9378747 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:37:38.0688136 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:37:38.0731460 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859455, currentTime is 1776267458
+[2026-04-15 10:37:38.0758207 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:37:45.1599797 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:37:45.1617284 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859455, currentTime is 1776267465
+[2026-04-15 10:37:45.1630106 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:38:38.5765512 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:38:38.5789712 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859516, currentTime is 1776267518
+[2026-04-15 10:38:38.5799845 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:38:45.6710906 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:38:45.6727858 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859516, currentTime is 1776267525
+[2026-04-15 10:38:45.6738978 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:39:38.6615376 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:39:38.6639370 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859576, currentTime is 1776267578
+[2026-04-15 10:39:38.6650626 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:39:45.7362756 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:39:45.7380524 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859576, currentTime is 1776267585
+[2026-04-15 10:39:45.7393021 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:40:39.1680155 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:40:39.1704483 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859636, currentTime is 1776267639
+[2026-04-15 10:40:39.1714614 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:40:46.2307033 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:40:46.2323858 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859636, currentTime is 1776267646
+[2026-04-15 10:40:46.2334162 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:41:39.6568715 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:41:39.6593219 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859697, currentTime is 1776267699
+[2026-04-15 10:41:39.6604328 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:41:46.2048108 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:41:46.2063949 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859697, currentTime is 1776267706
+[2026-04-15 10:41:46.2076384 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:42:39.5194156 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:42:39.5234850 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859757, currentTime is 1776267759
+[2026-04-15 10:42:39.5260981 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:42:46.6063545 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:42:46.6081098 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859757, currentTime is 1776267766
+[2026-04-15 10:42:46.6093547 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:43:39.8572481 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:43:39.8597342 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859817, currentTime is 1776267819
+[2026-04-15 10:43:39.8607553 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:43:46.8642462 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:43:46.8666524 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859817, currentTime is 1776267826
+[2026-04-15 10:43:46.8685857 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:44:40.2764927 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:44:40.2789399 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859877, currentTime is 1776267880
+[2026-04-15 10:44:40.2799711 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:44:47.3185634 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:44:47.3201939 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859877, currentTime is 1776267887
+[2026-04-15 10:44:47.3213058 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:45:40.4459354 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:45:40.4490413 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859938, currentTime is 1776267940
+[2026-04-15 10:45:40.4506449 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:45:47.5040053 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:45:47.5057498 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859938, currentTime is 1776267947
+[2026-04-15 10:45:47.5068261 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:46:40.8945122 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:46:40.8970853 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859998, currentTime is 1776268000
+[2026-04-15 10:46:40.8982546 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:46:47.9190606 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:46:47.9215051 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778859998, currentTime is 1776268007
+[2026-04-15 10:46:47.9225242 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:47:41.3584506 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:47:41.3609157 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860058, currentTime is 1776268061
+[2026-04-15 10:47:41.3619397 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:47:47.9341238 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:47:47.9391280 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860058, currentTime is 1776268067
+[2026-04-15 10:47:47.9411861 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:48:41.2927060 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:48:41.2950132 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860119, currentTime is 1776268121
+[2026-04-15 10:48:41.2960210 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:48:48.3270770 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:48:48.3298164 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860119, currentTime is 1776268128
+[2026-04-15 10:48:48.3310065 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:49:41.7849534 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:49:41.7880193 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860179, currentTime is 1776268181
+[2026-04-15 10:49:41.7896126 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:49:48.8984520 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:49:48.9015454 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860179, currentTime is 1776268188
+[2026-04-15 10:49:48.9031620 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:50:41.7805740 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:50:41.7833322 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860239, currentTime is 1776268241
+[2026-04-15 10:50:41.7846268 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:50:48.8135837 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:50:48.8167081 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860239, currentTime is 1776268248
+[2026-04-15 10:50:48.8194620 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:51:42.2708243 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:51:42.2734444 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860299, currentTime is 1776268302
+[2026-04-15 10:51:42.2745353 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:51:49.3467511 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:51:49.3492507 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860299, currentTime is 1776268309
+[2026-04-15 10:51:49.3503798 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:52:42.4270890 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:52:42.4304765 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860360, currentTime is 1776268362
+[2026-04-15 10:52:42.4322292 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:52:49.5219652 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:52:49.5247865 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860360, currentTime is 1776268369
+[2026-04-15 10:52:49.5262675 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:53:43.2442150 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:53:43.2468689 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860420, currentTime is 1776268423
+[2026-04-15 10:53:43.2481402 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:53:49.8475887 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:53:49.8501381 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860420, currentTime is 1776268429
+[2026-04-15 10:53:49.8512441 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:54:43.5114718 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:54:43.5147399 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860480, currentTime is 1776268483
+[2026-04-15 10:54:43.5161976 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:54:50.0790461 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:54:50.0870452 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860480, currentTime is 1776268490
+[2026-04-15 10:54:50.0899266 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:55:43.4937825 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:55:43.4968499 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860541, currentTime is 1776268543
+[2026-04-15 10:55:43.4982470 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:55:50.5845774 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:55:50.5871303 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860541, currentTime is 1776268550
+[2026-04-15 10:55:50.5883110 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:56:03.1750324 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:56:03.1778893 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860541, currentTime is 1776268563
+[2026-04-15 10:56:03.1792724 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:56:05.2071802 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:56:05.2090487 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860541, currentTime is 1776268565
+[2026-04-15 10:56:05.2103895 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:56:44.0434200 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:56:44.0466454 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860601, currentTime is 1776268604
+[2026-04-15 10:56:44.0479820 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:56:51.1190928 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:56:51.1217273 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860601, currentTime is 1776268611
+[2026-04-15 10:56:51.1229008 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:57:44.4337845 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:57:44.4365825 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860661, currentTime is 1776268664
+[2026-04-15 10:57:44.4380168 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:57:51.0389225 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:57:51.0415338 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860661, currentTime is 1776268671
+[2026-04-15 10:57:51.0427267 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:58:44.7730811 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:58:44.7760159 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860722, currentTime is 1776268724
+[2026-04-15 10:58:44.7773247 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:58:51.2930474 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:59:44.8019418 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:59:44.8045461 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860782, currentTime is 1776268784
+[2026-04-15 10:59:44.8057227 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 10:59:51.8023459 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 10:59:51.8052963 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860782, currentTime is 1776268791
+[2026-04-15 10:59:51.8066163 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:00:45.3659962 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:00:45.3687378 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860842, currentTime is 1776268845
+[2026-04-15 11:00:45.3701187 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:00:51.9112534 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:00:51.9140319 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860842, currentTime is 1776268851
+[2026-04-15 11:00:51.9154294 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:01:45.1955457 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:01:45.1988490 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860903, currentTime is 1776268905
+[2026-04-15 11:01:45.2012609 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:01:52.2105734 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:01:52.2135205 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860903, currentTime is 1776268912
+[2026-04-15 11:01:52.2149065 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:02:45.8109746 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:02:45.8134643 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860963, currentTime is 1776268965
+[2026-04-15 11:02:45.8145775 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:02:52.8869387 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:02:52.8909029 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778860963, currentTime is 1776268972
+[2026-04-15 11:02:52.8930465 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:03:45.8922955 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:03:45.8952468 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861023, currentTime is 1776269025
+[2026-04-15 11:03:45.8970813 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:03:52.9064257 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:03:52.9093237 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861023, currentTime is 1776269032
+[2026-04-15 11:03:52.9108051 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:04:46.5138663 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:04:46.5164415 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861083, currentTime is 1776269086
+[2026-04-15 11:04:46.5174755 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:04:53.1362661 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:04:53.1391061 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861083, currentTime is 1776269093
+[2026-04-15 11:04:53.1404244 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:05:46.7607001 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:05:46.7635078 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861144, currentTime is 1776269146
+[2026-04-15 11:05:46.7649015 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:05:53.3348711 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:05:53.3383406 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861144, currentTime is 1776269153
+[2026-04-15 11:05:53.3403919 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:06:46.9006627 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:06:46.9038427 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861204, currentTime is 1776269206
+[2026-04-15 11:06:46.9052337 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:06:54.0019149 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:06:54.0047092 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861204, currentTime is 1776269214
+[2026-04-15 11:06:54.0060869 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:07:47.1174992 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:07:47.1202418 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861264, currentTime is 1776269267
+[2026-04-15 11:07:47.1217092 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:07:54.1784424 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:07:54.1811977 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861264, currentTime is 1776269274
+[2026-04-15 11:07:54.1825439 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:08:47.6762411 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:08:47.6823351 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861325, currentTime is 1776269327
+[2026-04-15 11:08:47.6888877 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:09:07.0354150 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:09:07.0434266 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861325, currentTime is 1776269347
+[2026-04-15 11:09:07.0517826 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:09:30.8410412 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:09:30.8504700 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861325, currentTime is 1776269370
+[2026-04-15 11:09:30.8577356 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-15 11:09:45.7606281 UTC-05:00] [12232:8924] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-15 11:09:45.7673818 UTC-05:00] [12232:8924] [fortitray  88    info] C() dwVPNExpirationTime is 1778861325, currentTime is 1776269385
+[2026-04-15 11:09:45.7709642 UTC-05:00] [12232:8924] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 07:49:33.3235409 UTC-05:00] [11948:10164] [fortitray  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 467s) 2026-04-17 07:49:33.311 type: 0x10f size: 512 memory: 0x0000000000000000
+[2026-04-17 07:49:33.3250707 UTC-05:00] [11948:10164] [fortitray  420   debug] FortiTray.exe Version:7.4.5.1949
+[2026-04-17 07:49:33.3363528 UTC-05:00] [11948:10164] [fortitray  349    info] lockdownEnabled=0
+[2026-04-17 07:49:46.3871207 UTC-05:00] [11948:10164] [fortitray  757   debug] CFortiTrayApp::InitInstance() message pump becomes active
+[2026-04-17 07:49:46.4497466 UTC-05:00] [11948:10164] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-17 07:49:46.4497543 UTC-05:00] [11948:10164] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-17 07:49:46.5929673 UTC-05:00] [11948:10164] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-17 07:49:48.5429270 UTC-05:00] [11948:10164] [fortitray  735    info] ready event FC_{5514642D-71E3-4F7F-9380-E7BAE892BA7B}_1 ready to handle WM_ message.
+[2026-04-17 07:49:48.5429436 UTC-05:00] [11948:10164] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-17 07:49:48.9512236 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 07:49:49.6125819 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022184, currentTime is 1776430189
+[2026-04-17 07:49:49.6149922 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 07:49:52.7454114 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 07:49:52.7495418 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022184, currentTime is 1776430192
+[2026-04-17 07:49:52.7547757 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 07:49:56.9335949 UTC-05:00] [11948:10164] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-17 07:49:56.9348465 UTC-05:00] [11948:10164] [fortitray  1492   debug] FortiTray Desktop window was not safely destroyed, destroy now
+[2026-04-17 07:49:56.9348538 UTC-05:00] [11948:10164] [fortitray  3339   debug] CFortiTrayDlg::DestroyWindow
+[2026-04-17 07:49:57.0380859 UTC-05:00] [11948:10164] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-17 07:49:57.1262639 UTC-05:00] [11948:10164] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-17 07:49:57.6099821 UTC-05:00] [11948:10164] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-17 07:50:00.1873012 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 07:50:00.1895267 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022184, currentTime is 1776430200
+[2026-04-17 07:50:00.1916722 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 07:50:38.3027552 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 07:50:38.3066453 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022184, currentTime is 1776430238
+[2026-04-17 07:50:38.3089260 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 07:50:47.8427249 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 07:50:47.9424580 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022245, currentTime is 1776430247
+[2026-04-17 07:50:47.9450961 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 07:51:39.1465859 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 07:51:39.1507500 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022245, currentTime is 1776430299
+[2026-04-17 07:51:39.1554965 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 07:51:48.7305412 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 07:51:48.7342613 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022306, currentTime is 1776430308
+[2026-04-17 07:51:48.7361553 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:02:16.9519544 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:02:17.8840430 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022306, currentTime is 1776434537
+[2026-04-17 09:02:17.8907446 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:02:22.0316404 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:02:22.0355793 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022306, currentTime is 1776434542
+[2026-04-17 09:02:22.0851119 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:03:41.1466989 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:03:42.3236504 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022306, currentTime is 1776434622
+[2026-04-17 09:03:42.3676062 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:03:43.1401468 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:03:43.1671782 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022306, currentTime is 1776434623
+[2026-04-17 09:03:43.1745200 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:03:46.1406723 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:03:46.1476296 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779022306, currentTime is 1776434626
+[2026-04-17 09:03:46.1518152 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:03:57.7172217 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:03:58.6469546 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026634, currentTime is 1776434638
+[2026-04-17 09:03:59.1324190 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:04:01.0914402 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:04:01.1205858 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026634, currentTime is 1776434641
+[2026-04-17 09:04:01.1362106 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:04:43.0907478 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:04:43.0976318 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026634, currentTime is 1776434683
+[2026-04-17 09:04:43.1009425 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:04:58.6875385 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:04:58.9471621 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026696, currentTime is 1776434698
+[2026-04-17 09:04:59.0020970 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:05:01.1883704 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:05:01.4010393 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026696, currentTime is 1776434701
+[2026-04-17 09:05:01.4043423 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:05:42.0483152 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:05:42.0553118 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026696, currentTime is 1776434742
+[2026-04-17 09:05:42.0574289 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:06:00.3106763 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:06:00.3194868 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026757, currentTime is 1776434760
+[2026-04-17 09:06:00.3249579 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:06:42.2043083 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:06:42.2082719 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026757, currentTime is 1776434802
+[2026-04-17 09:06:42.2103562 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:07:00.7823853 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:07:00.7857921 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026818, currentTime is 1776434820
+[2026-04-17 09:07:00.7884729 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:07:42.4917129 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:07:42.4954222 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026818, currentTime is 1776434862
+[2026-04-17 09:07:42.4974604 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:07:57.5593729 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:07:57.5635534 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026818, currentTime is 1776434877
+[2026-04-17 09:07:57.5665905 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:08:00.5651394 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:08:00.5691706 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026877, currentTime is 1776434880
+[2026-04-17 09:08:00.5840497 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:08:03.5715190 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:08:03.5742394 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026877, currentTime is 1776434883
+[2026-04-17 09:08:03.5776617 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:08:44.3686226 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:08:44.3739495 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026877, currentTime is 1776434924
+[2026-04-17 09:08:44.3764094 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:09:00.9739788 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:09:00.9770544 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026938, currentTime is 1776434940
+[2026-04-17 09:09:00.9786374 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:09:44.2733908 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:09:44.2767962 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026938, currentTime is 1776434984
+[2026-04-17 09:09:44.2786522 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:10:00.6998004 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:10:00.7032164 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026998, currentTime is 1776435000
+[2026-04-17 09:10:00.7058142 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:10:44.4509683 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:10:44.4551733 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779026998, currentTime is 1776435044
+[2026-04-17 09:10:44.4583622 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:11:00.8909007 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:11:00.8948893 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027058, currentTime is 1776435060
+[2026-04-17 09:11:00.8969740 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:11:44.7744686 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:11:44.7784611 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027058, currentTime is 1776435104
+[2026-04-17 09:11:44.7804913 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:12:00.7369648 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:12:00.7533642 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027118, currentTime is 1776435120
+[2026-04-17 09:12:00.7556996 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:12:44.6226792 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:12:44.6266505 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027118, currentTime is 1776435164
+[2026-04-17 09:12:44.6287115 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:13:00.5581761 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:13:00.5621432 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027178, currentTime is 1776435180
+[2026-04-17 09:13:00.5645940 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:13:44.6767308 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:13:44.6806908 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027178, currentTime is 1776435224
+[2026-04-17 09:13:44.6824470 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:14:00.6235678 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:14:00.6268479 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027238, currentTime is 1776435240
+[2026-04-17 09:14:00.6280913 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:14:44.6792078 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:14:44.6826751 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027238, currentTime is 1776435284
+[2026-04-17 09:14:44.6840806 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:15:00.8774605 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:15:00.8801160 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027298, currentTime is 1776435300
+[2026-04-17 09:15:00.8815054 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:15:07.8999884 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:15:07.9031706 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027298, currentTime is 1776435307
+[2026-04-17 09:15:07.9043856 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:15:09.9340941 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:15:09.9358076 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027298, currentTime is 1776435309
+[2026-04-17 09:15:09.9369883 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:15:11.9630520 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:15:11.9649754 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027298, currentTime is 1776435311
+[2026-04-17 09:15:11.9661973 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:15:44.8227636 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:15:44.8256295 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027298, currentTime is 1776435344
+[2026-04-17 09:15:44.8268087 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:16:01.5020494 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:16:01.5077723 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027359, currentTime is 1776435361
+[2026-04-17 09:16:01.5096810 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:16:45.8311709 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:16:45.8339178 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027359, currentTime is 1776435405
+[2026-04-17 09:16:45.8349549 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:17:02.0437939 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:17:02.0464165 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027419, currentTime is 1776435422
+[2026-04-17 09:17:02.0474659 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:17:46.0249994 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:17:46.0305598 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027419, currentTime is 1776435466
+[2026-04-17 09:17:46.0333776 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:18:02.2008982 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:18:02.2036611 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027479, currentTime is 1776435482
+[2026-04-17 09:18:02.2048734 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:18:46.3246166 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:18:46.3272811 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027479, currentTime is 1776435526
+[2026-04-17 09:18:46.3283132 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:19:02.9133519 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:19:02.9183465 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027540, currentTime is 1776435542
+[2026-04-17 09:19:02.9199230 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:19:46.8841089 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:19:46.8870118 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027540, currentTime is 1776435586
+[2026-04-17 09:19:46.8884357 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:20:03.0188082 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:20:03.0217907 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027600, currentTime is 1776435603
+[2026-04-17 09:20:03.0234108 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:20:46.9602282 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:20:46.9630465 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027600, currentTime is 1776435646
+[2026-04-17 09:20:46.9643257 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:21:03.2103037 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:21:03.2138007 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027661, currentTime is 1776435663
+[2026-04-17 09:21:03.2166531 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:21:47.6951813 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:21:47.6986553 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027661, currentTime is 1776435707
+[2026-04-17 09:21:47.7005484 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:22:03.8694655 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:22:03.8722954 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027721, currentTime is 1776435723
+[2026-04-17 09:22:03.8735652 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:22:47.8680855 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:22:47.8712512 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027721, currentTime is 1776435767
+[2026-04-17 09:22:47.8724141 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:23:04.0766500 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:23:04.0794876 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027781, currentTime is 1776435784
+[2026-04-17 09:23:04.0809117 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:23:48.0824169 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:23:48.0871991 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027781, currentTime is 1776435828
+[2026-04-17 09:23:48.0890255 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:24:04.2345480 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:24:04.2386095 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027842, currentTime is 1776435844
+[2026-04-17 09:24:04.2401503 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:24:48.5927617 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:24:48.5952710 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027842, currentTime is 1776435888
+[2026-04-17 09:24:48.5962911 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:25:04.7883627 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:25:04.7911829 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027902, currentTime is 1776435904
+[2026-04-17 09:25:04.7923481 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:25:48.6589389 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:25:48.6616346 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027902, currentTime is 1776435948
+[2026-04-17 09:25:48.6627777 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:26:04.8532807 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:26:04.8558497 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027962, currentTime is 1776435964
+[2026-04-17 09:26:04.8571114 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:26:49.2458178 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:26:49.2491192 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779027962, currentTime is 1776436009
+[2026-04-17 09:26:49.2503074 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:27:05.4929267 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:27:05.4958262 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028023, currentTime is 1776436025
+[2026-04-17 09:27:05.4970388 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:27:49.4164790 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:27:49.4194630 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028023, currentTime is 1776436069
+[2026-04-17 09:27:49.4208536 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:28:06.0983833 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:28:06.1021735 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028083, currentTime is 1776436086
+[2026-04-17 09:28:06.1033455 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:28:49.9982249 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:28:50.0029629 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028083, currentTime is 1776436129
+[2026-04-17 09:28:50.0043215 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:29:06.2254531 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:29:06.2287147 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028143, currentTime is 1776436146
+[2026-04-17 09:29:06.2314716 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:29:50.2679268 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:29:50.2735600 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028143, currentTime is 1776436190
+[2026-04-17 09:29:50.2758016 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:30:06.5190422 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:30:06.5247314 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028204, currentTime is 1776436206
+[2026-04-17 09:30:06.5265117 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:30:50.4486476 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:30:50.4518329 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028204, currentTime is 1776436250
+[2026-04-17 09:30:50.4540580 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:31:06.6678598 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:31:06.6728351 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028264, currentTime is 1776436266
+[2026-04-17 09:31:06.6747730 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:31:51.1123106 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:31:51.1148006 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028264, currentTime is 1776436311
+[2026-04-17 09:31:51.1158786 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:32:07.3253749 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:32:07.3285429 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028324, currentTime is 1776436327
+[2026-04-17 09:32:07.3296721 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:32:51.2506755 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:32:51.2549914 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028324, currentTime is 1776436371
+[2026-04-17 09:32:51.2604920 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:33:07.5194103 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:33:07.5256409 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028385, currentTime is 1776436387
+[2026-04-17 09:33:07.5280965 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:33:51.5579819 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:33:51.5618897 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028385, currentTime is 1776436431
+[2026-04-17 09:33:51.5631569 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:34:08.1734475 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:34:08.1798240 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028445, currentTime is 1776436448
+[2026-04-17 09:34:08.1814841 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:34:52.3239204 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:34:52.3321656 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028445, currentTime is 1776436492
+[2026-04-17 09:34:52.3336195 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:35:08.4598755 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:35:08.4625257 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028506, currentTime is 1776436508
+[2026-04-17 09:35:08.4636818 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:35:52.3420204 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:35:52.3450262 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028506, currentTime is 1776436552
+[2026-04-17 09:35:52.3462403 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:36:09.0259193 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:36:09.0317538 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028566, currentTime is 1776436569
+[2026-04-17 09:36:09.0333217 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:36:53.0066685 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:36:53.0094586 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028566, currentTime is 1776436613
+[2026-04-17 09:36:53.0106134 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:37:09.1963476 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:37:09.1991281 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028626, currentTime is 1776436629
+[2026-04-17 09:37:09.2003761 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:37:53.2169138 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:37:53.2195882 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028626, currentTime is 1776436673
+[2026-04-17 09:37:53.2207214 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:38:09.3547207 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:38:09.3573261 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028687, currentTime is 1776436689
+[2026-04-17 09:38:09.3584211 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:38:53.2358949 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:38:53.2386884 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028687, currentTime is 1776436733
+[2026-04-17 09:38:53.2400370 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:39:09.8165496 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:39:09.8199591 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028747, currentTime is 1776436749
+[2026-04-17 09:39:09.8219790 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:39:53.6684893 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:39:53.6711670 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028747, currentTime is 1776436793
+[2026-04-17 09:39:53.6722605 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:40:10.2857963 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:40:10.2883263 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028807, currentTime is 1776436810
+[2026-04-17 09:40:10.2893628 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:40:54.3285192 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:40:54.3343018 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028807, currentTime is 1776436854
+[2026-04-17 09:40:54.3402097 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:41:10.4277200 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:41:10.4303398 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028868, currentTime is 1776436870
+[2026-04-17 09:41:10.4314730 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:41:54.2447461 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:41:54.2473591 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028868, currentTime is 1776436914
+[2026-04-17 09:41:54.2484381 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:42:10.9216663 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:42:10.9247974 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028928, currentTime is 1776436930
+[2026-04-17 09:42:10.9260870 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:42:54.8419171 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:42:54.8445969 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028928, currentTime is 1776436974
+[2026-04-17 09:42:54.8457757 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:43:10.9964751 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:43:10.9992285 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028988, currentTime is 1776436990
+[2026-04-17 09:43:11.0002833 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:43:55.0784999 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:43:55.0837918 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779028988, currentTime is 1776437035
+[2026-04-17 09:43:55.0864684 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:44:11.8117929 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:44:11.8146086 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029049, currentTime is 1776437051
+[2026-04-17 09:44:11.8157564 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:44:55.6085990 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:44:55.6114304 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029049, currentTime is 1776437095
+[2026-04-17 09:44:55.6127294 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:45:12.1640590 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:45:12.1669171 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029109, currentTime is 1776437112
+[2026-04-17 09:45:12.1682781 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:45:56.1118756 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:45:56.1175205 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029109, currentTime is 1776437156
+[2026-04-17 09:45:56.1202215 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:46:12.2851285 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:46:12.2876148 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029170, currentTime is 1776437172
+[2026-04-17 09:46:12.2886335 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:46:56.6067692 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:46:56.6121305 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029170, currentTime is 1776437216
+[2026-04-17 09:46:56.6148083 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:47:12.7987051 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:47:12.8041082 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029230, currentTime is 1776437232
+[2026-04-17 09:47:12.8067949 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:47:56.7100101 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:47:56.7134123 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029230, currentTime is 1776437276
+[2026-04-17 09:47:56.7150357 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:48:12.8441845 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:48:12.8500269 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029290, currentTime is 1776437292
+[2026-04-17 09:48:12.8534305 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:48:57.4040438 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:48:57.4076920 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029290, currentTime is 1776437337
+[2026-04-17 09:48:57.4099687 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:49:13.5979906 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:49:13.6038331 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029351, currentTime is 1776437353
+[2026-04-17 09:49:13.6072254 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:49:57.4012360 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:49:57.4069441 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029351, currentTime is 1776437397
+[2026-04-17 09:49:57.4095142 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:54:25.4890182 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:54:25.4922497 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029351, currentTime is 1776437665
+[2026-04-17 09:54:25.4934973 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:54:27.4935712 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:54:27.4955713 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029351, currentTime is 1776437667
+[2026-04-17 09:54:27.4969195 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:54:45.7006339 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:54:45.7038571 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029351, currentTime is 1776437685
+[2026-04-17 09:54:45.7053854 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:55:26.0817617 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:55:26.0845426 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029723, currentTime is 1776437726
+[2026-04-17 09:55:26.0858019 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:55:28.1034623 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:55:28.1054442 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029723, currentTime is 1776437728
+[2026-04-17 09:55:28.1067512 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:55:46.2360580 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:55:46.2386395 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029723, currentTime is 1776437746
+[2026-04-17 09:55:46.2400265 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:56:26.6625101 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:56:26.6652426 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029784, currentTime is 1776437786
+[2026-04-17 09:56:26.6665314 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:56:46.7499415 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:56:46.7531457 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029784, currentTime is 1776437806
+[2026-04-17 09:56:46.7546137 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:57:26.9736123 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:57:26.9768609 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029844, currentTime is 1776437846
+[2026-04-17 09:57:26.9783973 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:57:47.0682798 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:57:47.0719310 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029844, currentTime is 1776437867
+[2026-04-17 09:57:47.0743162 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:58:27.3878306 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:58:27.3911467 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029904, currentTime is 1776437907
+[2026-04-17 09:58:27.3933247 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:58:47.1365555 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:58:47.1399915 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029904, currentTime is 1776437927
+[2026-04-17 09:58:47.1412661 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:59:27.4519323 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:59:27.4547823 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029965, currentTime is 1776437967
+[2026-04-17 09:59:27.4560558 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 09:59:47.5356397 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 09:59:47.5383796 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779029965, currentTime is 1776437987
+[2026-04-17 09:59:47.5400352 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:00:27.8733869 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:00:27.8771218 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030025, currentTime is 1776438027
+[2026-04-17 10:00:27.8802956 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:00:47.9893999 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:00:47.9919386 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030025, currentTime is 1776438047
+[2026-04-17 10:00:47.9931597 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:01:28.2188010 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:01:28.2216510 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030085, currentTime is 1776438088
+[2026-04-17 10:01:28.2229639 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:01:48.4306817 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:01:48.4334046 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030085, currentTime is 1776438108
+[2026-04-17 10:01:48.4345836 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:02:28.7066660 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:02:28.7097465 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030146, currentTime is 1776438148
+[2026-04-17 10:02:28.7117180 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:02:48.4094335 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:02:48.4119502 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030146, currentTime is 1776438168
+[2026-04-17 10:02:48.4129825 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:03:28.8233424 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:03:28.8258635 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030206, currentTime is 1776438208
+[2026-04-17 10:03:28.8268966 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:03:48.9554451 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:03:48.9583365 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030206, currentTime is 1776438228
+[2026-04-17 10:03:48.9598937 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:04:29.2998539 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:04:29.3030138 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030267, currentTime is 1776438269
+[2026-04-17 10:04:29.3045419 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:04:49.5802427 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:04:49.5828188 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030267, currentTime is 1776438289
+[2026-04-17 10:04:49.5842081 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:05:29.8326262 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:05:29.8360265 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030327, currentTime is 1776438329
+[2026-04-17 10:05:29.8376815 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:05:49.4997308 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:05:49.5024802 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030327, currentTime is 1776438349
+[2026-04-17 10:05:49.5037591 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:06:07.0333263 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:06:07.0361643 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030327, currentTime is 1776438367
+[2026-04-17 10:06:07.0372530 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:06:09.0427144 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:06:09.0445455 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030327, currentTime is 1776438369
+[2026-04-17 10:06:09.0457383 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:06:30.1450052 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:06:30.1476627 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030387, currentTime is 1776438390
+[2026-04-17 10:06:30.1489217 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:06:50.2922599 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:06:50.2949655 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030387, currentTime is 1776438410
+[2026-04-17 10:06:50.2960928 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:07:30.1884766 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:07:30.1943310 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030448, currentTime is 1776438450
+[2026-04-17 10:07:30.1973108 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:07:50.3374819 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:07:50.3402909 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030448, currentTime is 1776438470
+[2026-04-17 10:07:50.3416194 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:08:30.7558327 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:08:30.7596154 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030508, currentTime is 1776438510
+[2026-04-17 10:08:30.7614315 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:08:50.9272703 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:08:50.9300673 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030508, currentTime is 1776438530
+[2026-04-17 10:08:50.9312754 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:09:30.8121688 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:09:30.8153695 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030568, currentTime is 1776438570
+[2026-04-17 10:09:30.8172746 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:09:50.8783678 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:09:50.8815700 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030568, currentTime is 1776438590
+[2026-04-17 10:09:50.8833750 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:10:31.1990482 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:10:31.2088123 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030629, currentTime is 1776438631
+[2026-04-17 10:10:31.2183154 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:10:51.3986167 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:10:51.4031887 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030629, currentTime is 1776438651
+[2026-04-17 10:10:51.4061398 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:11:31.8599124 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:11:31.8642822 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030689, currentTime is 1776438691
+[2026-04-17 10:11:31.8672410 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:11:51.5618112 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:11:51.5661398 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030689, currentTime is 1776438711
+[2026-04-17 10:11:51.5690547 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:12:32.0513981 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:12:32.0575104 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776438752
+[2026-04-17 10:12:32.0608978 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 10:12:52.5300537 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 10:12:52.5338582 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776438772
+[2026-04-17 10:12:52.5371382 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:18:44.9736338 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:18:49.9111551 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776442729
+[2026-04-17 11:18:49.9552205 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:19:21.7324938 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:19:23.1944034 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776442763
+[2026-04-17 11:19:23.2291420 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:19:49.8522440 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:19:49.8590583 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776442789
+[2026-04-17 11:19:49.8616287 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:19:52.8390066 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:19:52.8502402 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776442792
+[2026-04-17 11:19:52.8583223 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:19:56.3452361 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:19:56.3649828 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776442796
+[2026-04-17 11:19:56.3923654 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:19:59.3736296 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:19:59.3760987 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776442799
+[2026-04-17 11:19:59.3785965 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:20:42.2061564 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:20:42.2099976 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779030749, currentTime is 1776442842
+[2026-04-17 11:20:42.2127390 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:20:53.7296925 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:20:53.7336518 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779034851, currentTime is 1776442853
+[2026-04-17 11:20:53.7365574 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:20:55.7489206 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:20:55.7591046 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779034851, currentTime is 1776442855
+[2026-04-17 11:20:55.7681628 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:21:43.0284710 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:21:43.0331712 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779034851, currentTime is 1776442903
+[2026-04-17 11:21:43.0357288 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:21:54.0943088 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:21:54.0980620 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779034911, currentTime is 1776442914
+[2026-04-17 11:21:54.1012372 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:22:43.2662375 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:22:43.2701771 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779034911, currentTime is 1776442963
+[2026-04-17 11:22:43.2720410 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:22:54.8480227 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:22:54.8520501 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779034972, currentTime is 1776442974
+[2026-04-17 11:22:54.8544460 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:23:44.6531069 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:23:44.6567790 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779034972, currentTime is 1776443024
+[2026-04-17 11:23:44.6601577 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:23:56.1910853 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:23:56.1962142 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035033, currentTime is 1776443036
+[2026-04-17 11:23:56.2007784 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:24:44.3157055 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:24:44.3204906 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035033, currentTime is 1776443084
+[2026-04-17 11:24:44.3235753 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:24:56.3103942 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:24:56.3143047 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035093, currentTime is 1776443096
+[2026-04-17 11:24:56.3169825 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:25:43.9539932 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:25:43.9573076 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035093, currentTime is 1776443143
+[2026-04-17 11:25:43.9593673 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:25:56.4911826 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:25:56.4942008 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035154, currentTime is 1776443156
+[2026-04-17 11:25:56.4955600 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:26:44.1283595 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:26:44.1332019 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035154, currentTime is 1776443204
+[2026-04-17 11:26:44.1353020 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:26:57.1298441 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:26:57.1340897 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035214, currentTime is 1776443217
+[2026-04-17 11:26:57.1378445 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:27:44.6364417 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:27:44.6395814 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035214, currentTime is 1776443264
+[2026-04-17 11:27:44.6410303 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:27:57.1152553 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:27:57.1180215 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035274, currentTime is 1776443277
+[2026-04-17 11:27:57.1192544 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:28:44.7072887 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:28:44.7099819 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035274, currentTime is 1776443324
+[2026-04-17 11:28:44.7111779 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:28:57.1910475 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:28:57.1953026 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035334, currentTime is 1776443337
+[2026-04-17 11:28:57.1983965 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:29:45.2835140 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:29:45.2871181 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035334, currentTime is 1776443385
+[2026-04-17 11:29:45.2895778 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:29:57.3927380 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:29:57.3979714 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035395, currentTime is 1776443397
+[2026-04-17 11:29:57.4037128 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:30:45.7047786 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:30:45.7087767 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035395, currentTime is 1776443445
+[2026-04-17 11:30:45.7108670 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:30:57.7972750 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:30:57.8007925 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035455, currentTime is 1776443457
+[2026-04-17 11:30:57.8021100 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:31:46.0291819 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:31:46.0333969 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035455, currentTime is 1776443506
+[2026-04-17 11:31:46.0364905 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:31:58.5769418 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:31:58.5804820 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035516, currentTime is 1776443518
+[2026-04-17 11:31:58.5825612 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:32:46.7628005 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:32:46.7654422 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035516, currentTime is 1776443566
+[2026-04-17 11:32:46.7666277 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:32:58.8616266 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:32:58.8644784 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035576, currentTime is 1776443578
+[2026-04-17 11:32:58.8659002 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:33:47.0643509 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:33:47.0673321 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035576, currentTime is 1776443627
+[2026-04-17 11:33:47.0686771 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:33:59.6481249 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:33:59.6519999 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035637, currentTime is 1776443639
+[2026-04-17 11:33:59.6534224 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:34:47.3897545 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:34:47.3929991 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035637, currentTime is 1776443687
+[2026-04-17 11:34:47.3946087 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:34:59.8878733 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:34:59.8931750 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035697, currentTime is 1776443699
+[2026-04-17 11:34:59.8956135 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:35:48.5642582 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:35:48.5683699 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035697, currentTime is 1776443748
+[2026-04-17 11:35:48.5708527 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:39:42.8956541 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:39:42.9064456 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035697, currentTime is 1776443982
+[2026-04-17 11:39:42.9756287 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:39:44.9194542 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:39:44.9214155 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035697, currentTime is 1776443984
+[2026-04-17 11:39:44.9244513 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:40:08.0926886 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:40:08.0962130 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779035697, currentTime is 1776444008
+[2026-04-17 11:40:08.0980711 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:40:43.4081866 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:40:43.4112941 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779036041, currentTime is 1776444043
+[2026-04-17 11:40:43.4131540 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:40:45.4437837 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:40:45.4454508 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779036041, currentTime is 1776444045
+[2026-04-17 11:40:45.4465621 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:41:08.5727625 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:41:08.5755202 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779036041, currentTime is 1776444068
+[2026-04-17 11:41:08.5767948 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:41:43.7903840 UTC-05:00] [11948:10164] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:41:43.7933121 UTC-05:00] [11948:10164] [fortitray  88    info] C() dwVPNExpirationTime is 1779036101, currentTime is 1776444103
+[2026-04-17 11:41:43.7946643 UTC-05:00] [11948:10164] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:43:57.4089470 UTC-05:00] [10588:10592] [fortitray  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 76s) 2026-04-17 11:43:57.406 type: 0x10f size: 512 memory: 0x0000000000000000
+[2026-04-17 11:43:57.4100827 UTC-05:00] [10588:10592] [fortitray  420   debug] FortiTray.exe Version:7.4.5.1949
+[2026-04-17 11:43:57.4146165 UTC-05:00] [10588:10592] [fortitray  349    info] lockdownEnabled=0
+[2026-04-17 11:44:08.6337566 UTC-05:00] [10588:10592] [fortitray  757   debug] CFortiTrayApp::InitInstance() message pump becomes active
+[2026-04-17 11:44:08.6373294 UTC-05:00] [10588:10592] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-17 11:44:08.6373391 UTC-05:00] [10588:10592] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-17 11:44:08.6662135 UTC-05:00] [10588:10592] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-17 11:44:09.7863651 UTC-05:00] [10588:10592] [fortitray  735    info] ready event FC_{5514642D-71E3-4F7F-9380-E7BAE892BA7B}_1 ready to handle WM_ message.
+[2026-04-17 11:44:09.7863832 UTC-05:00] [10588:10592] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-17 11:44:10.4715629 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:44:10.5330837 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036243, currentTime is 1776444250
+[2026-04-17 11:44:10.5388325 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:44:14.8081206 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:44:14.8114007 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036243, currentTime is 1776444254
+[2026-04-17 11:44:14.8134155 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:44:28.1233583 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:44:28.1312110 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036243, currentTime is 1776444268
+[2026-04-17 11:44:28.1351216 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:44:31.7727873 UTC-05:00] [10588:10592] [fortitray  1482   debug] DeamonDlgProc
+[2026-04-17 11:44:31.7817118 UTC-05:00] [10588:10592] [fortitray  1492   debug] FortiTray Desktop window was not safely destroyed, destroy now
+[2026-04-17 11:44:31.7817242 UTC-05:00] [10588:10592] [fortitray  3339   debug] CFortiTrayDlg::DestroyWindow
+[2026-04-17 11:44:31.7882912 UTC-05:00] [10588:10592] [fortitray  1498   debug] DeamonDlgProc Create FortiTray Desktop now
+[2026-04-17 11:44:31.7901977 UTC-05:00] [10588:10592] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 576
+[2026-04-17 11:44:32.1206151 UTC-05:00] [10588:10592] [fortitray  199   debug] CFortiTrayDlg::OnInitDialog 737
+[2026-04-17 11:44:34.3128585 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:44:34.6084766 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036243, currentTime is 1776444274
+[2026-04-17 11:44:34.6122102 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:45:16.9028820 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:45:20.1595868 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036313, currentTime is 1776444320
+[2026-04-17 11:45:20.2163607 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:45:30.5627428 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:45:32.8635897 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036327, currentTime is 1776444332
+[2026-04-17 11:45:33.0782546 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:46:28.4456850 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:46:29.7498080 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036327, currentTime is 1776444389
+[2026-04-17 11:46:29.8705084 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:46:33.4660051 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:46:34.1286433 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036390, currentTime is 1776444394
+[2026-04-17 11:46:34.1431582 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:47:28.5470851 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:47:28.9665465 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036390, currentTime is 1776444448
+[2026-04-17 11:47:28.9704718 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:47:34.0982253 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:47:34.3204383 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036451, currentTime is 1776444454
+[2026-04-17 11:47:34.3235799 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:48:29.5715248 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:48:29.5788476 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036451, currentTime is 1776444509
+[2026-04-17 11:48:29.5826105 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:48:36.1448939 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:48:36.1497581 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036513, currentTime is 1776444516
+[2026-04-17 11:48:36.1638979 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:48:52.2029543 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:48:52.3215053 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036513, currentTime is 1776444532
+[2026-04-17 11:48:52.3364108 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:49:30.5103628 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:49:30.5170513 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036513, currentTime is 1776444570
+[2026-04-17 11:49:30.5193850 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:49:37.6357647 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:49:37.6405316 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036574, currentTime is 1776444577
+[2026-04-17 11:49:37.6462713 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:50:30.5789676 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:50:31.4754133 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036574, currentTime is 1776444631
+[2026-04-17 11:50:31.4941386 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:50:42.6152024 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:50:42.6194068 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036640, currentTime is 1776444642
+[2026-04-17 11:50:42.6217476 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:51:30.3693852 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:51:30.3727766 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036640, currentTime is 1776444690
+[2026-04-17 11:51:30.3746264 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:51:42.9888188 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:51:42.9918194 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036700, currentTime is 1776444702
+[2026-04-17 11:51:42.9932295 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:52:30.7026632 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:52:30.7058731 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036700, currentTime is 1776444750
+[2026-04-17 11:52:30.7073700 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:52:43.2153787 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:52:43.2205205 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036760, currentTime is 1776444763
+[2026-04-17 11:52:43.2231258 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:53:30.9983737 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:53:31.0010347 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036760, currentTime is 1776444810
+[2026-04-17 11:53:31.0023543 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:53:43.5410251 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:53:43.5442864 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036821, currentTime is 1776444823
+[2026-04-17 11:53:43.5459410 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:54:31.3399905 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:54:31.3429017 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036821, currentTime is 1776444871
+[2026-04-17 11:54:31.3442485 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:54:43.9533657 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:54:43.9562648 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036881, currentTime is 1776444883
+[2026-04-17 11:54:43.9575144 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:55:31.9552826 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:55:31.9580688 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036881, currentTime is 1776444931
+[2026-04-17 11:55:31.9593702 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:55:44.0650960 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:55:44.0680554 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036941, currentTime is 1776444944
+[2026-04-17 11:55:44.0692265 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:56:32.1434655 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:56:32.1465279 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779036941, currentTime is 1776444992
+[2026-04-17 11:56:32.1476070 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:56:44.2311390 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:56:44.2364091 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037002, currentTime is 1776445004
+[2026-04-17 11:56:44.2390092 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:57:32.4072105 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:57:32.4109632 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037002, currentTime is 1776445052
+[2026-04-17 11:57:32.4128423 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:57:44.8964265 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:57:44.8991264 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037062, currentTime is 1776445064
+[2026-04-17 11:57:44.9004415 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:58:33.1582823 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:58:33.1616327 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037062, currentTime is 1776445113
+[2026-04-17 11:58:33.1631459 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:58:45.6461514 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:58:45.6508505 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037123, currentTime is 1776445125
+[2026-04-17 11:58:45.6536384 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:59:33.4113416 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:59:33.4149347 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037123, currentTime is 1776445173
+[2026-04-17 11:59:33.4176994 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 11:59:46.0177029 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 11:59:46.0206556 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037183, currentTime is 1776445186
+[2026-04-17 11:59:46.0220460 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:00:33.7867975 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:00:33.7921902 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037183, currentTime is 1776445233
+[2026-04-17 12:00:33.7947678 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:00:46.8054884 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:00:46.8090857 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037244, currentTime is 1776445246
+[2026-04-17 12:00:46.8112624 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:01:34.9162695 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:01:34.9221257 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037244, currentTime is 1776445294
+[2026-04-17 12:01:34.9248780 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:01:47.4395761 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:01:47.4443083 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037304, currentTime is 1776445307
+[2026-04-17 12:01:47.4461599 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:02:35.4879471 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:02:35.4922465 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037304, currentTime is 1776445355
+[2026-04-17 12:02:35.4945247 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:02:47.5285454 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:02:47.5314303 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037365, currentTime is 1776445367
+[2026-04-17 12:02:47.5328397 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:03:35.6517180 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:03:35.6549614 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037365, currentTime is 1776445415
+[2026-04-17 12:03:35.6563286 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning
+[2026-04-17 12:03:48.1614660 UTC-05:00] [10588:10592] [fortitray  43    info] ?Load@CVpnTunnelMgr@@IEAAXXZ()
+[2026-04-17 12:03:48.1651287 UTC-05:00] [10588:10592] [fortitray  88    info] C() dwVPNExpirationTime is 1779037425, currentTime is 1776445428
+[2026-04-17 12:03:48.1666858 UTC-05:00] [10588:10592] [fortitray  443    info] ?Load@CVpnTunnelMgr@@IEAAXXZ() returning

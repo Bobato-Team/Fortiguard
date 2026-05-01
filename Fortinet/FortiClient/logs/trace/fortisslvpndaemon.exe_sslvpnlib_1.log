@@ -1,0 +1,34 @@
+[2026-04-03 12:38:30.8346611 UTC-05:00] [8072:3344] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 845s) 2026-04-03 12:38:30.832 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-03 12:38:30.8347266 UTC-05:00] [8072:3344] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-03 12:38:30.8347300 UTC-05:00] [8072:3344] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-03 13:34:14.6061497 UTC-05:00] [8464:3988] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 43s) 2026-04-03 13:34:14.604 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-03 13:34:14.6061997 UTC-05:00] [8464:3988] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-03 13:34:14.6062030 UTC-05:00] [8464:3988] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-03 14:42:39.6924556 UTC-05:00] [8992:8996] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 40s) 2026-04-03 14:42:39.690 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-03 14:42:39.6925071 UTC-05:00] [8992:8996] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-03 14:42:39.6925100 UTC-05:00] [8992:8996] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-13 06:59:21.9065246 UTC-05:00] [8892:8896] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 44s) 2026-04-13 06:59:21.904 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-13 06:59:21.9066167 UTC-05:00] [8892:8896] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-13 06:59:21.9066196 UTC-05:00] [8892:8896] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 07:26:55.7722774 UTC-05:00] [8316:8320] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 35s) 2026-04-15 07:26:55.769 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 07:26:55.7723225 UTC-05:00] [8316:8320] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 07:26:55.7723250 UTC-05:00] [8316:8320] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 08:33:52.2753245 UTC-05:00] [8316:8320] [sslvpnlib  1418    info] trace stopped
+[2026-04-15 08:34:57.2163454 UTC-05:00] [8136:8140] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 40s) 2026-04-15 08:34:57.214 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 08:34:57.2164083 UTC-05:00] [8136:8140] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 08:34:57.2164114 UTC-05:00] [8136:8140] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 08:39:16.4659930 UTC-05:00] [5536:1204] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 37s) 2026-04-15 08:39:16.443 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 08:39:16.4660473 UTC-05:00] [5536:1204] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 08:39:16.4660505 UTC-05:00] [5536:1204] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 08:40:53.5451338 UTC-05:00] [8244:8248] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 37s) 2026-04-15 08:40:53.544 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 08:40:53.5451903 UTC-05:00] [8244:8248] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 08:40:53.5451935 UTC-05:00] [8244:8248] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 09:14:17.8447898 UTC-05:00] [8292:8296] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 30s) 2026-04-15 09:14:17.843 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 09:14:17.8448467 UTC-05:00] [8292:8296] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 09:14:17.8448502 UTC-05:00] [8292:8296] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-17 07:42:24.8714906 UTC-05:00] [5748:4896] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 39s) 2026-04-17 07:42:24.870 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-17 07:42:24.8715358 UTC-05:00] [5748:4896] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-17 07:42:24.8715380 UTC-05:00] [5748:4896] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-17 11:43:18.2227261 UTC-05:00] [1840:1912] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 37s) 2026-04-17 11:43:18.221 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-17 11:43:18.2227619 UTC-05:00] [1840:1912] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-17 11:43:18.2227644 UTC-05:00] [1840:1912] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949

@@ -1,0 +1,55 @@
+[2026-04-03 12:38:31.1548307 UTC-05:00] [1380:4492] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 845s) 2026-04-03 12:38:31.152 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-03 12:38:31.1548816 UTC-05:00] [1380:4492] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-03 12:38:31.1548844 UTC-05:00] [1380:4492] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-03 12:38:31.3126643 UTC-05:00] [1380:8256] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF663DAF4F0
+[2026-04-03 12:38:31.3129567 UTC-05:00] [1380:8256] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF663DAF4F0
+[2026-04-03 13:34:14.6399833 UTC-05:00] [8344:5432] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 44s) 2026-04-03 13:34:14.637 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-03 13:34:14.6400360 UTC-05:00] [8344:5432] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-03 13:34:14.6400397 UTC-05:00] [8344:5432] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-03 13:34:14.8220791 UTC-05:00] [8344:9444] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF7EF03F4F0
+[2026-04-03 13:34:14.8232344 UTC-05:00] [8344:9444] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF7EF03F4F0
+[2026-04-03 14:42:39.8388811 UTC-05:00] [9076:9080] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 40s) 2026-04-03 14:42:39.836 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-03 14:42:39.8389248 UTC-05:00] [9076:9080] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-03 14:42:39.8389281 UTC-05:00] [9076:9080] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-03 14:42:39.9172118 UTC-05:00] [9076:9432] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF7B22AF4F0
+[2026-04-03 14:42:39.9183753 UTC-05:00] [9076:9432] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF7B22AF4F0
+[2026-04-13 06:59:21.9477522 UTC-05:00] [9024:9028] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 44s) 2026-04-13 06:59:21.945 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-13 06:59:21.9477877 UTC-05:00] [9024:9028] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-13 06:59:21.9477906 UTC-05:00] [9024:9028] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-13 06:59:22.0359789 UTC-05:00] [9024:9224] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF76197F4F0
+[2026-04-13 06:59:22.0373189 UTC-05:00] [9024:9224] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF76197F4F0
+[2026-04-15 07:26:55.8164554 UTC-05:00] [8404:8408] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 35s) 2026-04-15 07:26:55.813 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 07:26:55.8166814 UTC-05:00] [8404:8408] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 07:26:55.8166857 UTC-05:00] [8404:8408] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 07:26:55.9323884 UTC-05:00] [8404:8860] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF63285F4F0
+[2026-04-15 07:26:55.9334190 UTC-05:00] [8404:8860] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF63285F4F0
+[2026-04-15 08:34:57.5157963 UTC-05:00] [5048:5688] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 40s) 2026-04-15 08:34:57.498 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 08:34:57.5158464 UTC-05:00] [5048:5688] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 08:34:57.5158497 UTC-05:00] [5048:5688] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 08:34:57.6595812 UTC-05:00] [5048:8536] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF76A3BF4F0
+[2026-04-15 08:34:57.6608297 UTC-05:00] [5048:8536] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF76A3BF4F0
+[2026-04-15 08:39:16.4298059 UTC-05:00] [8204:8208] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 37s) 2026-04-15 08:39:16.428 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 08:39:16.4300427 UTC-05:00] [8204:8208] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 08:39:16.4300471 UTC-05:00] [8204:8208] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 08:39:16.5437064 UTC-05:00] [8204:8448] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF69947F4F0
+[2026-04-15 08:39:16.5468669 UTC-05:00] [8204:8448] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF69947F4F0
+[2026-04-15 08:40:53.8727905 UTC-05:00] [8368:8372] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 38s) 2026-04-15 08:40:53.871 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 08:40:53.8728817 UTC-05:00] [8368:8372] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 08:40:53.8728850 UTC-05:00] [8368:8372] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 08:40:54.0478502 UTC-05:00] [8368:8992] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF6D0F5F4F0
+[2026-04-15 08:40:54.0498440 UTC-05:00] [8368:8992] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF6D0F5F4F0
+[2026-04-15 09:14:18.0229880 UTC-05:00] [8364:8368] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 30s) 2026-04-15 09:14:18.020 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-15 09:14:18.0230489 UTC-05:00] [8364:8368] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-15 09:14:18.0230524 UTC-05:00] [8364:8368] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-15 09:14:18.1264517 UTC-05:00] [8364:9064] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF78FD7F4F0
+[2026-04-15 09:14:18.1276681 UTC-05:00] [8364:9064] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF78FD7F4F0
+[2026-04-17 07:42:24.9515096 UTC-05:00] [1824:5092] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 39s) 2026-04-17 07:42:24.949 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-17 07:42:24.9515491 UTC-05:00] [1824:5092] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-17 07:42:24.9515515 UTC-05:00] [1824:5092] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-17 07:42:25.0421408 UTC-05:00] [1824:8780] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF76503F4F0
+[2026-04-17 07:42:25.0431828 UTC-05:00] [1824:8780] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF76503F4F0
+[2026-04-17 11:43:18.2226777 UTC-05:00] [1088:4880] [sslvpnlib  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 37s) 2026-04-17 11:43:18.221 type: 0x1ff size: 512 memory: 0x0000000000000000
+[2026-04-17 11:43:18.2227212 UTC-05:00] [1088:4880] [sslvpnlib  62   debug] sslvpnlib.dll is loaded
+[2026-04-17 11:43:18.2227238 UTC-05:00] [1088:4880] [sslvpnlib  63   debug] sslvpnlib.dll version:7.4.5.1949
+[2026-04-17 11:43:18.3464921 UTC-05:00] [1088:1152] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF64601F4F0
+[2026-04-17 11:43:18.3478459 UTC-05:00] [1088:1152] [sslvpnlib  5992   debug] CSslvpnBase::BaseInit() called. this=0x00007FF64601F4F0

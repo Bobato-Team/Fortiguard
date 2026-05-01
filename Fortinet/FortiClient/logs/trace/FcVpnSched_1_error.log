@@ -1,0 +1,24 @@
+[2026-04-03 13:33:06.7515438 UTC-05:00] [6064:8000] [FcVpnSched  142   error] Exit event singaled
+[2026-04-07 15:07:50.9251217 UTC-05:00] [5208:7148] [FcVpnSched  63   error] notify WTS_SESSION_LOGON failed
+[2026-04-07 15:07:50.9634542 UTC-05:00] [5208:1928] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-15 07:40:50.4105561 UTC-05:00] [7560:7772] [FcVpnSched  63   error] notify WTS_SESSION_LOGON failed
+[2026-04-15 07:40:50.4834550 UTC-05:00] [7560:7564] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-15 08:33:51.9477814 UTC-05:00] [7560:7768] [FcVpnSched  142   error] Exit event singaled
+[2026-04-15 08:38:16.6366560 UTC-05:00] [7324:7400] [FcVpnSched  142   error] Exit event singaled
+[2026-04-15 09:05:59.6569540 UTC-05:00] [4248:5628] [FcVpnSched  63   error] notify WTS_SESSION_LOGON failed
+[2026-04-15 09:05:59.6740781 UTC-05:00] [4248:5680] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-15 10:22:19.6507428 UTC-05:00] [7416:7420] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-15 10:22:19.6529986 UTC-05:00] [7416:7584] [FcVpnSched  63   error] notify WTS_SESSION_LOGON failed
+[2026-04-17 07:49:24.6776784 UTC-05:00] [7548:7700] [FcVpnSched  63   error] notify WTS_SESSION_LOGON failed
+[2026-04-17 07:49:24.7695236 UTC-05:00] [7548:7552] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-17 09:04:04.4333808 UTC-05:00] [7548:7700] [FcVpnSched  75   error] notify WTS_SESSION_UNLOCK failed
+[2026-04-17 09:04:04.5942337 UTC-05:00] [7548:7552] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-17 09:54:50.5512171 UTC-05:00] [7548:7700] [FcVpnSched  75   error] notify WTS_SESSION_UNLOCK failed
+[2026-04-17 09:54:50.7848352 UTC-05:00] [7548:7552] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-17 11:19:04.7825476 UTC-05:00] [7548:12596] [FcVpnSched  54   error] Post machine AutoConnect request failed
+[2026-04-17 11:19:16.3134886 UTC-05:00] [7548:7700] [FcVpnSched  75   error] notify WTS_SESSION_UNLOCK failed
+[2026-04-17 11:19:16.5432768 UTC-05:00] [7548:7552] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-17 11:39:24.7349753 UTC-05:00] [7548:7700] [FcVpnSched  75   error] notify WTS_SESSION_UNLOCK failed
+[2026-04-17 11:39:24.9051225 UTC-05:00] [7548:7552] [FcVpnSched  642   error] VpnConn for 1 is not created.
+[2026-04-17 11:43:50.7750952 UTC-05:00] [7264:7428] [FcVpnSched  63   error] notify WTS_SESSION_LOGON failed
+[2026-04-17 11:43:50.8560068 UTC-05:00] [7264:7268] [FcVpnSched  642   error] VpnConn for 1 is not created.

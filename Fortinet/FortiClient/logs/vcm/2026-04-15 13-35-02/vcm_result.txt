@@ -1,0 +1,804 @@
+[04-15 08:35:02][   INFO]: sessionId=-3[04-15 08:35:02][   INFO]: vcm start 9672
+[04-15 08:35:02][   INFO]: start do scan
+[04-15 08:35:03][   INFO]: starting, @phase:0, 0 of 0
+[04-15 08:35:04][   INFO]: no Detection element in vid 4961
+[04-15 08:35:04][   INFO]: no Detection element in vid 4962
+[04-15 08:35:04][   INFO]: no Detection element in vid 5160
+[04-15 08:35:04][   INFO]: no Detection element in vid 5161
+[04-15 08:35:04][   INFO]: no Detection element in vid 5165
+[04-15 08:35:04][   INFO]: no Detection element in vid 5166
+[04-15 08:35:04][   INFO]: no Detection element in vid 5167
+[04-15 08:35:04][   INFO]: no Detection element in vid 6197
+[04-15 08:35:04][   INFO]: no Detection element in vid 6203
+[04-15 08:35:04][   INFO]: no Detection element in vid 20022
+[04-15 08:35:04][   INFO]: no Detection element in vid 20024
+[04-15 08:35:04][   INFO]: no Detection element in vid 20028
+[04-15 08:35:04][   INFO]: no Detection element in vid 20029
+[04-15 08:35:04][   INFO]: no Detection element in vid 20031
+[04-15 08:35:04][   INFO]: no Detection element in vid 20032
+[04-15 08:35:05][   INFO]: no Detection element in vid 23831
+[04-15 08:35:05][   INFO]: no Detection element in vid 23846
+[04-15 08:35:05][   INFO]: no Detection element in vid 23853
+[04-15 08:35:05][   INFO]: no Detection element in vid 23855
+[04-15 08:35:05][   INFO]: no Detection element in vid 23856
+[04-15 08:35:05][   INFO]: no Detection element in vid 23859
+[04-15 08:35:05][   INFO]: no Detection element in vid 23860
+[04-15 08:35:05][   INFO]: no Detection element in vid 23861
+[04-15 08:35:05][   INFO]: no Detection element in vid 23863
+[04-15 08:35:05][   INFO]: no Detection element in vid 23865
+[04-15 08:35:05][   INFO]: no Detection element in vid 23868
+[04-15 08:35:05][   INFO]: no Detection element in vid 23869
+[04-15 08:35:05][   INFO]: no Detection element in vid 23879
+[04-15 08:35:05][   INFO]: no Detection element in vid 23882
+[04-15 08:35:05][   INFO]: no Detection element in vid 23887
+[04-15 08:35:05][   INFO]: no Detection element in vid 23890
+[04-15 08:35:05][   INFO]: no Detection element in vid 23894
+[04-15 08:35:05][   INFO]: no Detection element in vid 23895
+[04-15 08:35:05][   INFO]: no Detection element in vid 23896
+[04-15 08:35:05][   INFO]: no Detection element in vid 23897
+[04-15 08:35:05][   INFO]: no Detection element in vid 23898
+[04-15 08:35:05][   INFO]: no Detection element in vid 23904
+[04-15 08:35:05][   INFO]: no Detection element in vid 23906
+[04-15 08:35:05][   INFO]: no Detection element in vid 23908
+[04-15 08:35:05][   INFO]: no Detection element in vid 23910
+[04-15 08:35:05][   INFO]: no Detection element in vid 23911
+[04-15 08:35:05][   INFO]: no Detection element in vid 23912
+[04-15 08:35:05][   INFO]: no Detection element in vid 23913
+[04-15 08:35:05][   INFO]: no Detection element in vid 23917
+[04-15 08:35:05][   INFO]: no Detection element in vid 23920
+[04-15 08:35:05][   INFO]: no Detection element in vid 23933
+[04-15 08:35:05][   INFO]: no Detection element in vid 23934
+[04-15 08:35:05][   INFO]: no Detection element in vid 23935
+[04-15 08:35:05][   INFO]: no Detection element in vid 23939
+[04-15 08:35:05][   INFO]: no Detection element in vid 23942
+[04-15 08:35:05][   INFO]: no Detection element in vid 23947
+[04-15 08:35:05][   INFO]: no Detection element in vid 23948
+[04-15 08:35:05][   INFO]: no Detection element in vid 23950
+[04-15 08:35:05][   INFO]: no Detection element in vid 23953
+[04-15 08:35:05][   INFO]: no Detection element in vid 23956
+[04-15 08:35:05][   INFO]: no Detection element in vid 23958
+[04-15 08:35:05][   INFO]: no Detection element in vid 23964
+[04-15 08:35:05][   INFO]: no Detection element in vid 23966
+[04-15 08:35:05][   INFO]: no Detection element in vid 23969
+[04-15 08:35:05][   INFO]: no Detection element in vid 23974
+[04-15 08:35:05][   INFO]: no Detection element in vid 23976
+[04-15 08:35:05][   INFO]: no Detection element in vid 23978
+[04-15 08:35:05][   INFO]: no Detection element in vid 23979
+[04-15 08:35:05][   INFO]: no Detection element in vid 23980
+[04-15 08:35:05][   INFO]: no Detection element in vid 23981
+[04-15 08:35:05][   INFO]: no Detection element in vid 23982
+[04-15 08:35:05][   INFO]: no Detection element in vid 23983
+[04-15 08:35:05][   INFO]: no Detection element in vid 23984
+[04-15 08:35:05][   INFO]: no Detection element in vid 23987
+[04-15 08:35:05][   INFO]: no Detection element in vid 23988
+[04-15 08:35:05][   INFO]: no Detection element in vid 23990
+[04-15 08:35:05][   INFO]: no Detection element in vid 23993
+[04-15 08:35:05][   INFO]: no Detection element in vid 23995
+[04-15 08:35:05][   INFO]: no Detection element in vid 23996
+[04-15 08:35:05][   INFO]: no Detection element in vid 23997
+[04-15 08:35:05][   INFO]: no Detection element in vid 23999
+[04-15 08:35:05][   INFO]: no Detection element in vid 24000
+[04-15 08:35:05][   INFO]: no Detection element in vid 24001
+[04-15 08:35:05][   INFO]: no Detection element in vid 24002
+[04-15 08:35:05][   INFO]: no Detection element in vid 24003
+[04-15 08:35:05][   INFO]: no Detection element in vid 24006
+[04-15 08:35:05][   INFO]: no Detection element in vid 24007
+[04-15 08:35:05][   INFO]: no Detection element in vid 24008
+[04-15 08:35:05][   INFO]: no Detection element in vid 24010
+[04-15 08:35:05][   INFO]: no Detection element in vid 24011
+[04-15 08:35:05][   INFO]: no Detection element in vid 24012
+[04-15 08:35:05][   INFO]: no Detection element in vid 24016
+[04-15 08:35:05][   INFO]: no Detection element in vid 24017
+[04-15 08:35:05][   INFO]: no Detection element in vid 24022
+[04-15 08:35:05][   INFO]: no Detection element in vid 24024
+[04-15 08:35:05][   INFO]: no Detection element in vid 24026
+[04-15 08:35:05][   INFO]: no Detection element in vid 24028
+[04-15 08:35:05][   INFO]: no Detection element in vid 24029
+[04-15 08:35:05][   INFO]: no Detection element in vid 24030
+[04-15 08:35:05][   INFO]: no Detection element in vid 24032
+[04-15 08:35:05][   INFO]: no Detection element in vid 24033
+[04-15 08:35:05][   INFO]: no Detection element in vid 24036
+[04-15 08:35:05][   INFO]: no Detection element in vid 24041
+[04-15 08:35:05][   INFO]: no Detection element in vid 24044
+[04-15 08:35:05][   INFO]: no Detection element in vid 24049
+[04-15 08:35:05][   INFO]: no Detection element in vid 24050
+[04-15 08:35:05][   INFO]: no Detection element in vid 24051
+[04-15 08:35:05][   INFO]: no Detection element in vid 24052
+[04-15 08:35:05][   INFO]: no Detection element in vid 24053
+[04-15 08:35:05][   INFO]: no Detection element in vid 24054
+[04-15 08:35:05][   INFO]: no Detection element in vid 24056
+[04-15 08:35:05][   INFO]: no Detection element in vid 24059
+[04-15 08:35:05][   INFO]: no Detection element in vid 24060
+[04-15 08:35:05][   INFO]: no Detection element in vid 24062
+[04-15 08:35:05][   INFO]: no Detection element in vid 24063
+[04-15 08:35:05][   INFO]: no Detection element in vid 24066
+[04-15 08:35:05][   INFO]: no Detection element in vid 24067
+[04-15 08:35:05][   INFO]: no Detection element in vid 24068
+[04-15 08:35:05][   INFO]: no Detection element in vid 24069
+[04-15 08:35:05][   INFO]: no Detection element in vid 24070
+[04-15 08:35:05][   INFO]: no Detection element in vid 24071
+[04-15 08:35:05][   INFO]: no Detection element in vid 24072
+[04-15 08:35:05][   INFO]: no Detection element in vid 24075
+[04-15 08:35:05][   INFO]: no Detection element in vid 24076
+[04-15 08:35:05][   INFO]: no Detection element in vid 24077
+[04-15 08:35:05][   INFO]: no Detection element in vid 24078
+[04-15 08:35:05][   INFO]: no Detection element in vid 24080
+[04-15 08:35:05][   INFO]: no Detection element in vid 24081
+[04-15 08:35:05][   INFO]: no Detection element in vid 24084
+[04-15 08:35:05][   INFO]: no Detection element in vid 24085
+[04-15 08:35:05][   INFO]: no Detection element in vid 24087
+[04-15 08:35:05][   INFO]: no Detection element in vid 24090
+[04-15 08:35:05][   INFO]: no Detection element in vid 24091
+[04-15 08:35:05][   INFO]: no Detection element in vid 24092
+[04-15 08:35:05][   INFO]: no Detection element in vid 24095
+[04-15 08:35:05][   INFO]: no Detection element in vid 24096
+[04-15 08:35:05][   INFO]: no Detection element in vid 24099
+[04-15 08:35:05][   INFO]: no Detection element in vid 24101
+[04-15 08:35:05][   INFO]: no Detection element in vid 24103
+[04-15 08:35:05][   INFO]: no Detection element in vid 24104
+[04-15 08:35:05][   INFO]: no Detection element in vid 24105
+[04-15 08:35:05][   INFO]: no Detection element in vid 24107
+[04-15 08:35:05][   INFO]: no Detection element in vid 24109
+[04-15 08:35:05][   INFO]: no Detection element in vid 24110
+[04-15 08:35:05][   INFO]: no Detection element in vid 24111
+[04-15 08:35:05][   INFO]: no Detection element in vid 24112
+[04-15 08:35:05][   INFO]: no Detection element in vid 24113
+[04-15 08:35:05][   INFO]: no Detection element in vid 24114
+[04-15 08:35:05][   INFO]: no Detection element in vid 24115
+[04-15 08:35:05][   INFO]: no Detection element in vid 24117
+[04-15 08:35:05][   INFO]: no Detection element in vid 24118
+[04-15 08:35:05][   INFO]: no Detection element in vid 24119
+[04-15 08:35:05][   INFO]: no Detection element in vid 24120
+[04-15 08:35:05][   INFO]: no Detection element in vid 24121
+[04-15 08:35:05][   INFO]: no Detection element in vid 24122
+[04-15 08:35:05][   INFO]: no Detection element in vid 24123
+[04-15 08:35:05][   INFO]: no Detection element in vid 24124
+[04-15 08:35:05][   INFO]: no Detection element in vid 24125
+[04-15 08:35:05][   INFO]: no Detection element in vid 24127
+[04-15 08:35:05][   INFO]: no Detection element in vid 24128
+[04-15 08:35:05][   INFO]: no Detection element in vid 24131
+[04-15 08:35:05][   INFO]: no Detection element in vid 24132
+[04-15 08:35:05][   INFO]: no Detection element in vid 24133
+[04-15 08:35:05][   INFO]: no Detection element in vid 24134
+[04-15 08:35:05][   INFO]: no Detection element in vid 24135
+[04-15 08:35:05][   INFO]: no Detection element in vid 24136
+[04-15 08:35:05][   INFO]: no Detection element in vid 24138
+[04-15 08:35:05][   INFO]: no Detection element in vid 24140
+[04-15 08:35:05][   INFO]: no Detection element in vid 24141
+[04-15 08:35:05][   INFO]: no Detection element in vid 24142
+[04-15 08:35:05][   INFO]: no Detection element in vid 24144
+[04-15 08:35:05][   INFO]: no Detection element in vid 24145
+[04-15 08:35:05][   INFO]: no Detection element in vid 24150
+[04-15 08:35:05][   INFO]: no Detection element in vid 24152
+[04-15 08:35:05][   INFO]: no Detection element in vid 24154
+[04-15 08:35:05][   INFO]: no Detection element in vid 24157
+[04-15 08:35:05][   INFO]: no Detection element in vid 24159
+[04-15 08:35:05][   INFO]: no Detection element in vid 24160
+[04-15 08:35:05][   INFO]: no Detection element in vid 24161
+[04-15 08:35:05][   INFO]: no Detection element in vid 24162
+[04-15 08:35:05][   INFO]: no Detection element in vid 24163
+[04-15 08:35:05][   INFO]: no Detection element in vid 24164
+[04-15 08:35:05][   INFO]: no Detection element in vid 24165
+[04-15 08:35:05][   INFO]: no Detection element in vid 24168
+[04-15 08:35:05][   INFO]: no Detection element in vid 24170
+[04-15 08:35:05][   INFO]: no Detection element in vid 24172
+[04-15 08:35:05][   INFO]: no Detection element in vid 24173
+[04-15 08:35:05][   INFO]: no Detection element in vid 24174
+[04-15 08:35:05][   INFO]: no Detection element in vid 24175
+[04-15 08:35:05][   INFO]: no Detection element in vid 24176
+[04-15 08:35:05][   INFO]: no Detection element in vid 24177
+[04-15 08:35:05][   INFO]: no Detection element in vid 24178
+[04-15 08:35:05][   INFO]: no Detection element in vid 24179
+[04-15 08:35:05][   INFO]: no Detection element in vid 24180
+[04-15 08:35:05][   INFO]: no Detection element in vid 24181
+[04-15 08:35:05][   INFO]: no Detection element in vid 24182
+[04-15 08:35:05][   INFO]: no Detection element in vid 24184
+[04-15 08:35:05][   INFO]: no Detection element in vid 24185
+[04-15 08:35:05][   INFO]: no Detection element in vid 24190
+[04-15 08:35:05][   INFO]: no Detection element in vid 24191
+[04-15 08:35:05][   INFO]: no Detection element in vid 24193
+[04-15 08:35:05][   INFO]: no Detection element in vid 24194
+[04-15 08:35:05][   INFO]: no Detection element in vid 24195
+[04-15 08:35:05][   INFO]: no Detection element in vid 24196
+[04-15 08:35:05][   INFO]: no Detection element in vid 24198
+[04-15 08:35:05][   INFO]: no Detection element in vid 24199
+[04-15 08:35:05][   INFO]: no Detection element in vid 24203
+[04-15 08:35:05][   INFO]: no Detection element in vid 24205
+[04-15 08:35:05][   INFO]: no Detection element in vid 24206
+[04-15 08:35:05][   INFO]: no Detection element in vid 24207
+[04-15 08:35:05][   INFO]: no Detection element in vid 24208
+[04-15 08:35:05][   INFO]: no Detection element in vid 24209
+[04-15 08:35:05][   INFO]: no Detection element in vid 24210
+[04-15 08:35:05][   INFO]: no Detection element in vid 24211
+[04-15 08:35:05][   INFO]: no Detection element in vid 24923
+[04-15 08:35:05][   INFO]: no Detection element in vid 24924
+[04-15 08:35:05][   INFO]: no Detection element in vid 24925
+[04-15 08:35:05][   INFO]: no Detection element in vid 24926
+[04-15 08:35:05][   INFO]: no Detection element in vid 24928
+[04-15 08:35:05][   INFO]: no Detection element in vid 24930
+[04-15 08:35:05][   INFO]: no Detection element in vid 24931
+[04-15 08:35:05][   INFO]: no Detection element in vid 24932
+[04-15 08:35:05][   INFO]: no Detection element in vid 25906
+[04-15 08:35:05][   INFO]: no Detection element in vid 25907
+[04-15 08:35:05][   INFO]: no Detection element in vid 25909
+[04-15 08:35:05][   INFO]: no Detection element in vid 25910
+[04-15 08:35:05][   INFO]: no Detection element in vid 25911
+[04-15 08:35:05][   INFO]: no Detection element in vid 25913
+[04-15 08:35:05][   INFO]: no Detection element in vid 25914
+[04-15 08:35:05][   INFO]: no Detection element in vid 25915
+[04-15 08:35:05][   INFO]: no Detection element in vid 25916
+[04-15 08:35:05][   INFO]: no Detection element in vid 25918
+[04-15 08:35:05][   INFO]: no Detection element in vid 25919
+[04-15 08:35:05][   INFO]: no Detection element in vid 26248
+[04-15 08:35:05][   INFO]: no Detection element in vid 26249
+[04-15 08:35:05][   INFO]: no Detection element in vid 26250
+[04-15 08:35:05][   INFO]: no Detection element in vid 26251
+[04-15 08:35:05][   INFO]: no Detection element in vid 26253
+[04-15 08:35:05][   INFO]: no Detection element in vid 26254
+[04-15 08:35:05][   INFO]: no Detection element in vid 26255
+[04-15 08:35:05][   INFO]: no Detection element in vid 26256
+[04-15 08:35:05][   INFO]: no Detection element in vid 26261
+[04-15 08:35:05][   INFO]: no Detection element in vid 26283
+[04-15 08:35:05][   INFO]: no Detection element in vid 26284
+[04-15 08:35:05][   INFO]: no Detection element in vid 26285
+[04-15 08:35:05][   INFO]: no Detection element in vid 26287
+[04-15 08:35:05][   INFO]: no Detection element in vid 26288
+[04-15 08:35:05][   INFO]: no Detection element in vid 26289
+[04-15 08:35:05][   INFO]: no Detection element in vid 26291
+[04-15 08:35:05][   INFO]: no Detection element in vid 31216
+[04-15 08:35:05][   INFO]: no Detection element in vid 31217
+[04-15 08:35:05][   INFO]: no Detection element in vid 31218
+[04-15 08:35:05][   INFO]: no Detection element in vid 31219
+[04-15 08:35:05][   INFO]: no Detection element in vid 31220
+[04-15 08:35:05][   INFO]: no Detection element in vid 31221
+[04-15 08:35:05][   INFO]: no Detection element in vid 31222
+[04-15 08:35:05][   INFO]: no Detection element in vid 31223
+[04-15 08:35:05][   INFO]: no Detection element in vid 31599
+[04-15 08:35:05][   INFO]: no Detection element in vid 31601
+[04-15 08:35:05][   INFO]: no Detection element in vid 31602
+[04-15 08:35:05][   INFO]: no Detection element in vid 31603
+[04-15 08:35:05][   INFO]: no Detection element in vid 31604
+[04-15 08:35:05][   INFO]: no Detection element in vid 31605
+[04-15 08:35:05][   INFO]: no Detection element in vid 31606
+[04-15 08:35:05][   INFO]: no Detection element in vid 31608
+[04-15 08:35:06][   INFO]: no Detection element in vid 31661
+[04-15 08:35:06][   INFO]: no Detection element in vid 31663
+[04-15 08:35:06][   INFO]: no Detection element in vid 31664
+[04-15 08:35:06][   INFO]: no Detection element in vid 31665
+[04-15 08:35:06][   INFO]: no Detection element in vid 31666
+[04-15 08:35:06][   INFO]: no Detection element in vid 31667
+[04-15 08:35:06][   INFO]: no Detection element in vid 31669
+[04-15 08:35:06][   INFO]: no Detection element in vid 31803
+[04-15 08:35:06][   INFO]: no Detection element in vid 31807
+[04-15 08:35:06][   INFO]: no Detection element in vid 31813
+[04-15 08:35:06][   INFO]: no Detection element in vid 31861
+[04-15 08:35:06][   INFO]: no Detection element in vid 31862
+[04-15 08:35:06][   INFO]: no Detection element in vid 31863
+[04-15 08:35:06][   INFO]: no Detection element in vid 31864
+[04-15 08:35:06][   INFO]: no Detection element in vid 31865
+[04-15 08:35:06][   INFO]: no Detection element in vid 31866
+[04-15 08:35:06][   INFO]: no Detection element in vid 31867
+[04-15 08:35:06][   INFO]: no Detection element in vid 31868
+[04-15 08:35:06][   INFO]: no Detection element in vid 31869
+[04-15 08:35:06][   INFO]: no Detection element in vid 31870
+[04-15 08:35:06][   INFO]: no Detection element in vid 31871
+[04-15 08:35:06][   INFO]: no Detection element in vid 31941
+[04-15 08:35:06][   INFO]: no Detection element in vid 35485
+[04-15 08:35:06][   INFO]: no Detection element in vid 35514
+[04-15 08:35:06][   INFO]: no Detection element in vid 35527
+[04-15 08:35:06][   INFO]: no Detection element in vid 35531
+[04-15 08:35:06][   INFO]: no Detection element in vid 35535
+[04-15 08:35:06][   INFO]: no Detection element in vid 35601
+[04-15 08:35:06][   INFO]: no Detection element in vid 35718
+[04-15 08:35:06][   INFO]: no Detection element in vid 35719
+[04-15 08:35:06][   INFO]: no Detection element in vid 35724
+[04-15 08:35:06][   INFO]: no Detection element in vid 35736
+[04-15 08:35:06][   INFO]: no Detection element in vid 35742
+[04-15 08:35:06][   INFO]: no Detection element in vid 35748
+[04-15 08:35:06][   INFO]: no Detection element in vid 35929
+[04-15 08:35:06][   INFO]: no Detection element in vid 35947
+[04-15 08:35:06][   INFO]: no Detection element in vid 35952
+[04-15 08:35:06][   INFO]: no Detection element in vid 35954
+[04-15 08:35:06][   INFO]: no Detection element in vid 35955
+[04-15 08:35:06][   INFO]: no Detection element in vid 35959
+[04-15 08:35:06][   INFO]: no Detection element in vid 35960
+[04-15 08:35:06][   INFO]: no Detection element in vid 36257
+[04-15 08:35:06][   INFO]: no Detection element in vid 36259
+[04-15 08:35:06][   INFO]: no Detection element in vid 36260
+[04-15 08:35:06][   INFO]: no Detection element in vid 36284
+[04-15 08:35:06][   INFO]: no Detection element in vid 36333
+[04-15 08:35:07][   INFO]: no Detection element in vid 36541
+[04-15 08:35:07][   INFO]: no Detection element in vid 36544
+[04-15 08:35:07][   INFO]: no Detection element in vid 36545
+[04-15 08:35:07][   INFO]: no Detection element in vid 36546
+[04-15 08:35:07][   INFO]: no Detection element in vid 36547
+[04-15 08:35:07][   INFO]: no Detection element in vid 36550
+[04-15 08:35:07][   INFO]: no Detection element in vid 36551
+[04-15 08:35:07][   INFO]: no Detection element in vid 36552
+[04-15 08:35:07][   INFO]: no Detection element in vid 36568
+[04-15 08:35:07][   INFO]: no Detection element in vid 36569
+[04-15 08:35:07][   INFO]: no Detection element in vid 36570
+[04-15 08:35:07][   INFO]: no Detection element in vid 36575
+[04-15 08:35:07][   INFO]: no Detection element in vid 36576
+[04-15 08:35:07][   INFO]: no Detection element in vid 36577
+[04-15 08:35:07][   INFO]: no Detection element in vid 36578
+[04-15 08:35:07][   INFO]: no Detection element in vid 36585
+[04-15 08:35:07][   INFO]: no Detection element in vid 36609
+[04-15 08:35:07][   INFO]: no Detection element in vid 36610
+[04-15 08:35:07][   INFO]: no Detection element in vid 36628
+[04-15 08:35:07][   INFO]: no Detection element in vid 36634
+[04-15 08:35:07][   INFO]: no Detection element in vid 36670
+[04-15 08:35:07][   INFO]: no Detection element in vid 36672
+[04-15 08:35:07][   INFO]: no Detection element in vid 36722
+[04-15 08:35:07][   INFO]: no Detection element in vid 36738
+[04-15 08:35:07][   INFO]: no Detection element in vid 36740
+[04-15 08:35:07][   INFO]: no Detection element in vid 36754
+[04-15 08:35:07][   INFO]: no Detection element in vid 36755
+[04-15 08:35:07][   INFO]: no Detection element in vid 36756
+[04-15 08:35:07][   INFO]: no Detection element in vid 36757
+[04-15 08:35:07][   INFO]: no Detection element in vid 36758
+[04-15 08:35:07][   INFO]: no Detection element in vid 36762
+[04-15 08:35:07][   INFO]: no Detection element in vid 36763
+[04-15 08:35:07][   INFO]: no Detection element in vid 36765
+[04-15 08:35:07][   INFO]: no Detection element in vid 36766
+[04-15 08:35:07][   INFO]: no Detection element in vid 36776
+[04-15 08:35:07][   INFO]: no Detection element in vid 41066
+[04-15 08:35:07][   INFO]: no Detection element in vid 41067
+[04-15 08:35:07][   INFO]: no Detection element in vid 41072
+[04-15 08:35:07][   INFO]: no Detection element in vid 41073
+[04-15 08:35:07][   INFO]: no Detection element in vid 41075
+[04-15 08:35:07][   INFO]: no Detection element in vid 41077
+[04-15 08:35:07][   INFO]: no Detection element in vid 41087
+[04-15 08:35:07][   INFO]: no Detection element in vid 41089
+[04-15 08:35:07][   INFO]: no Detection element in vid 41101
+[04-15 08:35:07][   INFO]: no Detection element in vid 41104
+[04-15 08:35:07][   INFO]: no Detection element in vid 41159
+[04-15 08:35:07][   INFO]: no Detection element in vid 41161
+[04-15 08:35:07][   INFO]: no Detection element in vid 41167
+[04-15 08:35:07][   INFO]: no Detection element in vid 41168
+[04-15 08:35:07][   INFO]: no Detection element in vid 41169
+[04-15 08:35:07][   INFO]: no Detection element in vid 41170
+[04-15 08:35:07][   INFO]: no Detection element in vid 41173
+[04-15 08:35:07][   INFO]: no Detection element in vid 41174
+[04-15 08:35:07][   INFO]: no Detection element in vid 41176
+[04-15 08:35:07][   INFO]: no Detection element in vid 41185
+[04-15 08:35:07][   INFO]: no Detection element in vid 41447
+[04-15 08:35:07][   INFO]: no Detection element in vid 41448
+[04-15 08:35:07][   INFO]: no Detection element in vid 41449
+[04-15 08:35:07][   INFO]: no Detection element in vid 41452
+[04-15 08:35:07][   INFO]: no Detection element in vid 41460
+[04-15 08:35:07][   INFO]: no Detection element in vid 41463
+[04-15 08:35:07][   INFO]: no Detection element in vid 41464
+[04-15 08:35:07][   INFO]: no Detection element in vid 41465
+[04-15 08:35:07][   INFO]: no Detection element in vid 41466
+[04-15 08:35:07][   INFO]: no Detection element in vid 41468
+[04-15 08:35:07][   INFO]: no Detection element in vid 41469
+[04-15 08:35:07][   INFO]: no Detection element in vid 41470
+[04-15 08:35:07][   INFO]: no Detection element in vid 41471
+[04-15 08:35:07][   INFO]: no Detection element in vid 41472
+[04-15 08:35:07][   INFO]: no Detection element in vid 41660
+[04-15 08:35:07][   INFO]: no Detection element in vid 43392
+[04-15 08:35:07][   INFO]: no Detection element in vid 43393
+[04-15 08:35:07][   INFO]: no Detection element in vid 43394
+[04-15 08:35:07][   INFO]: no Detection element in vid 43395
+[04-15 08:35:07][   INFO]: no Detection element in vid 43396
+[04-15 08:35:07][   INFO]: no Detection element in vid 43404
+[04-15 08:35:07][   INFO]: no Detection element in vid 43405
+[04-15 08:35:07][   INFO]: no Detection element in vid 43406
+[04-15 08:35:07][   INFO]: no Detection element in vid 43407
+[04-15 08:35:07][   INFO]: no Detection element in vid 48664
+[04-15 08:35:07][   INFO]: no Detection element in vid 48678
+[04-15 08:35:07][   INFO]: no Detection element in vid 48679
+[04-15 08:35:07][   INFO]: no Detection element in vid 48681
+[04-15 08:35:07][   INFO]: no Detection element in vid 48682
+[04-15 08:35:07][   INFO]: no Detection element in vid 48684
+[04-15 08:35:07][   INFO]: no Detection element in vid 48685
+[04-15 08:35:07][   INFO]: no Detection element in vid 48686
+[04-15 08:35:07][   INFO]: no Detection element in vid 48697
+[04-15 08:35:07][   INFO]: no Detection element in vid 48698
+[04-15 08:35:07][   INFO]: no Detection element in vid 48699
+[04-15 08:35:07][   INFO]: no Detection element in vid 48700
+[04-15 08:35:07][   INFO]: no Detection element in vid 48727
+[04-15 08:35:07][   INFO]: no Detection element in vid 48729
+[04-15 08:35:07][   INFO]: no Detection element in vid 48730
+[04-15 08:35:07][   INFO]: no Detection element in vid 49262
+[04-15 08:35:07][   INFO]: no Detection element in vid 49275
+[04-15 08:35:07][   INFO]: no Detection element in vid 49412
+[04-15 08:35:07][   INFO]: no Detection element in vid 50015
+[04-15 08:35:07][   INFO]: no Detection element in vid 50149
+[04-15 08:35:07][   INFO]: no Detection element in vid 50179
+[04-15 08:35:07][   INFO]: no Detection element in vid 50180
+[04-15 08:35:07][   INFO]: no Detection element in vid 50188
+[04-15 08:35:07][   INFO]: no Detection element in vid 50491
+[04-15 08:35:07][   INFO]: no Detection element in vid 50535
+[04-15 08:35:07][   INFO]: no Detection element in vid 51549
+[04-15 08:35:07][   INFO]: no Detection element in vid 51598
+[04-15 08:35:07][   INFO]: no Detection element in vid 51670
+[04-15 08:35:07][   INFO]: no Detection element in vid 55619
+[04-15 08:35:07][   INFO]: no Detection element in vid 55620
+[04-15 08:35:07][   INFO]: no Detection element in vid 55622
+[04-15 08:35:07][   INFO]: no Detection element in vid 55624
+[04-15 08:35:07][   INFO]: no Detection element in vid 55637
+[04-15 08:35:07][   INFO]: no Detection element in vid 55873
+[04-15 08:35:07][   INFO]: no Detection element in vid 56014
+[04-15 08:35:07][   INFO]: no Detection element in vid 56015
+[04-15 08:35:07][   INFO]: no Detection element in vid 56033
+[04-15 08:35:07][   INFO]: no Detection element in vid 56037
+[04-15 08:35:07][   INFO]: no Detection element in vid 56058
+[04-15 08:35:07][   INFO]: no Detection element in vid 56066
+[04-15 08:35:07][   INFO]: no Detection element in vid 56379
+[04-15 08:35:07][   INFO]: no Detection element in vid 56393
+[04-15 08:35:07][   INFO]: no Detection element in vid 57572
+[04-15 08:35:07][   INFO]: no Detection element in vid 58165
+[04-15 08:35:07][   INFO]: no Detection element in vid 58169
+[04-15 08:35:07][   INFO]: no Detection element in vid 58777
+[04-15 08:35:07][   INFO]: no Detection element in vid 59288
+[04-15 08:35:07][   INFO]: no Detection element in vid 59292
+[04-15 08:35:07][   INFO]: no Detection element in vid 59308
+[04-15 08:35:07][   INFO]: no Detection element in vid 60469
+[04-15 08:35:08][   INFO]: no Detection element in vid 62430
+[04-15 08:35:08][   INFO]: no Detection element in vid 62432
+[04-15 08:35:08][   INFO]: no Detection element in vid 62441
+[04-15 08:35:08][   INFO]: no Detection element in vid 62963
+[04-15 08:35:08][   INFO]: no Detection element in vid 63221
+[04-15 08:35:08][   INFO]: no Detection element in vid 63229
+[04-15 08:35:08][   INFO]: no Detection element in vid 63263
+[04-15 08:35:08][   INFO]: no Detection element in vid 63669
+[04-15 08:35:08][   INFO]: no Detection element in vid 64037
+[04-15 08:35:08][   INFO]: no Detection element in vid 64039
+[04-15 08:35:08][   INFO]: no Detection element in vid 64068
+[04-15 08:35:08][   INFO]: no Detection element in vid 64184
+[04-15 08:35:08][   INFO]: no Detection element in vid 64277
+[04-15 08:35:08][   INFO]: no Detection element in vid 64687
+[04-15 08:35:08][   INFO]: no Detection element in vid 64696
+[04-15 08:35:08][   INFO]: no Detection element in vid 64707
+[04-15 08:35:08][   INFO]: no Detection element in vid 64736
+[04-15 08:35:08][   INFO]: no Detection element in vid 64740
+[04-15 08:35:08][   INFO]: no Detection element in vid 64791
+[04-15 08:35:08][   INFO]: no Detection element in vid 64792
+[04-15 08:35:08][   INFO]: no Detection element in vid 64793
+[04-15 08:35:08][   INFO]: no Detection element in vid 64794
+[04-15 08:35:08][   INFO]: no Detection element in vid 64795
+[04-15 08:35:08][   INFO]: no Detection element in vid 64796
+[04-15 08:35:08][   INFO]: no Detection element in vid 64797
+[04-15 08:35:08][   INFO]: no Detection element in vid 64798
+[04-15 08:35:08][   INFO]: no Detection element in vid 64799
+[04-15 08:35:08][   INFO]: no Detection element in vid 64894
+[04-15 08:35:08][   INFO]: no Detection element in vid 64901
+[04-15 08:35:08][   INFO]: no Detection element in vid 64904
+[04-15 08:35:08][   INFO]: no Detection element in vid 64905
+[04-15 08:35:08][   INFO]: no Detection element in vid 65021
+[04-15 08:35:08][   INFO]: no Detection element in vid 65022
+[04-15 08:35:08][   INFO]: no Detection element in vid 65026
+[04-15 08:35:08][   INFO]: no Detection element in vid 65034
+[04-15 08:35:08][   INFO]: no Detection element in vid 65561
+[04-15 08:35:08][   INFO]: no Detection element in vid 65562
+[04-15 08:35:08][   INFO]: no Detection element in vid 65572
+[04-15 08:35:08][   INFO]: no Detection element in vid 65573
+[04-15 08:35:08][   INFO]: no Detection element in vid 65609
+[04-15 08:35:08][   INFO]: no Detection element in vid 65610
+[04-15 08:35:08][   INFO]: no Detection element in vid 65903
+[04-15 08:35:08][   INFO]: no Detection element in vid 65914
+[04-15 08:35:08][   INFO]: no Detection element in vid 65928
+[04-15 08:35:08][   INFO]: no Detection element in vid 65931
+[04-15 08:35:08][   INFO]: no Detection element in vid 65934
+[04-15 08:35:08][   INFO]: no Detection element in vid 65936
+[04-15 08:35:08][   INFO]: no Detection element in vid 66208
+[04-15 08:35:08][   INFO]: no Detection element in vid 66599
+[04-15 08:35:08][   INFO]: no Detection element in vid 66609
+[04-15 08:35:08][   INFO]: no Detection element in vid 66912
+[04-15 08:35:08][   INFO]: no Detection element in vid 66913
+[04-15 08:35:08][   INFO]: no Detection element in vid 67266
+[04-15 08:35:08][   INFO]: no Detection element in vid 67868
+[04-15 08:35:08][   INFO]: no Detection element in vid 68162
+[04-15 08:35:08][   INFO]: no Detection element in vid 68172
+[04-15 08:35:08][   INFO]: no Detection element in vid 68760
+[04-15 08:35:08][   INFO]: no Detection element in vid 68775
+[04-15 08:35:08][   INFO]: no Detection element in vid 68776
+[04-15 08:35:08][   INFO]: no Detection element in vid 68779
+[04-15 08:35:08][   INFO]: no Detection element in vid 69160
+[04-15 08:35:08][   INFO]: no Detection element in vid 69224
+[04-15 08:35:08][   INFO]: no Detection element in vid 69278
+[04-15 08:35:08][   INFO]: no Detection element in vid 69279
+[04-15 08:35:08][   INFO]: no Detection element in vid 69280
+[04-15 08:35:08][   INFO]: no Detection element in vid 69586
+[04-15 08:35:08][   INFO]: no Detection element in vid 69882
+[04-15 08:35:08][   INFO]: no Detection element in vid 71846
+[04-15 08:35:08][   INFO]: no Detection element in vid 72018
+[04-15 08:35:08][   INFO]: no Detection element in vid 72294
+[04-15 08:35:08][   INFO]: no Detection element in vid 72324
+[04-15 08:35:08][   INFO]: no Detection element in vid 72332
+[04-15 08:35:08][   INFO]: no Detection element in vid 72350
+[04-15 08:35:08][   INFO]: no Detection element in vid 72589
+[04-15 08:35:08][   INFO]: no Detection element in vid 72981
+[04-15 08:35:08][   INFO]: no Detection element in vid 73015
+[04-15 08:35:08][   INFO]: no Detection element in vid 73022
+[04-15 08:35:08][   INFO]: no Detection element in vid 73033
+[04-15 08:35:08][   INFO]: no Detection element in vid 73035
+[04-15 08:35:08][   INFO]: no Detection element in vid 73036
+[04-15 08:35:08][   INFO]: no Detection element in vid 73037
+[04-15 08:35:08][   INFO]: no Detection element in vid 73188
+[04-15 08:35:08][   INFO]: no Detection element in vid 73194
+[04-15 08:35:08][   INFO]: no Detection element in vid 73197
+[04-15 08:35:08][   INFO]: no Detection element in vid 73235
+[04-15 08:35:08][   INFO]: no Detection element in vid 73397
+[04-15 08:35:08][   INFO]: no Detection element in vid 73743
+[04-15 08:35:08][   INFO]: no Detection element in vid 73748
+[04-15 08:35:08][   INFO]: no Detection element in vid 74072
+[04-15 08:35:08][   INFO]: no Detection element in vid 74096
+[04-15 08:35:08][   INFO]: no Detection element in vid 74097
+[04-15 08:35:08][   INFO]: no Detection element in vid 74130
+[04-15 08:35:08][   INFO]: no Detection element in vid 74134
+[04-15 08:35:08][   INFO]: no Detection element in vid 74136
+[04-15 08:35:08][   INFO]: no Detection element in vid 74143
+[04-15 08:35:08][   INFO]: no Detection element in vid 74160
+[04-15 08:35:08][   INFO]: no Detection element in vid 74178
+[04-15 08:35:08][   INFO]: no Detection element in vid 74345
+[04-15 08:35:08][   INFO]: no Detection element in vid 74376
+[04-15 08:35:08][   INFO]: no Detection element in vid 74382
+[04-15 08:35:08][   INFO]: no Detection element in vid 74383
+[04-15 08:35:08][   INFO]: no Detection element in vid 74385
+[04-15 08:35:08][   INFO]: no Detection element in vid 74596
+[04-15 08:35:08][   INFO]: no Detection element in vid 74603
+[04-15 08:35:08][   INFO]: no Detection element in vid 74604
+[04-15 08:35:08][   INFO]: no Detection element in vid 74605
+[04-15 08:35:08][   INFO]: no Detection element in vid 74606
+[04-15 08:35:08][   INFO]: no Detection element in vid 74778
+[04-15 08:35:08][   INFO]: no Detection element in vid 74779
+[04-15 08:35:08][   INFO]: no Detection element in vid 74783
+[04-15 08:35:09][   INFO]: no Detection element in vid 74784
+[04-15 08:35:09][   INFO]: no Detection element in vid 74785
+[04-15 08:35:09][   INFO]: no Detection element in vid 74786
+[04-15 08:35:09][   INFO]: no Detection element in vid 74787
+[04-15 08:35:09][   INFO]: no Detection element in vid 74788
+[04-15 08:35:09][   INFO]: no Detection element in vid 74960
+[04-15 08:35:09][   INFO]: no Detection element in vid 74962
+[04-15 08:35:09][   INFO]: no Detection element in vid 75023
+[04-15 08:35:09][   INFO]: no Detection element in vid 75359
+[04-15 08:35:09][   INFO]: no Detection element in vid 75603
+[04-15 08:35:09][   INFO]: no Detection element in vid 75644
+[04-15 08:35:09][   INFO]: no Detection element in vid 75645
+[04-15 08:35:09][   INFO]: no Detection element in vid 75646
+[04-15 08:35:09][   INFO]: no Detection element in vid 75649
+[04-15 08:35:09][   INFO]: no Detection element in vid 75652
+[04-15 08:35:09][   INFO]: no Detection element in vid 75653
+[04-15 08:35:09][   INFO]: no Detection element in vid 75654
+[04-15 08:35:09][   INFO]: no Detection element in vid 75655
+[04-15 08:35:09][   INFO]: no Detection element in vid 75797
+[04-15 08:35:09][   INFO]: no Detection element in vid 75798
+[04-15 08:35:09][   INFO]: no Detection element in vid 75875
+[04-15 08:35:09][   INFO]: no Detection element in vid 75885
+[04-15 08:35:09][   INFO]: no Detection element in vid 75886
+[04-15 08:35:09][   INFO]: no Detection element in vid 75887
+[04-15 08:35:09][   INFO]: no Detection element in vid 75909
+[04-15 08:35:09][   INFO]: no Detection element in vid 75911
+[04-15 08:35:09][   INFO]: no Detection element in vid 76123
+[04-15 08:35:09][   INFO]: no Detection element in vid 76129
+[04-15 08:35:09][   INFO]: no Detection element in vid 76135
+[04-15 08:35:09][   INFO]: no Detection element in vid 76139
+[04-15 08:35:09][   INFO]: no Detection element in vid 76142
+[04-15 08:35:09][   INFO]: no Detection element in vid 76143
+[04-15 08:35:09][   INFO]: no Detection element in vid 76146
+[04-15 08:35:09][   INFO]: no Detection element in vid 76147
+[04-15 08:35:09][   INFO]: no Detection element in vid 76488
+[04-15 08:35:09][   INFO]: no Detection element in vid 76489
+[04-15 08:35:09][   INFO]: no Detection element in vid 76491
+[04-15 08:35:09][   INFO]: no Detection element in vid 76499
+[04-15 08:35:09][   INFO]: no Detection element in vid 76501
+[04-15 08:35:09][   INFO]: no Detection element in vid 76810
+[04-15 08:35:09][   INFO]: no Detection element in vid 76812
+[04-15 08:35:09][   INFO]: no Detection element in vid 76828
+[04-15 08:35:09][   INFO]: @phase:0, 0 of 0
+[04-15 08:35:09][   INFO]: no Detection element in vid 77536
+[04-15 08:35:09][   INFO]: no Detection element in vid 77540
+[04-15 08:35:10][   INFO]: no Detection element in vid 77565
+[04-15 08:35:10][   INFO]: no Detection element in vid 77566
+[04-15 08:35:10][   INFO]: no Detection element in vid 77569
+[04-15 08:35:10][   INFO]: no Detection element in vid 77570
+[04-15 08:35:10][   INFO]: no Detection element in vid 77573
+[04-15 08:35:10][   INFO]: no Detection element in vid 77754
+[04-15 08:35:10][   INFO]: no Detection element in vid 77932
+[04-15 08:35:10][   INFO]: no Detection element in vid 77938
+[04-15 08:35:10][   INFO]: no Detection element in vid 77956
+[04-15 08:35:10][   INFO]: no Detection element in vid 78263
+[04-15 08:35:10][   INFO]: no Detection element in vid 78280
+[04-15 08:35:10][   INFO]: no Detection element in vid 78281
+[04-15 08:35:10][   INFO]: no Detection element in vid 78282
+[04-15 08:35:10][   INFO]: no Detection element in vid 78283
+[04-15 08:35:10][   INFO]: no Detection element in vid 78284
+[04-15 08:35:10][   INFO]: no Detection element in vid 78285
+[04-15 08:35:10][   INFO]: no Detection element in vid 78291
+[04-15 08:35:10][   INFO]: no Detection element in vid 78308
+[04-15 08:35:10][   INFO]: no Detection element in vid 78314
+[04-15 08:35:10][   INFO]: no Detection element in vid 78315
+[04-15 08:35:10][   INFO]: no Detection element in vid 78317
+[04-15 08:35:10][   INFO]: no Detection element in vid 78318
+[04-15 08:35:10][   INFO]: no Detection element in vid 78613
+[04-15 08:35:10][   INFO]: no Detection element in vid 78634
+[04-15 08:35:10][   INFO]: no Detection element in vid 79421
+[04-15 08:35:11][   INFO]: no Detection element in vid 79815
+[04-15 08:35:11][   INFO]: no Detection element in vid 79817
+[04-15 08:35:11][   INFO]: no Detection element in vid 79818
+[04-15 08:35:11][   INFO]: no Detection element in vid 79819
+[04-15 08:35:11][   INFO]: no Detection element in vid 79820
+[04-15 08:35:11][   INFO]: no Detection element in vid 80220
+[04-15 08:35:11][   INFO]: no Detection element in vid 80225
+[04-15 08:35:11][   INFO]: no Detection element in vid 80282
+[04-15 08:35:11][   INFO]: no Detection element in vid 80351
+[04-15 08:35:11][   INFO]: no Detection element in vid 80743
+[04-15 08:35:11][   INFO]: no Detection element in vid 80744
+[04-15 08:35:11][   INFO]: no Detection element in vid 80795
+[04-15 08:35:11][   INFO]: no Detection element in vid 80796
+[04-15 08:35:11][   INFO]: no Detection element in vid 80801
+[04-15 08:35:11][   INFO]: no Detection element in vid 80805
+[04-15 08:35:11][   INFO]: no Detection element in vid 81100
+[04-15 08:35:11][   INFO]: no Detection element in vid 81110
+[04-15 08:35:11][   INFO]: no Detection element in vid 81111
+[04-15 08:35:11][   INFO]: no Detection element in vid 81143
+[04-15 08:35:11][   INFO]: no Detection element in vid 81530
+[04-15 08:35:11][   INFO]: no Detection element in vid 81533
+[04-15 08:35:11][   INFO]: no Detection element in vid 81580
+[04-15 08:35:11][   INFO]: no Detection element in vid 81627
+[04-15 08:35:11][   INFO]: no Detection element in vid 82312
+[04-15 08:35:11][   INFO]: no Detection element in vid 82313
+[04-15 08:35:11][   INFO]: no Detection element in vid 82314
+[04-15 08:35:11][   INFO]: no Detection element in vid 82315
+[04-15 08:35:11][   INFO]: no Detection element in vid 82318
+[04-15 08:35:11][   INFO]: no Detection element in vid 82647
+[04-15 08:35:11][   INFO]: no Detection element in vid 82684
+[04-15 08:35:11][   INFO]: no Detection element in vid 83485
+[04-15 08:35:11][   INFO]: no Detection element in vid 83547
+[04-15 08:35:11][   INFO]: no Detection element in vid 83553
+[04-15 08:35:11][   INFO]: no Detection element in vid 83555
+[04-15 08:35:11][   INFO]: no Detection element in vid 83561
+[04-15 08:35:11][   INFO]: no Detection element in vid 83572
+[04-15 08:35:11][   INFO]: no Detection element in vid 83602
+[04-15 08:35:12][   INFO]: no Detection element in vid 84000
+[04-15 08:35:12][   INFO]: no Detection element in vid 84219
+[04-15 08:35:12][   INFO]: no Detection element in vid 84220
+[04-15 08:35:12][   INFO]: no Detection element in vid 84221
+[04-15 08:35:12][   INFO]: no Detection element in vid 84259
+[04-15 08:35:12][   INFO]: no Detection element in vid 84581
+[04-15 08:35:12][   INFO]: no Detection element in vid 84586
+[04-15 08:35:12][   INFO]: no Detection element in vid 84588
+[04-15 08:35:12][   INFO]: no Detection element in vid 84631
+[04-15 08:35:12][   INFO]: no Detection element in vid 85279
+[04-15 08:35:12][   INFO]: no Detection element in vid 85334
+[04-15 08:35:12][   INFO]: no Detection element in vid 85528
+[04-15 08:35:12][   INFO]: no Detection element in vid 85579
+[04-15 08:35:12][   INFO]: no Detection element in vid 85582
+[04-15 08:35:12][   INFO]: no Detection element in vid 85992
+[04-15 08:35:12][   INFO]: no Detection element in vid 85993
+[04-15 08:35:12][   INFO]: no Detection element in vid 85994
+[04-15 08:35:12][   INFO]: no Detection element in vid 85999
+[04-15 08:35:12][   INFO]: no Detection element in vid 86011
+[04-15 08:35:12][   INFO]: no Detection element in vid 86588
+[04-15 08:35:12][   INFO]: no Detection element in vid 86595
+[04-15 08:35:12][   INFO]: no Detection element in vid 86660
+[04-15 08:35:12][   INFO]: no Detection element in vid 86667
+[04-15 08:35:12][   INFO]: no Detection element in vid 86953
+[04-15 08:35:12][   INFO]: no Detection element in vid 86959
+[04-15 08:35:12][   INFO]: no Detection element in vid 87000
+[04-15 08:35:12][   INFO]: no Detection element in vid 87262
+[04-15 08:35:12][   INFO]: no Detection element in vid 87263
+[04-15 08:35:12][   INFO]: no Detection element in vid 87400
+[04-15 08:35:12][   INFO]: no Detection element in vid 87991
+[04-15 08:35:13][   INFO]: no Detection element in vid 88014
+[04-15 08:35:13][   INFO]: no Detection element in vid 88569
+[04-15 08:35:13][   INFO]: no Detection element in vid 88570
+[04-15 08:35:13][   INFO]: no Detection element in vid 89103
+[04-15 08:35:13][   INFO]: no Detection element in vid 89852
+[04-15 08:35:13][   INFO]: no Detection element in vid 91061
+[04-15 08:35:13][   INFO]: no Detection element in vid 91069
+[04-15 08:35:13][   INFO]: no Detection element in vid 92283
+[04-15 08:35:13][   INFO]: no Detection element in vid 92366
+[04-15 08:35:13][   INFO]: no Detection element in vid 92368
+[04-15 08:35:13][   INFO]: no Detection element in vid 92369
+[04-15 08:35:13][   INFO]: no Detection element in vid 92374
+[04-15 08:35:16][   INFO]: @phase:0, 0 of 0
+[04-15 08:35:19][   INFO]: Collecting installed app information...
+[04-15 08:35:20][   INFO]: app list size=35 after enum SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+, root:0x80000002
+processor architecture=9
+[04-15 08:35:20][   INFO]: app list size=62 after enum SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+, root:0x80000002
+[04-15 08:35:20][   INFO]: Start to init comp map
+[04-15 08:35:22][   INFO]: init comp map, size: 21
+[04-15 08:35:22][   INFO]: reg installed app list size:62
+[04-15 08:35:22][   INFO]: prodCode:AddressBook, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:Connection Manager, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:DirectDrawEx, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:DXM_Runtime, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:Fontcore, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IE40, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IE4Data, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IE5BAKEX, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IEData, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:MobileOptionPack, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:MPlayer2, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:mstsc-4b0a31aa-df6a-4307-9b47-d5cc50009643, name:, vender:Microsoft Corporation, version:, instLocation:C:\Windows\System32\, uninstallStr:"C:\Windows\System32\mstsc.exe" /uninstall
+[04-15 08:35:22][   INFO]: prodCode:O365BusinessRetail - en-us, name:Microsoft 365 Apps for business - en-us, vender:Microsoft Corporation, version:16.0.19822.20150, instLocation:C:\Program Files\Microsoft Office, uninstallStr:"C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365BusinessRetail.16_en-us_x-none culture=en-us version.16=16.0
+[04-15 08:35:22][   INFO]: prodCode:SchedulingAgent, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:WIC, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:{1035D2D9-C210-4022-81D4-747CAFF9F1CA}, name:Dell Core Services, vender:Dell, Inc., version:1.12.12.0, instLocation:C:\Program Files\Dell\, uninstallStr:MsiExec.exe /I{1035D2D9-C210-4022-81D4-747CAFF9F1CA}
+[04-15 08:35:22][   INFO]: prodCode:{13DA9C7C-EBFB-40D0-94A1-55B42883DF21}, name:64 Bit HP CIO Components Installer, vender:HP Inc., version:21.2.1, instLocation:, uninstallStr:MsiExec.exe /I{13DA9C7C-EBFB-40D0-94A1-55B42883DF21}
+[04-15 08:35:22][   INFO]: prodCode:{2D690786-1257-44F3-AB75-7F55B62B42E9}, name:Microsoft .NET Host - 8.0.26 (x64), vender:Microsoft Corporation, version:64.104.50421, instLocation:, uninstallStr:MsiExec.exe /X{2D690786-1257-44F3-AB75-7F55B62B42E9}
+[04-15 08:35:22][   INFO]: prodCode:{3503361B-D25D-4193-B892-B288DC9F9155}, name:Microsoft Device Inventory Agent, vender:Microsoft Corporation, version:26.3.23.2000, instLocation:, uninstallStr:MsiExec.exe /I{3503361B-D25D-4193-B892-B288DC9F9155}
+[04-15 08:35:22][   INFO]: prodCode:{43B0D101-A022-48F4-9D04-BA404CEB1D53}, name:Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211, vender:Microsoft Corporation, version:14.44.35211, instLocation:, uninstallStr:MsiExec.exe /I{43B0D101-A022-48F4-9D04-BA404CEB1D53}
+[04-15 08:35:22][   INFO]: prodCode:{4A8138D3-88D3-4FB5-8DDE-ED3802B50B25}, name:Classroom, vender:Securly, version:1.3.10.26, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:{680112DE-B092-11F0-AF2A-F6EE749A208B}, name:PaperCut MF Client, vender:PaperCut Software International Pty Ltd, version:25.0.5, instLocation:, uninstallStr:MsiExec.exe /I{680112DE-B092-11F0-AF2A-F6EE749A208B}
+[04-15 08:35:22][   INFO]: prodCode:{6939CB9C-515D-372C-AF4A-BA8D6A40CC4B}, name:Google Chrome, vender:Google LLC, version:146.0.7680.178, instLocation:, uninstallStr:MsiExec.exe /X{6939CB9C-515D-372C-AF4A-BA8D6A40CC4B}
+[04-15 08:35:22][   INFO]: prodCode:{6B74BAA3-9F20-4F6E-84D2-1230945E503B}, name:FortiClient, vender:Fortinet Technologies Inc, version:7.4.5.1949, instLocation:C:\Program Files\Fortinet\FortiClient\, uninstallStr:MsiExec.exe /I{6B74BAA3-9F20-4F6E-84D2-1230945E503B}
+[04-15 08:35:22][   INFO]: prodCode:{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}, name:Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211, vender:Microsoft Corporation, version:14.44.35211, instLocation:, uninstallStr:MsiExec.exe /I{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}
+[04-15 08:35:22][   INFO]: prodCode:{90160000-008C-0000-1000-0000000FF1CE}, name:Office 16 Click-to-Run Extensibility Component, vender:Microsoft Corporation, version:16.0.19822.20104, instLocation:, uninstallStr:MsiExec.exe /X{90160000-008C-0000-1000-0000000FF1CE}
+[04-15 08:35:22][   INFO]: prodCode:{987AABAD-F544-404E-86C6-215EAFBEB7C0}, name:Configuration Manager Client, vender:Microsoft Corporation, version:5.00.9132.1000, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:{BC979F77-77D3-4599-ADFF-12D432BFF8C5}, name:Microsoft Windows Desktop Runtime - 8.0.26 (x64), vender:Microsoft Corporation, version:64.104.50433, instLocation:, uninstallStr:MsiExec.exe /X{BC979F77-77D3-4599-ADFF-12D432BFF8C5}
+[04-15 08:35:22][   INFO]: prodCode:{C971FC9E-5291-4C07-8E2F-96BDCBF217E2}, name:Microsoft .NET Host FX Resolver - 8.0.26 (x64), vender:Microsoft Corporation, version:64.104.50421, instLocation:, uninstallStr:MsiExec.exe /X{C971FC9E-5291-4C07-8E2F-96BDCBF217E2}
+[04-15 08:35:22][   INFO]: prodCode:{CAF40469-57FC-4A0A-BBC3-7CBACDD49D15}, name:Microsoft Policy Platform, vender:Microsoft Corporation, version:68.1.9099.1053, instLocation:, uninstallStr:MsiExec.exe /X{CAF40469-57FC-4A0A-BBC3-7CBACDD49D15}
+[04-15 08:35:22][   INFO]: prodCode:{D303EB7E-BAFD-4A65-A520-AA388FA0BF9A}, name:Microsoft .NET Runtime - 8.0.26 (x64), vender:Microsoft Corporation, version:64.104.50421, instLocation:, uninstallStr:MsiExec.exe /X{D303EB7E-BAFD-4A65-A520-AA388FA0BF9A}
+[04-15 08:35:22][   INFO]: prodCode:{E9B16580-E17E-457C-A15A-F804413675A9}, name:CKCloud, vender:ContentKeeper Technologies, version:9.07.01, instLocation:C:\Program Files\CKMobile\, uninstallStr:MsiExec.exe /X{E9B16580-E17E-457C-A15A-F804413675A9}
+[04-15 08:35:22][   INFO]: prodCode:{F2F6A09E-8BE3-484E-BA48-888AFEC5F20A}, name:Microsoft Monitoring Agent, vender:Microsoft Corporation, version:10.20.18064.0, instLocation:, uninstallStr:MsiExec.exe /I{F2F6A09E-8BE3-484E-BA48-888AFEC5F20A}
+[04-15 08:35:22][   INFO]: prodCode:{F7AED46E-650C-427A-BB93-1FFD01BB4957}, name:PaperCut Print Deploy Client, vender:PaperCut Software International Pty Ltd, version:1.9.1933, instLocation:, uninstallStr:MsiExec.exe /I{F7AED46E-650C-427A-BB93-1FFD01BB4957}
+[04-15 08:35:22][   INFO]: prodCode:{F935D27B-388F-4406-A08E-2CA7C81B2C10}, name:NWEA State Solutions Secure Browser, vender:NWEA, version:4.7.0, instLocation:, uninstallStr:MsiExec.exe /I{F935D27B-388F-4406-A08E-2CA7C81B2C10}
+[04-15 08:35:22][   INFO]: prodCode:AddressBook, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:Connection Manager, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:DirectDrawEx, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:DXM_Runtime, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:Fontcore, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IE40, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IE4Data, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IE5BAKEX, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:IEData, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:Microsoft Edge, name:Microsoft Edge, vender:Microsoft Corporation, version:147.0.3912.60, instLocation:C:\Program Files (x86)\Microsoft\Edge\Application, uninstallStr:"C:\Program Files (x86)\Microsoft\Edge\Application\147.0.3912.60\Installer\setup.exe" --uninstall --msedge --channel=stable --system-level --verbose-logging
+[04-15 08:35:22][   INFO]: prodCode:Microsoft Edge Update, name:, vender:, version:1.3.229.3, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:Microsoft EdgeWebView, name:Microsoft Edge WebView2 Runtime, vender:Microsoft Corporation, version:147.0.3912.60, instLocation:C:\Program Files (x86)\Microsoft\EdgeWebView\Application, uninstallStr:"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.60\Installer\setup.exe" --uninstall --msedgewebview --system-level --verbose-logging
+[04-15 08:35:22][   INFO]: prodCode:MobileOptionPack, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:MPlayer2, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:SchedulingAgent, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:WIC, name:, vender:, version:, instLocation:, uninstallStr:
+[04-15 08:35:22][   INFO]: prodCode:{011F1A5C-BC85-49E6-B7EE-A9CFF8880ACB}, name:Dell Command | Update, vender:Dell Inc., version:5.6.0, instLocation:C:\Program Files (x86)\Dell\CommandUpdate\, uninstallStr:MsiExec.exe /X{011F1A5C-BC85-49E6-B7EE-A9CFF8880ACB}
+[04-15 08:35:22][   INFO]: prodCode:{0b5169e3-39da-4313-808e-1f9c0407f3bf}, name:Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211, vender:Microsoft Corporation, version:14.44.35211.0, instLocation:, uninstallStr:"C:\ProgramData\Package Cache\{0b5169e3-39da-4313-808e-1f9c0407f3bf}\VC_redist.x86.exe"  /uninstall
+[04-15 08:35:22][   INFO]: prodCode:{30660FD5-D7DB-4A20-872D-382274CA0E44}, name:Microsoft Intune Management Extension, vender:Microsoft Corporation, version:1.101.109.0, instLocation:, uninstallStr:MsiExec.exe /I{30660FD5-D7DB-4A20-872D-382274CA0E44}
+[04-15 08:35:22][   INFO]: prodCode:{3A352BB2-39BB-426D-BA07-78B300C9C514}, name:Duo Desktop, vender:Duo Security, version:7.16.0.0, instLocation:, uninstallStr:MsiExec.exe /I{3A352BB2-39BB-426D-BA07-78B300C9C514}
+[04-15 08:35:22][   INFO]: prodCode:{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}, name:Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211, vender:Microsoft Corporation, version:14.44.35211, instLocation:, uninstallStr:MsiExec.exe /I{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}
+[04-15 08:35:22][   INFO]: prodCode:{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}, name:Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211, vender:Microsoft Corporation, version:14.44.35211, instLocation:, uninstallStr:MsiExec.exe /I{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}
+[04-15 08:35:22][   INFO]: prodCode:{C5B0EAA0-3183-4FDE-9891-52F80C286C62}, name:Recast Agent, vender:Recast Software, Inc., version:5.11.2601.1504, instLocation:, uninstallStr:MsiExec.exe /X{C5B0EAA0-3183-4FDE-9891-52F80C286C62}
+[04-15 08:35:22][   INFO]: prodCode:{C9A6A3E6-1AAE-49ED-A609-8B646B2ADB00}, name:Respondus LockDown Browser Lab OEM, vender:Respondus, version:2.13.08, instLocation:C:\Program Files (x86)\Respondus\LockDown Browser Lab OEM\, uninstallStr:MsiExec.exe /X{C9A6A3E6-1AAE-49ED-A609-8B646B2ADB00}
+[04-15 08:35:22][   INFO]: prodCode:{ccb8cf0e-e9c7-4fea-add7-d5cdde656e5b}, name:Microsoft Windows Desktop Runtime - 8.0.26 (x64), vender:Microsoft Corporation, version:8.0.26.35920, instLocation:, uninstallStr:"C:\ProgramData\Package Cache\{ccb8cf0e-e9c7-4fea-add7-d5cdde656e5b}\windowsdesktop-runtime-8.0.26-win-x64.exe"  /uninstall
+[04-15 08:35:22][   INFO]: prodCode:{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}, name:Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211, vender:Microsoft Corporation, version:14.44.35211.0, instLocation:, uninstallStr:"C:\ProgramData\Package Cache\{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}\VC_redist.x64.exe"  /uninstall
+[04-15 08:35:22][   INFO]: prodCode:{FF694045-5446-402F-8128-1462E26A7E6E}, name:NWEA Secure Testing Browser, vender:NWEA, version:5.4.442.0, instLocation:C:\Program Files (x86)\NWEA\NWEA Secure Testing Browser\, uninstallStr:MsiExec.exe /I{FF694045-5446-402F-8128-1462E26A7E6E}
+get installedapp file list, C:\Program Files (x86)
+[04-15 08:35:22][   INFO]: root=C:\Program Files (x86), namepattern=*
+[04-15 08:35:23][   INFO]: @phase:0, 0 of 0
+[04-15 08:35:29][   INFO]: @phase:0, 0 of 0
+[04-15 08:35:36][   INFO]: @phase:0, 0 of 0
+get installedapp file list, C:\WINDOWS\system32\config\systemprofile\AppData\Local
+[04-15 08:35:41][   INFO]: root=C:\WINDOWS\system32\config\systemprofile\AppData\Local, namepattern=*
+[04-15 08:35:43][   INFO]: @phase:0, 0 of 0
+get installedapp file list, C:\WINDOWS\system32\config\systemprofile\AppData\Roaming
+[04-15 08:35:43][   INFO]: root=C:\WINDOWS\system32\config\systemprofile\AppData\Roaming, namepattern=*
+processor architecture=9
+get installedapp file list, TInstalledAppFinder::GetInstalledAppFileList
+[04-15 08:35:43][   INFO]: root=C:\Program Files, namepattern=*
+[04-15 08:35:49][   INFO]: @phase:0, 0 of 0
+[04-15 08:35:56][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:03][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:10][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:16][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:23][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:30][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:36][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:43][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:50][   INFO]: @phase:0, 0 of 0
+[04-15 08:36:56][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:03][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:09][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:16][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:23][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:29][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:36][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:43][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:49][   INFO]: @phase:0, 0 of 0
+[04-15 08:37:56][   INFO]: @phase:0, 0 of 0
+[04-15 08:38:03][   INFO]: @phase:0, 0 of 0
+[04-15 08:38:09][   INFO]: @phase:0, 0 of 0

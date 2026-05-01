@@ -1,0 +1,1863 @@
+[2026-04-03 12:38:30.8435839 UTC-05:00] [8072:3344] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 845s) 2026-04-03 12:38:30.840 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-03 12:38:30.8456321 UTC-05:00] [8072:3344] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-03 12:38:30.9653993 UTC-05:00] [8072:3344] [sslvpndaemon  203   debug] open shared memory for session 4294967194 successfully
+[2026-04-03 12:38:30.9768467 UTC-05:00] [8072:3344] [sslvpndaemon  26   debug] dll enum session 0
+[2026-04-03 12:38:30.9769063 UTC-05:00] [8072:3344] [sslvpndaemon  203   debug] open shared memory for session 0 successfully
+[2026-04-03 12:38:30.9769138 UTC-05:00] [8072:3344] [sslvpndaemon  26   debug] dll enum session 1
+[2026-04-03 12:38:30.9778995 UTC-05:00] [8072:3344] [sslvpndaemon  326    info] VpnConn shared memory initialized
+[2026-04-03 12:38:30.9803381 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-03 12:38:30.9804530 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-03 12:38:30.9804733 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-03 12:38:31.0022935 UTC-05:00] [8072:4944] [sslvpndaemon  373    info] 
+[2026-04-03 12:38:31.0059914 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-03 12:38:31.0060224 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-03 12:38:31.0063491 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 12:38:38.8443172 UTC-05:00] [8072:6940] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 12:38:38.8546959 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 12:38:38.8548498 UTC-05:00] [8072:8884] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000057C
+[2026-04-03 12:38:38.8548924 UTC-05:00] [8072:8884] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8696
+[2026-04-03 12:38:38.8551083 UTC-05:00] [8072:8884] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 12:38:39.5027661 UTC-05:00] [8072:8884] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 12:38:39.7923828 UTC-05:00] [8072:8884] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 12:38:39.7923916 UTC-05:00] [8072:8884] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-03 12:38:48.8047790 UTC-05:00] [8072:8884] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:38:48.8048172 UTC-05:00] [8072:8884] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:38:52.2781510 UTC-05:00] [8072:6940] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 12:38:52.2888623 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 12:38:52.2889886 UTC-05:00] [8072:9168] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000069C
+[2026-04-03 12:38:52.2890440 UTC-05:00] [8072:9168] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9072
+[2026-04-03 12:38:53.1277085 UTC-05:00] [8072:9168] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:38:53.1277189 UTC-05:00] [8072:9168] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:45:06.0382918 UTC-05:00] [8072:6940] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 12:45:06.0481869 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 12:45:06.0484008 UTC-05:00] [8072:2724] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A0
+[2026-04-03 12:45:06.0484421 UTC-05:00] [8072:2724] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3504
+[2026-04-03 12:45:06.9414369 UTC-05:00] [8072:2724] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:45:06.9414489 UTC-05:00] [8072:2724] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:48:49.7449175 UTC-05:00] [8072:7752] [sslvpndaemon  44   debug] dll WTS_SESSION_LOGON 1
+[2026-04-03 12:48:49.7795405 UTC-05:00] [8072:7752] [sslvpndaemon  203   debug] open shared memory for session 1 successfully
+[2026-04-03 12:49:07.3803977 UTC-05:00] [8072:6940] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 12:49:07.3934628 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 12:49:07.3935948 UTC-05:00] [8072:12880] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000648
+[2026-04-03 12:49:07.3936377 UTC-05:00] [8072:12880] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11012
+[2026-04-03 12:52:51.5281113 UTC-05:00] [8072:12880] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:52:51.5290149 UTC-05:00] [8072:12880] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 12:52:55.5037569 UTC-05:00] [8072:7752] [sslvpndaemon  48   debug] dll WTS_SESSION_LOGOFF 1
+[2026-04-03 12:52:55.5042953 UTC-05:00] [8072:7752] [sslvpndaemon  228   debug] session 1 logout, mark closure of shared memory
+[2026-04-03 13:32:56.6299012 UTC-05:00] [8072:9340] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:56.6376349 UTC-05:00] [8072:11960] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:56.6568055 UTC-05:00] [8072:9340] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:56.6593328 UTC-05:00] [8072:5644] [sslvpndaemon  718    info] found addr change
+
+[2026-04-03 13:32:56.6659500 UTC-05:00] [8072:11960] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:56.7278897 UTC-05:00] [8072:9340] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:56.7337886 UTC-05:00] [8072:11960] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:56.7522368 UTC-05:00] [8072:9340] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:56.7585927 UTC-05:00] [8072:11960] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:32:57.6797149 UTC-05:00] [8072:5644] [sslvpndaemon  595    info] prevIf= currIf=7,
+[2026-04-03 13:32:57.6800462 UTC-05:00] [8072:5644] [sslvpndaemon  727    info] found route change
+
+[2026-04-03 13:33:00.7593864 UTC-05:00] [8072:6940] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 13:33:00.7670148 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 13:33:00.7670593 UTC-05:00] [8072:5604] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000650
+[2026-04-03 13:33:00.7671152 UTC-05:00] [8072:5604] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7128
+[2026-04-03 13:33:06.5546495 UTC-05:00] [8072:5604] [sslvpndaemon  657 warning] CListener::_ReceiveMessage() got exit event.
+[2026-04-03 13:33:06.5547100 UTC-05:00] [8072:6940] [sslvpndaemon  523   debug] FortiSslvpnD: PipeServerProc exits
+[2026-04-03 13:34:14.6647796 UTC-05:00] [8464:3988] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 44s) 2026-04-03 13:34:14.661 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-03 13:34:14.6663438 UTC-05:00] [8464:3988] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-03 13:34:14.7867326 UTC-05:00] [8464:3988] [sslvpndaemon  203   debug] open shared memory for session 4294967194 successfully
+[2026-04-03 13:34:14.7973529 UTC-05:00] [8464:3988] [sslvpndaemon  26   debug] dll enum session 0
+[2026-04-03 13:34:14.7973964 UTC-05:00] [8464:3988] [sslvpndaemon  203   debug] open shared memory for session 0 successfully
+[2026-04-03 13:34:14.7974051 UTC-05:00] [8464:3988] [sslvpndaemon  26   debug] dll enum session 1
+[2026-04-03 13:34:14.8062977 UTC-05:00] [8464:3988] [sslvpndaemon  26   debug] dll enum session 65536
+[2026-04-03 13:34:14.8073857 UTC-05:00] [8464:3988] [sslvpndaemon  326    info] VpnConn shared memory initialized
+[2026-04-03 13:34:14.8147353 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-03 13:34:14.8151234 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-03 13:34:14.8151467 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-03 13:34:14.8260414 UTC-05:00] [8464:9744] [sslvpndaemon  373    info] 
+[2026-04-03 13:34:14.8280319 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-03 13:34:14.8280507 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-03 13:34:14.8281604 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 13:34:15.5231712 UTC-05:00] [8464:9452] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 13:34:15.5336934 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 13:34:15.5338811 UTC-05:00] [8464:10168] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000574
+[2026-04-03 13:34:15.5339207 UTC-05:00] [8464:10168] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1856
+[2026-04-03 13:34:15.5340983 UTC-05:00] [8464:10168] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 13:34:15.5342094 UTC-05:00] [8464:10168] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 13:35:52.9679888 UTC-05:00] [8464:9532] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:35:52.9688700 UTC-05:00] [8464:9460] [sslvpndaemon  727    info] found route change
+
+[2026-04-03 13:35:52.9690058 UTC-05:00] [8464:9484] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:35:52.9729902 UTC-05:00] [8464:9532] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 13:35:52.9804219 UTC-05:00] [8464:9460] [sslvpndaemon  595    info] prevIf= currIf=8,
+[2026-04-03 13:35:56.9981705 UTC-05:00] [8464:10168] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 13:35:56.9981783 UTC-05:00] [8464:10168] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-03 13:35:59.1253451 UTC-05:00] [8464:9460] [sslvpndaemon  718    info] found addr change
+
+[2026-04-03 14:09:16.0263993 UTC-05:00] [8464:9452] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 14:09:16.0363097 UTC-05:00] [8464:10520] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000698
+[2026-04-03 14:09:16.0363627 UTC-05:00] [8464:10520] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5544
+[2026-04-03 14:09:16.0371098 UTC-05:00] [8464:9452] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 14:09:38.7476789 UTC-05:00] [8464:10520] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 14:09:38.7477152 UTC-05:00] [8464:10520] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 14:41:31.6918606 UTC-05:00] [8464:7520] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 14:41:31.6946544 UTC-05:00] [8464:9460] [sslvpndaemon  718    info] found addr change
+
+[2026-04-03 14:41:31.7036282 UTC-05:00] [8464:5532] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 14:41:31.7933388 UTC-05:00] [8464:7520] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 14:41:31.7993787 UTC-05:00] [8464:5532] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 14:41:32.7084986 UTC-05:00] [8464:9460] [sslvpndaemon  727    info] found route change
+
+[2026-04-03 14:42:39.7222772 UTC-05:00] [8992:8996] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 40s) 2026-04-03 14:42:39.720 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-03 14:42:39.7232653 UTC-05:00] [8992:8996] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-03 14:42:39.7321987 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-03 14:42:39.7325957 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-03 14:42:39.7327018 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-03 14:42:39.7590082 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-03 14:42:39.7590341 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-03 14:42:39.7590951 UTC-05:00] [8992:6748] [sslvpndaemon  373    info] 
+[2026-04-03 14:42:39.7591926 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 14:42:40.9462983 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 14:42:40.9565203 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 14:42:40.9566750 UTC-05:00] [8992:9860] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000004A0
+[2026-04-03 14:42:40.9567214 UTC-05:00] [8992:9860] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8984
+[2026-04-03 14:42:40.9569395 UTC-05:00] [8992:9860] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 14:42:40.9717292 UTC-05:00] [8992:9860] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 14:42:41.1244245 UTC-05:00] [8992:6356] [sslvpndaemon  718    info] found addr change
+
+[2026-04-03 14:42:42.1385564 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 14:42:42.1491226 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 14:42:42.1492510 UTC-05:00] [8992:10016] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000658
+[2026-04-03 14:42:42.1492943 UTC-05:00] [8992:10016] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9124
+[2026-04-03 14:42:42.1495107 UTC-05:00] [8992:10016] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-03 14:42:42.1495359 UTC-05:00] [8992:10016] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-03 14:42:42.1497079 UTC-05:00] [8992:6356] [sslvpndaemon  595    info] prevIf= currIf=8,
+[2026-04-03 14:42:43.3678144 UTC-05:00] [8992:10016] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 14:42:43.3678265 UTC-05:00] [8992:10016] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 14:44:20.0273373 UTC-05:00] [8992:6764] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 14:44:20.0288187 UTC-05:00] [8992:6476] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 14:44:20.0295397 UTC-05:00] [8992:6356] [sslvpndaemon  727    info] found route change
+
+[2026-04-03 14:44:20.0301087 UTC-05:00] [8992:6764] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-03 14:44:26.1201482 UTC-05:00] [8992:6356] [sslvpndaemon  718    info] found addr change
+
+[2026-04-03 15:06:01.4827455 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 15:06:01.4938812 UTC-05:00] [8992:12152] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-03 15:06:01.4939331 UTC-05:00] [8992:12152] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7732
+[2026-04-03 15:06:01.4947723 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 15:06:03.8980938 UTC-05:00] [8992:12152] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 15:06:03.8981057 UTC-05:00] [8992:12152] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 16:19:07.7044390 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 16:19:07.7170342 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 16:19:07.7192413 UTC-05:00] [8992:12228] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A4
+[2026-04-03 16:19:07.7192999 UTC-05:00] [8992:12228] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9864
+[2026-04-03 16:19:08.3107773 UTC-05:00] [8992:12228] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 16:19:08.3107892 UTC-05:00] [8992:12228] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 17:06:02.5939426 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 17:06:02.6023993 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 17:06:02.6027143 UTC-05:00] [8992:5548] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006E4
+[2026-04-03 17:06:02.6027466 UTC-05:00] [8992:5548] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10000
+[2026-04-03 17:06:36.1443045 UTC-05:00] [8992:5548] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 17:06:36.1443389 UTC-05:00] [8992:5548] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 18:06:05.8762994 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 18:06:05.8853935 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 18:06:05.8856663 UTC-05:00] [8992:11696] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006B8
+[2026-04-03 18:06:05.8857171 UTC-05:00] [8992:11696] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6348
+[2026-04-03 18:06:06.4635556 UTC-05:00] [8992:11696] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 18:06:06.4635686 UTC-05:00] [8992:11696] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 19:06:03.3647215 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 19:06:03.3736005 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 19:06:03.3738231 UTC-05:00] [8992:2800] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006F0
+[2026-04-03 19:06:03.3738618 UTC-05:00] [8992:2800] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11244
+[2026-04-03 19:06:03.9447119 UTC-05:00] [8992:2800] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 19:06:03.9447226 UTC-05:00] [8992:2800] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 20:06:01.2284588 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 20:06:01.2371140 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 20:06:01.2372734 UTC-05:00] [8992:11068] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000700
+[2026-04-03 20:06:01.2373032 UTC-05:00] [8992:11068] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12284
+[2026-04-03 20:06:01.7890313 UTC-05:00] [8992:11068] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 20:06:01.7890427 UTC-05:00] [8992:11068] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 21:06:03.9140753 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 21:06:03.9228149 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 21:06:03.9229387 UTC-05:00] [8992:6616] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006D4
+[2026-04-03 21:06:03.9229743 UTC-05:00] [8992:6616] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6084
+[2026-04-03 21:06:40.0691465 UTC-05:00] [8992:6616] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 21:06:40.0691803 UTC-05:00] [8992:6616] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 22:06:04.9158559 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 22:06:04.9262726 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 22:06:04.9265471 UTC-05:00] [8992:7784] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000710
+[2026-04-03 22:06:04.9265783 UTC-05:00] [8992:7784] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 2416
+[2026-04-03 22:06:05.5028708 UTC-05:00] [8992:7784] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 22:06:05.5028829 UTC-05:00] [8992:7784] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 23:06:02.6217120 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-03 23:06:02.6304470 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-03 23:06:02.6307095 UTC-05:00] [8992:9804] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000440
+[2026-04-03 23:06:02.6307434 UTC-05:00] [8992:9804] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4296
+[2026-04-03 23:06:03.1876491 UTC-05:00] [8992:9804] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-03 23:06:03.1876620 UTC-05:00] [8992:9804] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 00:06:05.8426180 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 00:06:05.8511817 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 00:06:05.8513280 UTC-05:00] [8992:5856] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000794
+[2026-04-04 00:06:05.8513631 UTC-05:00] [8992:5856] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8968
+[2026-04-04 00:06:06.4174545 UTC-05:00] [8992:5856] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 00:06:06.4174655 UTC-05:00] [8992:5856] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 01:06:03.8298196 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 01:06:03.8383923 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 01:06:03.8385897 UTC-05:00] [8992:9156] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000077C
+[2026-04-04 01:06:03.8386281 UTC-05:00] [8992:9156] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9152
+[2026-04-04 01:06:41.5283959 UTC-05:00] [8992:9156] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 01:06:41.5284388 UTC-05:00] [8992:9156] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 02:06:04.0543251 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 02:06:04.0629200 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 02:06:04.0630783 UTC-05:00] [8992:4044] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007A4
+[2026-04-04 02:06:04.0631144 UTC-05:00] [8992:4044] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1956
+[2026-04-04 02:06:04.6372765 UTC-05:00] [8992:4044] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 02:06:04.6372865 UTC-05:00] [8992:4044] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 03:06:01.7283625 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 03:06:01.7368920 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 03:06:01.7370855 UTC-05:00] [8992:10416] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000728
+[2026-04-04 03:06:01.7371131 UTC-05:00] [8992:10416] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1496
+[2026-04-04 03:06:02.3040140 UTC-05:00] [8992:10416] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 03:06:02.3040256 UTC-05:00] [8992:10416] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 04:06:04.6777809 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 04:06:04.6862902 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 04:06:04.6864637 UTC-05:00] [8992:160] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000748
+[2026-04-04 04:06:04.6865018 UTC-05:00] [8992:160] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8800
+[2026-04-04 04:06:05.2593462 UTC-05:00] [8992:160] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 04:06:05.2593572 UTC-05:00] [8992:160] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 05:06:02.6297834 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 05:06:02.6383978 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 05:06:02.6385672 UTC-05:00] [8992:7468] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006EC
+[2026-04-04 05:06:02.6386072 UTC-05:00] [8992:7468] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8308
+[2026-04-04 05:06:38.9435497 UTC-05:00] [8992:7468] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 05:06:38.9435884 UTC-05:00] [8992:7468] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 06:06:05.4964005 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 06:06:05.5051370 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 06:06:05.5052860 UTC-05:00] [8992:8] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006B8
+[2026-04-04 06:06:05.5053158 UTC-05:00] [8992:8] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6332
+[2026-04-04 06:06:06.0692572 UTC-05:00] [8992:8] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 06:06:06.0692687 UTC-05:00] [8992:8] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 07:06:03.2168578 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 07:06:03.2259103 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 07:06:03.2260560 UTC-05:00] [8992:12212] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000728
+[2026-04-04 07:06:03.2260886 UTC-05:00] [8992:12212] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 744
+[2026-04-04 07:06:03.8056705 UTC-05:00] [8992:12212] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 07:06:03.8056822 UTC-05:00] [8992:12212] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 08:06:01.2410102 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 08:06:01.2496126 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 08:06:01.2497736 UTC-05:00] [8992:6720] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000720
+[2026-04-04 08:06:01.2498062 UTC-05:00] [8992:6720] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9620
+[2026-04-04 08:07:31.8909919 UTC-05:00] [8992:6720] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 08:07:31.8910309 UTC-05:00] [8992:6720] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 09:06:01.7162027 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 09:06:01.7247856 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 09:06:01.7249448 UTC-05:00] [8992:11672] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000073C
+[2026-04-04 09:06:01.7249808 UTC-05:00] [8992:11672] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8148
+[2026-04-04 09:06:38.0754053 UTC-05:00] [8992:11672] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 09:06:38.0754391 UTC-05:00] [8992:11672] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 10:06:03.6601826 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 10:06:03.6692748 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 10:06:03.6694250 UTC-05:00] [8992:8016] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000072C
+[2026-04-04 10:06:03.6694597 UTC-05:00] [8992:8016] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8316
+[2026-04-04 10:06:04.2239577 UTC-05:00] [8992:8016] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 10:06:04.2239708 UTC-05:00] [8992:8016] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 11:06:03.9777060 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 11:06:03.9862855 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 11:06:03.9864235 UTC-05:00] [8992:12128] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000700
+[2026-04-04 11:06:03.9864547 UTC-05:00] [8992:12128] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11760
+[2026-04-04 11:06:04.5663953 UTC-05:00] [8992:12128] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 11:06:04.5664072 UTC-05:00] [8992:12128] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 12:06:01.7689729 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 12:06:01.7776744 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 12:06:01.7778174 UTC-05:00] [8992:9868] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006FC
+[2026-04-04 12:06:01.7778494 UTC-05:00] [8992:9868] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8040
+[2026-04-04 12:06:02.3294171 UTC-05:00] [8992:9868] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 12:06:02.3294278 UTC-05:00] [8992:9868] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 13:06:04.5194869 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 13:06:04.5290698 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 13:06:04.5292666 UTC-05:00] [8992:3836] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000758
+[2026-04-04 13:06:04.5293043 UTC-05:00] [8992:3836] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11428
+[2026-04-04 13:06:41.0227490 UTC-05:00] [8992:3836] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 13:06:41.0227861 UTC-05:00] [8992:3836] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 14:06:05.6480585 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 14:06:05.6566690 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 14:06:05.6568324 UTC-05:00] [8992:11572] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A8
+[2026-04-04 14:06:05.6568655 UTC-05:00] [8992:11572] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9660
+[2026-04-04 14:06:06.2324660 UTC-05:00] [8992:11572] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 14:06:06.2324774 UTC-05:00] [8992:11572] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 15:06:03.3468846 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 15:06:03.3555084 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 15:06:03.3556675 UTC-05:00] [8992:5228] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006B8
+[2026-04-04 15:06:03.3556986 UTC-05:00] [8992:5228] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7780
+[2026-04-04 15:06:03.9108646 UTC-05:00] [8992:5228] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 15:06:03.9108767 UTC-05:00] [8992:5228] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 16:06:01.3236526 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 16:06:01.3322449 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 16:06:01.3324061 UTC-05:00] [8992:10580] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000708
+[2026-04-04 16:06:01.3324372 UTC-05:00] [8992:10580] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3760
+[2026-04-04 16:06:01.8959817 UTC-05:00] [8992:10580] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 16:06:01.8959941 UTC-05:00] [8992:10580] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 17:06:04.2155917 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 17:06:04.2240704 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 17:06:04.2242181 UTC-05:00] [8992:700] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006E8
+[2026-04-04 17:06:04.2242504 UTC-05:00] [8992:700] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4676
+[2026-04-04 17:06:40.5335980 UTC-05:00] [8992:700] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 17:06:40.5336341 UTC-05:00] [8992:700] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 18:06:03.4337022 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 18:06:03.4425653 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 18:06:03.4427129 UTC-05:00] [8992:6348] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006EC
+[2026-04-04 18:06:03.4427461 UTC-05:00] [8992:6348] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3324
+[2026-04-04 18:06:04.0026617 UTC-05:00] [8992:6348] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 18:06:04.0026734 UTC-05:00] [8992:6348] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 19:06:01.1534394 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 19:06:01.1621433 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 19:06:01.1623001 UTC-05:00] [8992:10472] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A0
+[2026-04-04 19:06:01.1623366 UTC-05:00] [8992:10472] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9404
+[2026-04-04 19:06:13.4199948 UTC-05:00] [8992:10472] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 19:06:13.4200306 UTC-05:00] [8992:10472] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 20:06:04.0568660 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 20:06:04.0656573 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 20:06:04.0658026 UTC-05:00] [8992:2076] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-04 20:06:04.0658350 UTC-05:00] [8992:2076] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11276
+[2026-04-04 20:06:04.6173218 UTC-05:00] [8992:2076] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 20:06:04.6173335 UTC-05:00] [8992:2076] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 21:06:01.8062975 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 21:06:01.8152867 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 21:06:01.8154626 UTC-05:00] [8992:4016] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000720
+[2026-04-04 21:06:01.8154980 UTC-05:00] [8992:4016] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10444
+[2026-04-04 21:06:38.1905670 UTC-05:00] [8992:4016] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 21:06:38.1906079 UTC-05:00] [8992:4016] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 22:06:03.0973617 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 22:06:03.1060980 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 22:06:03.1062635 UTC-05:00] [8992:6636] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A8
+[2026-04-04 22:06:03.1062912 UTC-05:00] [8992:6636] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9668
+[2026-04-04 22:06:03.6693401 UTC-05:00] [8992:6636] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 22:06:03.6693499 UTC-05:00] [8992:6636] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 23:06:05.9599495 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-04 23:06:05.9693701 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-04 23:06:05.9695088 UTC-05:00] [8992:11940] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000768
+[2026-04-04 23:06:05.9695444 UTC-05:00] [8992:11940] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 2812
+[2026-04-04 23:06:15.3523578 UTC-05:00] [8992:11940] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-04 23:06:15.3523949 UTC-05:00] [8992:11940] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 00:06:03.5483905 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 00:06:03.5567965 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 00:06:03.5569571 UTC-05:00] [8992:11636] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000730
+[2026-04-05 00:06:03.5569914 UTC-05:00] [8992:11636] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9140
+[2026-04-05 00:06:04.1236855 UTC-05:00] [8992:11636] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 00:06:04.1236962 UTC-05:00] [8992:11636] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 01:06:01.4953894 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 01:06:01.5040212 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 01:06:01.5041718 UTC-05:00] [8992:10624] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A8
+[2026-04-05 01:06:01.5042027 UTC-05:00] [8992:10624] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9792
+[2026-04-05 01:06:37.8380759 UTC-05:00] [8992:10624] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 01:06:37.8381102 UTC-05:00] [8992:10624] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 02:06:02.6529937 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 02:06:02.6617851 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 02:06:02.6619260 UTC-05:00] [8992:2544] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006F8
+[2026-04-05 02:06:02.6619574 UTC-05:00] [8992:2544] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4208
+[2026-04-05 02:06:03.2419326 UTC-05:00] [8992:2544] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 02:06:03.2419444 UTC-05:00] [8992:2544] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 03:06:05.5028816 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 03:06:05.5120771 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 03:06:05.5122156 UTC-05:00] [8992:9988] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000698
+[2026-04-05 03:06:05.5122469 UTC-05:00] [8992:9988] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6420
+[2026-04-05 03:06:06.0812337 UTC-05:00] [8992:9988] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 03:06:06.0812452 UTC-05:00] [8992:9988] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 04:06:03.1867362 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 04:06:03.1952652 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 04:06:03.1954137 UTC-05:00] [8992:9972] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000688
+[2026-04-05 04:06:03.1954453 UTC-05:00] [8992:9972] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 2416
+[2026-04-05 04:06:03.7604068 UTC-05:00] [8992:9972] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 04:06:03.7604187 UTC-05:00] [8992:9972] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 05:06:05.9776234 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 05:06:05.9863182 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 05:06:05.9864680 UTC-05:00] [8992:2584] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006C4
+[2026-04-05 05:06:05.9865002 UTC-05:00] [8992:2584] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10872
+[2026-04-05 05:06:42.6336123 UTC-05:00] [8992:2584] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 05:06:42.6336497 UTC-05:00] [8992:2584] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 06:06:02.5762369 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 06:06:02.5847131 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 06:06:02.5848672 UTC-05:00] [8992:11240] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007A8
+[2026-04-05 06:06:02.5849005 UTC-05:00] [8992:11240] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5436
+[2026-04-05 06:06:03.2025360 UTC-05:00] [8992:11240] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 06:06:03.2025467 UTC-05:00] [8992:11240] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 07:06:02.1747545 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 07:06:02.1836781 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 07:06:02.1838119 UTC-05:00] [8992:9924] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000700
+[2026-04-05 07:06:02.1838461 UTC-05:00] [8992:9924] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11424
+[2026-04-05 07:06:02.7510379 UTC-05:00] [8992:9924] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 07:06:02.7510495 UTC-05:00] [8992:9924] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 08:06:04.8847721 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 08:06:04.8934678 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 08:06:04.8936272 UTC-05:00] [8992:6852] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006C4
+[2026-04-05 08:06:04.8936610 UTC-05:00] [8992:6852] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11916
+[2026-04-05 08:06:05.4699656 UTC-05:00] [8992:6852] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 08:06:05.4699776 UTC-05:00] [8992:6852] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 09:06:02.8961791 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 09:06:02.9053072 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 09:06:02.9054617 UTC-05:00] [8992:4696] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A8
+[2026-04-05 09:06:02.9054965 UTC-05:00] [8992:4696] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10988
+[2026-04-05 09:06:39.4383028 UTC-05:00] [8992:4696] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 09:06:39.4383413 UTC-05:00] [8992:4696] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 10:06:02.4781516 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 10:06:02.4866903 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 10:06:02.4869060 UTC-05:00] [8992:11908] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006FC
+[2026-04-05 10:06:02.4869399 UTC-05:00] [8992:11908] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5484
+[2026-04-05 10:06:03.0530123 UTC-05:00] [8992:11908] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 10:06:03.0530225 UTC-05:00] [8992:11908] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 11:06:05.0099797 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 11:06:05.0185861 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 11:06:05.0187361 UTC-05:00] [8992:10936] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006EC
+[2026-04-05 11:06:05.0187696 UTC-05:00] [8992:10936] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8176
+[2026-04-05 11:06:05.5991482 UTC-05:00] [8992:10936] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 11:06:05.5991612 UTC-05:00] [8992:10936] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 12:06:02.7380912 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 12:06:02.7470673 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 12:06:02.7472190 UTC-05:00] [8992:1748] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006E4
+[2026-04-05 12:06:02.7472538 UTC-05:00] [8992:1748] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5580
+[2026-04-05 12:06:03.3197447 UTC-05:00] [8992:1748] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 12:06:03.3197575 UTC-05:00] [8992:1748] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 13:06:05.7800248 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 13:06:05.7888439 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 13:06:05.7890061 UTC-05:00] [8992:10612] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-05 13:06:05.7890385 UTC-05:00] [8992:10612] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1580
+[2026-04-05 13:06:42.3899243 UTC-05:00] [8992:10612] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 13:06:42.3899637 UTC-05:00] [8992:10612] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 14:06:02.3101557 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 14:06:02.3188582 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 14:06:02.3190011 UTC-05:00] [8992:9400] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000768
+[2026-04-05 14:06:02.3190422 UTC-05:00] [8992:9400] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7096
+[2026-04-05 14:06:09.8399562 UTC-05:00] [8992:9400] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 14:06:09.8399674 UTC-05:00] [8992:9400] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 15:06:01.8936787 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 15:06:01.9022960 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 15:06:01.9024554 UTC-05:00] [8992:5440] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000440
+[2026-04-05 15:06:01.9024869 UTC-05:00] [8992:5440] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 2324
+[2026-04-05 15:06:02.4923894 UTC-05:00] [8992:5440] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 15:06:02.4924015 UTC-05:00] [8992:5440] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 16:06:05.0272099 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 16:06:05.0357998 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 16:06:05.0359580 UTC-05:00] [8992:2556] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000720
+[2026-04-05 16:06:05.0359966 UTC-05:00] [8992:2556] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1892
+[2026-04-05 16:06:05.6091936 UTC-05:00] [8992:2556] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 16:06:05.6092054 UTC-05:00] [8992:2556] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 17:06:03.1376311 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 17:06:03.1465298 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 17:06:03.1466736 UTC-05:00] [8992:6632] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000780
+[2026-04-05 17:06:03.1467059 UTC-05:00] [8992:6632] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3944
+[2026-04-05 17:06:39.7499707 UTC-05:00] [8992:6632] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 17:06:39.7500075 UTC-05:00] [8992:6632] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 18:06:02.5115620 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 18:06:02.5206789 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 18:06:02.5208277 UTC-05:00] [8992:3712] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006CC
+[2026-04-05 18:06:02.5208593 UTC-05:00] [8992:3712] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4612
+[2026-04-05 18:06:03.0827960 UTC-05:00] [8992:3712] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 18:06:03.0828081 UTC-05:00] [8992:3712] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 19:06:05.2197277 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 19:06:05.2282891 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 19:06:05.2284507 UTC-05:00] [8992:12444] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006D4
+[2026-04-05 19:06:05.2284827 UTC-05:00] [8992:12444] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4128
+[2026-04-05 19:06:05.8170147 UTC-05:00] [8992:12444] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 19:06:05.8170262 UTC-05:00] [8992:12444] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 20:06:03.2533990 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 20:06:03.2621798 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 20:06:03.2623199 UTC-05:00] [8992:2372] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000069C
+[2026-04-05 20:06:03.2623560 UTC-05:00] [8992:2372] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12204
+[2026-04-05 20:06:06.5613399 UTC-05:00] [8992:2372] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 20:06:06.5613520 UTC-05:00] [8992:2372] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 21:06:01.3593793 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 21:06:01.3686766 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 21:06:01.3688205 UTC-05:00] [8992:8068] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006C4
+[2026-04-05 21:06:01.3688528 UTC-05:00] [8992:8068] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3600
+[2026-04-05 21:06:38.1524242 UTC-05:00] [8992:8068] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 21:06:38.1524597 UTC-05:00] [8992:8068] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 22:06:03.8942501 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 22:06:03.9035227 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 22:06:03.9036545 UTC-05:00] [8992:12204] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000780
+[2026-04-05 22:06:03.9036890 UTC-05:00] [8992:12204] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11928
+[2026-04-05 22:06:06.0286266 UTC-05:00] [8992:12204] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 22:06:06.0286374 UTC-05:00] [8992:12204] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 23:06:01.6455409 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-05 23:06:01.6541173 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-05 23:06:01.6542727 UTC-05:00] [8992:7040] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000764
+[2026-04-05 23:06:01.6543050 UTC-05:00] [8992:7040] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 13064
+[2026-04-05 23:06:02.2071338 UTC-05:00] [8992:7040] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-05 23:06:02.2071446 UTC-05:00] [8992:7040] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 00:06:04.7947030 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 00:06:04.8033506 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 00:06:04.8035125 UTC-05:00] [8992:6484] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000730
+[2026-04-06 00:06:04.8035515 UTC-05:00] [8992:6484] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9664
+[2026-04-06 00:06:05.3736671 UTC-05:00] [8992:6484] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 00:06:05.3736780 UTC-05:00] [8992:6484] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 01:06:02.7060870 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 01:06:02.7151773 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 01:06:02.7153421 UTC-05:00] [8992:11544] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006C8
+[2026-04-06 01:06:02.7153748 UTC-05:00] [8992:11544] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7004
+[2026-04-06 01:06:39.6269412 UTC-05:00] [8992:11544] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 01:06:39.6269801 UTC-05:00] [8992:11544] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 02:06:02.4484659 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 02:06:02.4572049 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 02:06:02.4573735 UTC-05:00] [8992:11688] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000069C
+[2026-04-06 02:06:02.4574062 UTC-05:00] [8992:11688] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4524
+[2026-04-06 02:06:03.0293462 UTC-05:00] [8992:11688] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 02:06:03.0293580 UTC-05:00] [8992:11688] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 03:06:03.1062745 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 03:06:03.1149593 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 03:06:03.1151171 UTC-05:00] [8992:13256] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000798
+[2026-04-06 03:06:03.1151497 UTC-05:00] [8992:13256] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11308
+[2026-04-06 03:06:03.6924449 UTC-05:00] [8992:13256] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 03:06:03.6924562 UTC-05:00] [8992:13256] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 04:06:06.0199803 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 04:06:06.0286417 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 04:06:06.0288022 UTC-05:00] [8992:2952] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000072C
+[2026-04-06 04:06:06.0288340 UTC-05:00] [8992:2952] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7788
+[2026-04-06 04:06:06.5850324 UTC-05:00] [8992:2952] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 04:06:06.5850438 UTC-05:00] [8992:2952] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 05:06:03.7653366 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 05:06:03.7738525 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 05:06:03.7740120 UTC-05:00] [8992:3600] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000440
+[2026-04-06 05:06:03.7740486 UTC-05:00] [8992:3600] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12188
+[2026-04-06 05:06:40.4609751 UTC-05:00] [8992:3600] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 05:06:40.4610137 UTC-05:00] [8992:3600] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 06:06:05.1716798 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 06:06:05.1806988 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 06:06:05.1808607 UTC-05:00] [8992:11360] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000774
+[2026-04-06 06:06:05.1808910 UTC-05:00] [8992:11360] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4552
+[2026-04-06 06:06:05.8651853 UTC-05:00] [8992:11360] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 06:06:05.8651960 UTC-05:00] [8992:11360] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 07:06:03.0036893 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 07:06:03.0122514 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 07:06:03.0123985 UTC-05:00] [8992:3716] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006C8
+[2026-04-06 07:06:03.0124277 UTC-05:00] [8992:3716] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10544
+[2026-04-06 07:06:03.5811821 UTC-05:00] [8992:3716] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 07:06:03.5811933 UTC-05:00] [8992:3716] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 08:06:01.0359547 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 08:06:01.0446070 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 08:06:01.0447494 UTC-05:00] [8992:10512] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007AC
+[2026-04-06 08:06:01.0447834 UTC-05:00] [8992:10512] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11356
+[2026-04-06 08:06:01.5997659 UTC-05:00] [8992:10512] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 08:06:01.5997775 UTC-05:00] [8992:10512] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 09:06:03.7567651 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 09:06:03.7650651 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 09:06:03.7652444 UTC-05:00] [8992:9152] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000784
+[2026-04-06 09:06:03.7652858 UTC-05:00] [8992:9152] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6964
+[2026-04-06 09:06:40.4506993 UTC-05:00] [8992:9152] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 09:06:40.4507330 UTC-05:00] [8992:9152] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 10:06:03.3324308 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 10:06:03.3409077 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 10:06:03.3410508 UTC-05:00] [8992:10556] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000077C
+[2026-04-06 10:06:03.3410820 UTC-05:00] [8992:10556] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11752
+[2026-04-06 10:06:03.9162953 UTC-05:00] [8992:10556] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 10:06:03.9163054 UTC-05:00] [8992:10556] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 11:06:01.0270202 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 11:06:01.0355348 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 11:06:01.0356961 UTC-05:00] [8992:4152] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006E4
+[2026-04-06 11:06:01.0357300 UTC-05:00] [8992:4152] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7680
+[2026-04-06 11:06:01.5916279 UTC-05:00] [8992:4152] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 11:06:01.5916407 UTC-05:00] [8992:4152] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 12:06:01.8294089 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 12:06:01.8388921 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 12:06:01.8390212 UTC-05:00] [8992:6188] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006AC
+[2026-04-06 12:06:01.8390546 UTC-05:00] [8992:6188] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3428
+[2026-04-06 12:06:02.4178196 UTC-05:00] [8992:6188] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 12:06:02.4178309 UTC-05:00] [8992:6188] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 13:06:04.4474647 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 13:06:04.4603580 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 13:06:04.4627849 UTC-05:00] [8992:4192] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000074C
+[2026-04-06 13:06:04.4628478 UTC-05:00] [8992:4192] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9780
+[2026-04-06 13:06:41.3224268 UTC-05:00] [8992:4192] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 13:06:41.3224626 UTC-05:00] [8992:4192] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 14:06:01.4013988 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 14:06:01.4106733 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 14:06:01.4109578 UTC-05:00] [8992:12000] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000714
+[2026-04-06 14:06:01.4109947 UTC-05:00] [8992:12000] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8028
+[2026-04-06 14:06:04.4893576 UTC-05:00] [8992:12000] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 14:06:04.4893699 UTC-05:00] [8992:12000] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 15:06:02.2295312 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 15:06:02.2387471 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 15:06:02.2390517 UTC-05:00] [8992:2284] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000688
+[2026-04-06 15:06:02.2390879 UTC-05:00] [8992:2284] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11784
+[2026-04-06 15:06:19.1671082 UTC-05:00] [8992:2284] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 15:06:19.1671471 UTC-05:00] [8992:2284] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 16:06:05.2171936 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 16:06:05.2260317 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 16:06:05.2262749 UTC-05:00] [8992:12584] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000790
+[2026-04-06 16:06:05.2263061 UTC-05:00] [8992:12584] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9420
+[2026-04-06 16:06:06.8502255 UTC-05:00] [8992:12584] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 16:06:06.8502354 UTC-05:00] [8992:12584] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 17:06:02.7791575 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 17:06:02.7876323 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 17:06:02.7878128 UTC-05:00] [8992:11624] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006CC
+[2026-04-06 17:06:02.7878444 UTC-05:00] [8992:11624] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9072
+[2026-04-06 17:06:39.7145380 UTC-05:00] [8992:11624] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 17:06:39.7145780 UTC-05:00] [8992:11624] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 18:06:04.6296335 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 18:06:04.6382997 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 18:06:04.6385014 UTC-05:00] [8992:3520] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-06 18:06:04.6385322 UTC-05:00] [8992:3520] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8044
+[2026-04-06 18:06:05.2183086 UTC-05:00] [8992:3520] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 18:06:05.2183185 UTC-05:00] [8992:3520] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 19:06:02.4364202 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 19:06:02.4455363 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 19:06:02.4456916 UTC-05:00] [8992:1660] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000760
+[2026-04-06 19:06:02.4457222 UTC-05:00] [8992:1660] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8148
+[2026-04-06 19:06:03.0133970 UTC-05:00] [8992:1660] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 19:06:03.0134093 UTC-05:00] [8992:1660] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 20:06:05.2125937 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 20:06:05.2209602 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 20:06:05.2211331 UTC-05:00] [8992:4188] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000754
+[2026-04-06 20:06:05.2211649 UTC-05:00] [8992:4188] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 13028
+[2026-04-06 20:06:05.7758602 UTC-05:00] [8992:4188] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 20:06:05.7758713 UTC-05:00] [8992:4188] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 21:06:02.3331665 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 21:06:02.3422188 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 21:06:02.3423705 UTC-05:00] [8992:2320] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000730
+[2026-04-06 21:06:02.3424030 UTC-05:00] [8992:2320] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6420
+[2026-04-06 21:06:39.1976387 UTC-05:00] [8992:2320] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 21:06:39.1976787 UTC-05:00] [8992:2320] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 22:06:04.1588397 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 22:06:04.1672111 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 22:06:04.1673818 UTC-05:00] [8992:5652] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000076C
+[2026-04-06 22:06:04.1674127 UTC-05:00] [8992:5652] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7112
+[2026-04-06 22:06:04.7269186 UTC-05:00] [8992:5652] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 22:06:04.7269301 UTC-05:00] [8992:5652] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 23:06:01.7604653 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-06 23:06:01.7697922 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-06 23:06:01.7699599 UTC-05:00] [8992:12548] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006BC
+[2026-04-06 23:06:01.7699950 UTC-05:00] [8992:12548] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10196
+[2026-04-06 23:06:02.3553795 UTC-05:00] [8992:12548] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-06 23:06:02.3553918 UTC-05:00] [8992:12548] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 00:06:04.3349699 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 00:06:04.3434097 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 00:06:04.3435738 UTC-05:00] [8992:3736] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006F8
+[2026-04-07 00:06:04.3436057 UTC-05:00] [8992:3736] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12728
+[2026-04-07 00:06:04.9049776 UTC-05:00] [8992:3736] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 00:06:04.9049896 UTC-05:00] [8992:3736] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 01:06:01.9936209 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 01:06:02.0021160 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 01:06:02.0022884 UTC-05:00] [8992:12908] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000798
+[2026-04-07 01:06:02.0023237 UTC-05:00] [8992:12908] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12404
+[2026-04-07 01:06:38.8146079 UTC-05:00] [8992:12908] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 01:06:38.8146471 UTC-05:00] [8992:12908] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 02:06:01.6153814 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 02:06:01.6239883 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 02:06:01.6241441 UTC-05:00] [8992:7212] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000770
+[2026-04-07 02:06:01.6241762 UTC-05:00] [8992:7212] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5552
+[2026-04-07 02:06:03.4297274 UTC-05:00] [8992:7212] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 02:06:03.4297377 UTC-05:00] [8992:7212] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 03:06:04.1660865 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 03:06:04.1752129 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 03:06:04.1753947 UTC-05:00] [8992:4056] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006C4
+[2026-04-07 03:06:04.1754264 UTC-05:00] [8992:4056] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11244
+[2026-04-07 03:06:04.8085850 UTC-05:00] [8992:4056] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 03:06:04.8085957 UTC-05:00] [8992:4056] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 04:06:01.6162016 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 04:06:01.6245892 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 04:06:01.6247447 UTC-05:00] [8992:7532] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000072C
+[2026-04-07 04:06:01.6247791 UTC-05:00] [8992:7532] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11900
+[2026-04-07 04:06:02.2027156 UTC-05:00] [8992:7532] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 04:06:02.2027265 UTC-05:00] [8992:7532] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 05:06:04.4310953 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 05:06:04.4397418 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 05:06:04.4398933 UTC-05:00] [8992:6584] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000770
+[2026-04-07 05:06:04.4399282 UTC-05:00] [8992:6584] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11032
+[2026-04-07 05:06:41.3453178 UTC-05:00] [8992:6584] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 05:06:41.3453542 UTC-05:00] [8992:6584] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 06:06:01.0250210 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 06:06:01.0332262 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 06:06:01.0334037 UTC-05:00] [8992:12680] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000072C
+[2026-04-07 06:06:01.0334379 UTC-05:00] [8992:12680] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4552
+[2026-04-07 06:06:01.6062156 UTC-05:00] [8992:12680] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 06:06:01.6062267 UTC-05:00] [8992:12680] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 07:06:05.6518008 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 07:06:05.6605015 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 07:06:05.6606811 UTC-05:00] [8992:13232] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000698
+[2026-04-07 07:06:05.6607170 UTC-05:00] [8992:13232] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5484
+[2026-04-07 07:06:06.2187168 UTC-05:00] [8992:13232] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 07:06:06.2187304 UTC-05:00] [8992:13232] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 08:06:03.1949691 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 08:06:03.2030203 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 08:06:03.2031785 UTC-05:00] [8992:4948] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000688
+[2026-04-07 08:06:03.2032099 UTC-05:00] [8992:4948] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12532
+[2026-04-07 08:06:03.7722871 UTC-05:00] [8992:4948] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 08:06:03.7722977 UTC-05:00] [8992:4948] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 09:06:05.8823427 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 09:06:05.8907550 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 09:06:05.8908743 UTC-05:00] [8992:7188] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000043C
+[2026-04-07 09:06:05.8909035 UTC-05:00] [8992:7188] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9648
+[2026-04-07 09:06:43.5163126 UTC-05:00] [8992:7188] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 09:06:43.5163502 UTC-05:00] [8992:7188] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 10:06:01.1036753 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 10:06:01.1119100 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 10:06:01.1120701 UTC-05:00] [8992:7820] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000718
+[2026-04-07 10:06:01.1121023 UTC-05:00] [8992:7820] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 756
+[2026-04-07 10:06:01.6860857 UTC-05:00] [8992:7820] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 10:06:01.6860947 UTC-05:00] [8992:7820] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 11:06:05.3254708 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 11:06:05.3337250 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 11:06:05.3338681 UTC-05:00] [8992:11004] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000740
+[2026-04-07 11:06:05.3338986 UTC-05:00] [8992:11004] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10524
+[2026-04-07 11:06:07.2804753 UTC-05:00] [8992:11004] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 11:06:07.2805393 UTC-05:00] [8992:11004] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 12:06:02.5897950 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 12:06:02.5978199 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 12:06:02.5979823 UTC-05:00] [8992:13048] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000710
+[2026-04-07 12:06:02.5980140 UTC-05:00] [8992:13048] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1952
+[2026-04-07 12:06:03.1428766 UTC-05:00] [8992:13048] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 12:06:03.1428872 UTC-05:00] [8992:13048] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 13:06:05.3674444 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 13:06:05.3757881 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 13:06:05.3759318 UTC-05:00] [8992:5964] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007B0
+[2026-04-07 13:06:05.3759633 UTC-05:00] [8992:5964] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 7212
+[2026-04-07 13:06:42.3335765 UTC-05:00] [8992:5964] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 13:06:42.3336135 UTC-05:00] [8992:5964] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 14:06:02.3070167 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 14:06:02.3152308 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 14:06:02.3153987 UTC-05:00] [8992:10580] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000688
+[2026-04-07 14:06:02.3154308 UTC-05:00] [8992:10580] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10388
+[2026-04-07 14:06:05.2730937 UTC-05:00] [8992:10580] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 14:06:05.2731048 UTC-05:00] [8992:10580] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 15:06:02.9133549 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 15:06:02.9221243 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 15:06:02.9222869 UTC-05:00] [8992:12192] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A4
+[2026-04-07 15:06:02.9223211 UTC-05:00] [8992:12192] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12140
+[2026-04-07 15:06:06.1944358 UTC-05:00] [8992:12192] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 15:06:06.1944466 UTC-05:00] [8992:12192] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 15:08:39.1770270 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 15:08:39.1923634 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 15:08:39.1930919 UTC-05:00] [8992:1656] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000734
+[2026-04-07 15:08:39.1931653 UTC-05:00] [8992:1656] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 2912
+[2026-04-07 16:06:05.7509294 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 16:06:05.7648988 UTC-05:00] [8992:14948] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006DC
+[2026-04-07 16:06:05.7649729 UTC-05:00] [8992:14948] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11224
+[2026-04-07 16:06:05.7661444 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 16:06:06.2862074 UTC-05:00] [8992:14948] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 16:06:06.2862177 UTC-05:00] [8992:14948] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 17:06:03.1790867 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 17:06:03.1907645 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 17:06:03.1910228 UTC-05:00] [8992:1908] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007F4
+[2026-04-07 17:06:03.1910570 UTC-05:00] [8992:1908] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10984
+[2026-04-07 17:06:41.9003880 UTC-05:00] [8992:1908] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 17:06:41.9004219 UTC-05:00] [8992:1908] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 18:06:04.3651240 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 18:06:04.3781310 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 18:06:04.3807588 UTC-05:00] [8992:13992] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007D8
+[2026-04-07 18:06:04.3808213 UTC-05:00] [8992:13992] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 15220
+[2026-04-07 18:06:04.8872509 UTC-05:00] [8992:13992] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 18:06:04.8872614 UTC-05:00] [8992:13992] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 19:06:05.7723724 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 19:06:05.7851119 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 19:06:05.7852571 UTC-05:00] [8992:17264] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007EC
+[2026-04-07 19:06:05.7853072 UTC-05:00] [8992:17264] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 14996
+[2026-04-07 19:06:06.3186880 UTC-05:00] [8992:17264] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 19:06:06.3186991 UTC-05:00] [8992:17264] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 20:06:02.3088711 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 20:06:02.3217480 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 20:06:02.3218932 UTC-05:00] [8992:12536] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000770
+[2026-04-07 20:06:02.3219287 UTC-05:00] [8992:12536] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6300
+[2026-04-07 20:06:02.8489928 UTC-05:00] [8992:12536] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 20:06:02.8490055 UTC-05:00] [8992:12536] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 21:06:04.2496238 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 21:06:04.2623192 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 21:06:04.2625133 UTC-05:00] [8992:11440] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007EC
+[2026-04-07 21:06:04.2625506 UTC-05:00] [8992:11440] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11656
+[2026-04-07 21:06:41.6181683 UTC-05:00] [8992:11440] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 21:06:41.6182078 UTC-05:00] [8992:11440] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 22:06:01.2536478 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 22:06:01.2659555 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 22:06:01.2661206 UTC-05:00] [8992:8148] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007F8
+[2026-04-07 22:06:01.2661588 UTC-05:00] [8992:8148] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 13168
+[2026-04-07 22:06:01.8054207 UTC-05:00] [8992:8148] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 22:06:01.8054302 UTC-05:00] [8992:8148] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 23:06:02.9757463 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-07 23:06:02.9884337 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-07 23:06:02.9885883 UTC-05:00] [8992:3344] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000718
+[2026-04-07 23:06:02.9886204 UTC-05:00] [8992:3344] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5968
+[2026-04-07 23:06:03.5307469 UTC-05:00] [8992:3344] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-07 23:06:03.5307579 UTC-05:00] [8992:3344] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 00:06:04.6919018 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 00:06:04.7040437 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 00:06:04.7042000 UTC-05:00] [8992:8412] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007B0
+[2026-04-08 00:06:04.7042327 UTC-05:00] [8992:8412] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 14668
+[2026-04-08 00:06:05.2142282 UTC-05:00] [8992:8412] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 00:06:05.2142396 UTC-05:00] [8992:8412] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 01:06:01.5022291 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 01:06:01.5147361 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 01:06:01.5148594 UTC-05:00] [8992:16488] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006B0
+[2026-04-08 01:06:01.5148964 UTC-05:00] [8992:16488] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12840
+[2026-04-08 01:06:38.9344387 UTC-05:00] [8992:16488] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 01:06:38.9344713 UTC-05:00] [8992:16488] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 02:06:05.5360337 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 02:06:05.5489702 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 02:06:05.5491838 UTC-05:00] [8992:12512] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007CC
+[2026-04-08 02:06:05.5492200 UTC-05:00] [8992:12512] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 18188
+[2026-04-08 02:06:06.0694469 UTC-05:00] [8992:12512] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 02:06:06.0694580 UTC-05:00] [8992:12512] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 03:06:01.7374193 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 03:06:01.7497351 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 03:06:01.7498923 UTC-05:00] [8992:10504] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007F0
+[2026-04-08 03:06:01.7499256 UTC-05:00] [8992:10504] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 680
+[2026-04-08 03:06:02.2593168 UTC-05:00] [8992:10504] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 03:06:02.2593284 UTC-05:00] [8992:10504] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 04:06:03.8843938 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 04:06:03.8967196 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 04:06:03.8968885 UTC-05:00] [8992:8016] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007D4
+[2026-04-08 04:06:03.8969233 UTC-05:00] [8992:8016] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3264
+[2026-04-08 04:06:12.0779491 UTC-05:00] [8992:8016] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 04:06:12.0779888 UTC-05:00] [8992:8016] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 05:06:03.5316075 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 05:06:03.5445080 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 05:06:03.5446718 UTC-05:00] [8992:6660] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007C8
+[2026-04-08 05:06:03.5447069 UTC-05:00] [8992:6660] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1324
+[2026-04-08 05:06:41.0216880 UTC-05:00] [8992:6660] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 05:06:41.0217267 UTC-05:00] [8992:6660] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 06:06:04.8519348 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 06:06:04.8647560 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 06:06:04.8649065 UTC-05:00] [8992:16212] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000750
+[2026-04-08 06:06:04.8649398 UTC-05:00] [8992:16212] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 15448
+[2026-04-08 06:06:05.3937942 UTC-05:00] [8992:16212] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 06:06:05.3938056 UTC-05:00] [8992:16212] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 07:06:02.0778390 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 07:06:02.0904567 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 07:06:02.0905896 UTC-05:00] [8992:11500] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007F8
+[2026-04-08 07:06:02.0906219 UTC-05:00] [8992:11500] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5456
+[2026-04-08 07:06:02.5888670 UTC-05:00] [8992:11500] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 07:06:02.5888777 UTC-05:00] [8992:11500] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 08:06:03.5723926 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 08:06:03.5848736 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 08:06:03.5850276 UTC-05:00] [8992:8108] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007CC
+[2026-04-08 08:06:03.5850594 UTC-05:00] [8992:8108] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 17328
+[2026-04-08 08:06:04.0924120 UTC-05:00] [8992:8108] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 08:06:04.0924240 UTC-05:00] [8992:8108] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 09:06:05.3350681 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 09:06:05.3470387 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 09:06:05.3471916 UTC-05:00] [8992:14996] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000750
+[2026-04-08 09:06:05.3472225 UTC-05:00] [8992:14996] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4032
+[2026-04-08 09:06:52.4361001 UTC-05:00] [8992:14996] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 09:06:52.4361336 UTC-05:00] [8992:14996] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 10:06:03.6998737 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 10:06:03.7124663 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 10:06:03.7126421 UTC-05:00] [8992:11512] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-08 10:06:03.7126751 UTC-05:00] [8992:11512] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 16088
+[2026-04-08 10:06:04.2504784 UTC-05:00] [8992:11512] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 10:06:04.2504898 UTC-05:00] [8992:11512] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 11:06:05.1933362 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 11:06:05.2059468 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 11:06:05.2061011 UTC-05:00] [8992:6612] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000440
+[2026-04-08 11:06:05.2061325 UTC-05:00] [8992:6612] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1700
+[2026-04-08 11:06:05.7239052 UTC-05:00] [8992:6612] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 11:06:05.7239165 UTC-05:00] [8992:6612] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 12:06:01.5888686 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 12:06:01.6010885 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 12:06:01.6013118 UTC-05:00] [8992:6196] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000740
+[2026-04-08 12:06:01.6013433 UTC-05:00] [8992:6196] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12388
+[2026-04-08 12:06:02.1786073 UTC-05:00] [8992:6196] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 12:06:02.1786173 UTC-05:00] [8992:6196] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 13:06:03.5797843 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 13:06:03.5926526 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 13:06:03.5927974 UTC-05:00] [8992:6944] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007CC
+[2026-04-08 13:06:03.5928324 UTC-05:00] [8992:6944] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9816
+[2026-04-08 13:06:44.9097528 UTC-05:00] [8992:6944] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 13:06:44.9097974 UTC-05:00] [8992:6944] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 14:06:04.2290492 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 14:06:04.2416065 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 14:06:04.2417598 UTC-05:00] [8992:13208] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000043C
+[2026-04-08 14:06:04.2417919 UTC-05:00] [8992:13208] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 14444
+[2026-04-08 14:06:04.7766101 UTC-05:00] [8992:13208] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 14:06:04.7766212 UTC-05:00] [8992:13208] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 15:06:05.6629031 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 15:06:05.6756588 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 15:06:05.6758155 UTC-05:00] [8992:8140] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000007D0
+[2026-04-08 15:06:05.6758493 UTC-05:00] [8992:8140] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 504
+[2026-04-08 15:06:06.1907867 UTC-05:00] [8992:8140] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 15:06:06.1907991 UTC-05:00] [8992:8140] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 16:06:02.4255827 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-08 16:06:02.4389700 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-08 16:06:02.4397250 UTC-05:00] [8992:10424] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006CC
+[2026-04-08 16:06:02.4397689 UTC-05:00] [8992:10424] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 17316
+[2026-04-08 16:06:02.9583640 UTC-05:00] [8992:10424] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 16:06:02.9583767 UTC-05:00] [8992:10424] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-08 16:46:19.6402195 UTC-05:00] [8992:15344] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:19.6425158 UTC-05:00] [8992:6356] [sslvpndaemon  718    info] found addr change
+
+[2026-04-08 16:46:19.6656262 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:19.6901448 UTC-05:00] [8992:15344] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:19.7083033 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:19.7548164 UTC-05:00] [8992:15344] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:19.7689001 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:20.6527430 UTC-05:00] [8992:6356] [sslvpndaemon  727    info] found route change
+
+[2026-04-08 16:46:20.8169339 UTC-05:00] [8992:15344] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:20.8176766 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:20.8216060 UTC-05:00] [8992:6356] [sslvpndaemon  727    info] found route change
+
+[2026-04-08 16:46:20.8259697 UTC-05:00] [8992:15344] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:24.1981276 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:24.2011878 UTC-05:00] [8992:15344] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:24.2026230 UTC-05:00] [8992:6356] [sslvpndaemon  727    info] found route change
+
+[2026-04-08 16:46:24.2062778 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:46:27.1922792 UTC-05:00] [8992:6356] [sslvpndaemon  718    info] found addr change
+
+[2026-04-08 16:46:30.6798948 UTC-05:00] [8992:6356] [sslvpndaemon  718    info] found addr change
+
+[2026-04-08 16:48:09.4292629 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:48:09.4298229 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:48:09.4321398 UTC-05:00] [8992:6356] [sslvpndaemon  727    info] found route change
+
+[2026-04-08 16:48:09.4347936 UTC-05:00] [8992:15220] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-08 16:48:15.6823302 UTC-05:00] [8992:6356] [sslvpndaemon  718    info] found addr change
+
+[2026-04-13 06:57:41.7726538 UTC-05:00] [8992:1656] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-13 06:57:41.7742653 UTC-05:00] [8992:1656] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-13 06:57:45.6642196 UTC-05:00] [8992:8388] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-13 06:57:45.6805793 UTC-05:00] [8992:15388] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-13 06:57:45.6806436 UTC-05:00] [8992:15388] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3204
+[2026-04-13 06:57:45.6811954 UTC-05:00] [8992:8388] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-13 06:57:59.7658323 UTC-05:00] [8992:15388] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-13 06:57:59.7658710 UTC-05:00] [8992:15388] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-13 06:58:09.2661505 UTC-05:00] [8992:11144] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:58:09.2684766 UTC-05:00] [8992:6356] [sslvpndaemon  718    info] found addr change
+
+[2026-04-13 06:58:09.2812272 UTC-05:00] [8992:17952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:58:09.3752838 UTC-05:00] [8992:11144] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:58:09.3811361 UTC-05:00] [8992:17952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:58:10.2879510 UTC-05:00] [8992:6356] [sslvpndaemon  727    info] found route change
+
+[2026-04-13 06:59:21.9383594 UTC-05:00] [8892:8896] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 44s) 2026-04-13 06:59:21.936 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-13 06:59:21.9391851 UTC-05:00] [8892:8896] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-13 06:59:21.9633479 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-13 06:59:21.9638867 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-13 06:59:21.9639052 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-13 06:59:21.9798573 UTC-05:00] [8892:8796] [sslvpndaemon  373    info] 
+[2026-04-13 06:59:21.9810117 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-13 06:59:21.9810287 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-13 06:59:21.9811437 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-13 06:59:22.8301115 UTC-05:00] [8892:4932] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-13 06:59:22.8396413 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-13 06:59:22.8398215 UTC-05:00] [8892:9628] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000540
+[2026-04-13 06:59:22.8398595 UTC-05:00] [8892:9628] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8868
+[2026-04-13 06:59:22.8400620 UTC-05:00] [8892:9628] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-13 06:59:22.8471467 UTC-05:00] [8892:9628] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-13 06:59:22.9333938 UTC-05:00] [8892:4824] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:59:24.8685684 UTC-05:00] [8892:5188] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:59:24.8740803 UTC-05:00] [8892:4824] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:59:24.8756414 UTC-05:00] [8892:5188] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:59:24.8764874 UTC-05:00] [8892:4972] [sslvpndaemon  727    info] found route change
+
+[2026-04-13 06:59:24.8783561 UTC-05:00] [8892:4824] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 06:59:24.8853705 UTC-05:00] [8892:4972] [sslvpndaemon  595    info] prevIf= currIf=8,
+[2026-04-13 06:59:28.9305215 UTC-05:00] [8892:9628] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-13 06:59:28.9305514 UTC-05:00] [8892:9628] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-13 06:59:31.1272735 UTC-05:00] [8892:4972] [sslvpndaemon  718    info] found addr change
+
+[2026-04-13 07:01:10.2621600 UTC-05:00] [8892:4824] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:01:10.2637940 UTC-05:00] [8892:7428] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:01:10.2648257 UTC-05:00] [8892:4972] [sslvpndaemon  727    info] found route change
+
+[2026-04-13 07:01:10.2679037 UTC-05:00] [8892:4824] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:01:16.6195398 UTC-05:00] [8892:4972] [sslvpndaemon  718    info] found addr change
+
+[2026-04-13 07:04:20.1509814 UTC-05:00] [8892:4932] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-13 07:04:20.1594211 UTC-05:00] [8892:4932] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-13 07:04:20.1595890 UTC-05:00] [8892:3500] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-13 07:04:20.1596220 UTC-05:00] [8892:3500] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3140
+[2026-04-13 07:06:01.8253291 UTC-05:00] [8892:3500] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-13 07:06:01.8253712 UTC-05:00] [8892:3500] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-13 07:08:36.6275694 UTC-05:00] [8892:10308] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:36.6305199 UTC-05:00] [8892:4972] [sslvpndaemon  718    info] found addr change
+
+[2026-04-13 07:08:36.6353997 UTC-05:00] [8892:10308] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:36.6362591 UTC-05:00] [8892:10952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:36.6487521 UTC-05:00] [8892:10308] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:37.8686369 UTC-05:00] [8892:4972] [sslvpndaemon  595    info] prevIf=8, currIf=
+[2026-04-13 07:08:37.8687134 UTC-05:00] [8892:4972] [sslvpndaemon  727    info] found route change
+
+[2026-04-13 07:08:55.7819653 UTC-05:00] [8892:10952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:55.7846189 UTC-05:00] [8892:4972] [sslvpndaemon  718    info] found addr change
+
+[2026-04-13 07:08:55.7935388 UTC-05:00] [8892:10308] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:55.9131443 UTC-05:00] [8892:10952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:55.9208014 UTC-05:00] [8892:10308] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-13 07:08:56.7947771 UTC-05:00] [8892:4972] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 07:26:55.8373779 UTC-05:00] [8316:8320] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 35s) 2026-04-15 07:26:55.835 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-15 07:26:55.8382101 UTC-05:00] [8316:8320] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-15 07:26:55.8809389 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-15 07:26:55.8814028 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-15 07:26:55.8814372 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-15 07:26:55.8953367 UTC-05:00] [8316:9088] [sslvpndaemon  373    info] 
+[2026-04-15 07:26:55.8968974 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-15 07:26:55.8969157 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-15 07:26:55.8970455 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 07:26:57.3217538 UTC-05:00] [8316:8680] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 07:26:57.3310378 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 07:26:57.3311840 UTC-05:00] [8316:9444] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000610
+[2026-04-15 07:26:57.3312200 UTC-05:00] [8316:9444] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8300
+[2026-04-15 07:26:57.3313960 UTC-05:00] [8316:9444] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 07:26:57.3314942 UTC-05:00] [8316:9444] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 07:26:57.3674138 UTC-05:00] [8316:8936] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:26:57.4372719 UTC-05:00] [8316:8680] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 07:26:57.4469563 UTC-05:00] [8316:9504] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000660
+[2026-04-15 07:26:57.4469962 UTC-05:00] [8316:9504] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8424
+[2026-04-15 07:26:57.4470145 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 07:26:57.4471487 UTC-05:00] [8316:9504] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 07:26:57.4471681 UTC-05:00] [8316:9504] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-15 07:26:59.1313683 UTC-05:00] [8316:9036] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:26:59.1483774 UTC-05:00] [8316:8936] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:26:59.1496988 UTC-05:00] [8316:9036] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:26:59.1522287 UTC-05:00] [8316:8688] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 07:26:59.1545430 UTC-05:00] [8316:8936] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:26:59.1620300 UTC-05:00] [8316:8688] [sslvpndaemon  595    info] prevIf= currIf=8,
+[2026-04-15 07:27:05.6133253 UTC-05:00] [8316:8688] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 07:27:59.6258004 UTC-05:00] [8316:9504] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 07:27:59.6258377 UTC-05:00] [8316:9504] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 07:28:44.5022566 UTC-05:00] [8316:8936] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:28:44.5042747 UTC-05:00] [8316:9036] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:28:44.5052012 UTC-05:00] [8316:8688] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 07:28:44.5064019 UTC-05:00] [8316:8936] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 07:28:50.6126926 UTC-05:00] [8316:8688] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 07:41:36.1621828 UTC-05:00] [8316:8680] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 07:41:36.1803728 UTC-05:00] [8316:13644] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000668
+[2026-04-15 07:41:36.1804988 UTC-05:00] [8316:13644] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 696
+[2026-04-15 07:41:36.1816470 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:28:05.0324139 UTC-05:00] [8316:13644] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 08:28:05.0332306 UTC-05:00] [8316:13644] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 08:28:09.5629033 UTC-05:00] [8316:8680] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 08:28:09.5801864 UTC-05:00] [8316:20120] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006A4
+[2026-04-15 08:28:09.5802906 UTC-05:00] [8316:20120] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 19396
+[2026-04-15 08:28:09.5808177 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:28:10.5222904 UTC-05:00] [8316:20120] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 08:28:10.5223034 UTC-05:00] [8316:20120] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 08:28:47.6599467 UTC-05:00] [8316:8680] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 08:28:47.6700290 UTC-05:00] [8316:11216] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000005F4
+[2026-04-15 08:28:47.6700798 UTC-05:00] [8316:11216] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 13944
+[2026-04-15 08:28:47.6701980 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:33:41.9606374 UTC-05:00] [8316:5312] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:33:41.9632513 UTC-05:00] [8316:8688] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:33:41.9718440 UTC-05:00] [8316:8488] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:33:42.0390910 UTC-05:00] [8316:5312] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:33:42.0426689 UTC-05:00] [8316:8488] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:33:42.9751947 UTC-05:00] [8316:8688] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:33:51.6730498 UTC-05:00] [8316:11216] [sslvpndaemon  657 warning] CListener::_ReceiveMessage() got exit event.
+[2026-04-15 08:33:51.6731314 UTC-05:00] [8316:9444] [sslvpndaemon  657 warning] CListener::_ReceiveMessage() got exit event.
+[2026-04-15 08:33:51.6733797 UTC-05:00] [8316:8680] [sslvpndaemon  523   debug] FortiSslvpnD: PipeServerProc exits
+[2026-04-15 08:33:52.1567262 UTC-05:00] [8316:8320] [sslvpndaemon  1418    info] trace stopped
+[2026-04-15 08:34:57.2489077 UTC-05:00] [8136:8140] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 40s) 2026-04-15 08:34:57.245 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-15 08:34:57.2499885 UTC-05:00] [8136:8140] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-15 08:34:57.2619590 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-15 08:34:57.2624179 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-15 08:34:57.2624401 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-15 08:34:57.2924823 UTC-05:00] [8136:8232] [sslvpndaemon  373    info] 
+[2026-04-15 08:34:57.2934270 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-15 08:34:57.2934473 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-15 08:34:57.2936020 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:34:58.8811191 UTC-05:00] [8136:8448] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:34:58.8821341 UTC-05:00] [8136:8452] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:34:59.0326556 UTC-05:00] [8136:5884] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 08:34:59.0424361 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:34:59.0425850 UTC-05:00] [8136:9100] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000004A4
+[2026-04-15 08:34:59.0426287 UTC-05:00] [8136:9100] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8128
+[2026-04-15 08:34:59.0429891 UTC-05:00] [8136:9100] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:34:59.0520630 UTC-05:00] [8136:9100] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:35:04.2928465 UTC-05:00] [8136:8448] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:35:04.2957875 UTC-05:00] [8136:7020] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:35:04.3064711 UTC-05:00] [8136:8452] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:35:04.3541980 UTC-05:00] [8136:7020] [sslvpndaemon  595    info] prevIf= currIf=15,
+[2026-04-15 08:35:08.3141004 UTC-05:00] [8136:9100] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:35:08.3141374 UTC-05:00] [8136:9100] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-15 08:35:10.6231321 UTC-05:00] [8136:7020] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:36:51.4202522 UTC-05:00] [8136:8452] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:36:51.4219761 UTC-05:00] [8136:8448] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:36:51.4228284 UTC-05:00] [8136:7020] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:36:51.4243600 UTC-05:00] [8136:8452] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:36:57.6227513 UTC-05:00] [8136:7020] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:38:08.3208372 UTC-05:00] [8136:3264] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:38:08.3216084 UTC-05:00] [8136:7020] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:38:08.3241334 UTC-05:00] [8136:10828] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:38:08.3799728 UTC-05:00] [8136:3264] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:38:08.3837736 UTC-05:00] [8136:10828] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:38:09.3352477 UTC-05:00] [8136:7020] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:38:16.4024805 UTC-05:00] [8136:9100] [sslvpndaemon  657 warning] CListener::_ReceiveMessage() got exit event.
+[2026-04-15 08:38:16.4025514 UTC-05:00] [8136:5884] [sslvpndaemon  523   debug] FortiSslvpnD: PipeServerProc exits
+[2026-04-15 08:39:16.5082663 UTC-05:00] [5536:1204] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 37s) 2026-04-15 08:39:16.505 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-15 08:39:16.5092563 UTC-05:00] [5536:1204] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-15 08:39:16.5262766 UTC-05:00] [5536:8452] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-15 08:39:16.5267131 UTC-05:00] [5536:8452] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-15 08:39:16.5267811 UTC-05:00] [5536:8452] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-15 08:39:16.5477381 UTC-05:00] [5536:8588] [sslvpndaemon  373    info] 
+[2026-04-15 08:39:16.5495706 UTC-05:00] [5536:8452] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-15 08:39:16.5495971 UTC-05:00] [5536:8452] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-15 08:39:16.5497190 UTC-05:00] [5536:8452] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:39:17.9359879 UTC-05:00] [5536:8540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:39:18.0804363 UTC-05:00] [5536:8452] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 08:39:18.0901519 UTC-05:00] [5536:8452] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:39:18.0902759 UTC-05:00] [5536:9204] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000004DC
+[2026-04-15 08:39:18.0903183 UTC-05:00] [5536:9204] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 4816
+[2026-04-15 08:39:18.0905230 UTC-05:00] [5536:9204] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:39:18.0906463 UTC-05:00] [5536:9204] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:39:19.8114403 UTC-05:00] [5536:8580] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:39:19.8232570 UTC-05:00] [5536:8540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:39:19.8246596 UTC-05:00] [5536:8580] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:39:19.8257056 UTC-05:00] [5536:8460] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:39:19.8280950 UTC-05:00] [5536:8540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:39:19.8352611 UTC-05:00] [5536:8460] [sslvpndaemon  595    info] prevIf= currIf=15,
+[2026-04-15 08:39:23.8475419 UTC-05:00] [5536:9204] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:39:23.8475493 UTC-05:00] [5536:9204] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-15 08:39:26.1189546 UTC-05:00] [5536:8460] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:39:46.4310386 UTC-05:00] [5536:8540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:39:46.4323569 UTC-05:00] [5536:8460] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:39:46.4343205 UTC-05:00] [5536:11236] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:39:47.4418974 UTC-05:00] [5536:8460] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:40:53.6445391 UTC-05:00] [8244:8248] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 38s) 2026-04-15 08:40:53.583 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-15 08:40:53.6466166 UTC-05:00] [8244:8248] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-15 08:40:53.7714742 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-15 08:40:53.7719603 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-15 08:40:53.7719854 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-15 08:40:53.8844924 UTC-05:00] [8244:8876] [sslvpndaemon  373    info] 
+[2026-04-15 08:40:53.8861945 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-15 08:40:53.8862167 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-15 08:40:53.8863293 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:40:55.3291055 UTC-05:00] [8244:8560] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 08:40:55.3394204 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:40:55.3395620 UTC-05:00] [8244:9280] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000005FC
+[2026-04-15 08:40:55.3396043 UTC-05:00] [8244:9280] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8236
+[2026-04-15 08:40:55.3398088 UTC-05:00] [8244:9280] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:40:55.3399265 UTC-05:00] [8244:9280] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:40:55.7313276 UTC-05:00] [8244:8600] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:40:56.9957101 UTC-05:00] [8244:8828] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:40:57.0110317 UTC-05:00] [8244:8600] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:40:57.0140386 UTC-05:00] [8244:8828] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:40:57.0150738 UTC-05:00] [8244:8568] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:40:57.0184330 UTC-05:00] [8244:8600] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:40:57.0249566 UTC-05:00] [8244:8568] [sslvpndaemon  595    info] prevIf= currIf=15,
+[2026-04-15 08:41:01.0634889 UTC-05:00] [8244:9280] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 08:41:01.0634969 UTC-05:00] [8244:9280] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-15 08:41:03.1231754 UTC-05:00] [8244:8568] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:42:42.6815155 UTC-05:00] [8244:8828] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:42:42.6829884 UTC-05:00] [8244:8600] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:42:42.6839170 UTC-05:00] [8244:8568] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 08:42:42.6853221 UTC-05:00] [8244:8828] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 08:42:49.1274040 UTC-05:00] [8244:8568] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 08:52:03.0053893 UTC-05:00] [8244:8560] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 08:52:03.0143633 UTC-05:00] [8244:11240] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000608
+[2026-04-15 08:52:03.0144087 UTC-05:00] [8244:11240] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11432
+[2026-04-15 08:52:03.0152803 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 08:52:39.9527197 UTC-05:00] [8244:11240] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 08:52:39.9527618 UTC-05:00] [8244:11240] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 09:06:39.7578694 UTC-05:00] [8244:8560] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 09:06:39.7714480 UTC-05:00] [8244:8560] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 09:06:39.7715763 UTC-05:00] [8244:13932] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000688
+[2026-04-15 09:06:39.7716212 UTC-05:00] [8244:13932] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 6428
+[2026-04-15 09:12:53.3927561 UTC-05:00] [8244:13932] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 09:12:53.3941090 UTC-05:00] [8244:13932] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 09:13:15.6055462 UTC-05:00] [8244:13148] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:13:15.6081003 UTC-05:00] [8244:8568] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 09:13:15.6156647 UTC-05:00] [8244:16176] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:13:15.7107779 UTC-05:00] [8244:13148] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:13:15.7151317 UTC-05:00] [8244:16176] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:13:16.6275396 UTC-05:00] [8244:8568] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 09:14:17.9049591 UTC-05:00] [8292:8296] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 30s) 2026-04-15 09:14:17.903 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-15 09:14:17.9060216 UTC-05:00] [8292:8296] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-15 09:14:17.9610786 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-15 09:14:17.9619949 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-15 09:14:17.9620241 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-15 09:14:18.0047034 UTC-05:00] [8292:8860] [sslvpndaemon  373    info] 
+[2026-04-15 09:14:18.0066255 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-15 09:14:18.0066459 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-15 09:14:18.0067622 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 09:14:19.7747594 UTC-05:00] [8292:8660] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:14:19.8627932 UTC-05:00] [8292:8576] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 09:14:19.8739603 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 09:14:19.8741994 UTC-05:00] [8292:9620] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000630
+[2026-04-15 09:14:19.8742505 UTC-05:00] [8292:9620] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 8284
+[2026-04-15 09:14:19.8744689 UTC-05:00] [8292:9620] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 09:14:19.8746449 UTC-05:00] [8292:9620] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 09:14:21.9540744 UTC-05:00] [8292:8592] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:14:21.9677721 UTC-05:00] [8292:8660] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:14:21.9689696 UTC-05:00] [8292:8592] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:14:21.9706368 UTC-05:00] [8292:8584] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 09:14:21.9730355 UTC-05:00] [8292:8660] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:14:21.9802088 UTC-05:00] [8292:8584] [sslvpndaemon  595    info] prevIf= currIf=15,
+[2026-04-15 09:14:25.9908143 UTC-05:00] [8292:9620] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-15 09:14:25.9908219 UTC-05:00] [8292:9620] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-15 09:14:28.1307325 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 09:16:07.3282643 UTC-05:00] [8292:8592] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:16:07.3287562 UTC-05:00] [8292:8660] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:16:07.3295600 UTC-05:00] [8292:8584] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 09:16:07.3326145 UTC-05:00] [8292:8592] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 09:16:13.6209646 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 09:56:05.0129842 UTC-05:00] [8292:8576] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 09:56:05.0208523 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 09:56:05.0211274 UTC-05:00] [8292:5104] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000064C
+[2026-04-15 09:56:05.0211578 UTC-05:00] [8292:5104] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 3324
+[2026-04-15 09:56:05.5278915 UTC-05:00] [8292:5104] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 09:56:05.5279034 UTC-05:00] [8292:5104] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 10:22:38.8997220 UTC-05:00] [8292:8576] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 10:22:38.9118300 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 10:22:38.9119770 UTC-05:00] [8292:14196] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000694
+[2026-04-15 10:22:38.9120100 UTC-05:00] [8292:14196] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12232
+[2026-04-15 10:56:01.5995286 UTC-05:00] [8292:8576] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-15 10:56:01.6163276 UTC-05:00] [8292:8576] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-15 10:56:01.6200680 UTC-05:00] [8292:11624] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x000000000000068C
+[2026-04-15 10:56:01.6201283 UTC-05:00] [8292:11624] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 13880
+[2026-04-15 10:56:02.1588584 UTC-05:00] [8292:11624] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 10:56:02.1588700 UTC-05:00] [8292:11624] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 11:08:33.9779936 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:33.9806836 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:36.9058421 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:36.9115398 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:37.5200967 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:37.5205448 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:42.9170822 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:46.4982330 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:46.5408557 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:46.7400584 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:46.8579156 UTC-05:00] [8292:8584] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 11:08:47.0802643 UTC-05:00] [8292:8584] [sslvpndaemon  595    info] prevIf=15, currIf=15,16,
+[2026-04-15 11:08:47.0807857 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:08:47.3795615 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:48.9315971 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:50.3710720 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:08:51.2313497 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:51.2527649 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:51.4381338 UTC-05:00] [8292:8584] [sslvpndaemon  595    info] prevIf=15,16, currIf=16,
+[2026-04-15 11:08:51.6818114 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:51.6863155 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:08:51.6957421 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:08:52.7073958 UTC-05:00] [8292:8584] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 11:08:53.3728147 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:07.8539671 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:07.8683575 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:09:07.8835931 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:08.3454053 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:08.3706354 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:08.8943467 UTC-05:00] [8292:8584] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-15 11:09:08.8944641 UTC-05:00] [8292:8584] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 11:09:31.1746480 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:09:31.2330606 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:31.8158713 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:31.8199191 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:31.9681003 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:32.4739787 UTC-05:00] [8292:8584] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-15 11:09:32.5117587 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:32.6123409 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:33.0940353 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:33.1996410 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:33.2067066 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:33.2107257 UTC-05:00] [8292:8584] [sslvpndaemon  727    info] found route change
+
+[2026-04-15 11:09:35.4112943 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:09:35.6913887 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:39.4017745 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:09:42.6628089 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:09:54.3563264 UTC-05:00] [8292:14196] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 11:09:54.3564227 UTC-05:00] [8292:14196] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-15 11:10:24.7985358 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:24.8003412 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:24.8130457 UTC-05:00] [8292:8584] [sslvpndaemon  718    info] found addr change
+
+[2026-04-15 11:10:24.8216533 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:25.1263636 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:25.3974740 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:25.4029647 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:25.4706811 UTC-05:00] [8292:15480] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:25.4773066 UTC-05:00] [8292:1232] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-15 11:10:25.8258212 UTC-05:00] [8292:8584] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-15 11:10:25.8258588 UTC-05:00] [8292:8584] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 07:42:24.9011446 UTC-05:00] [5748:4896] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 39s) 2026-04-17 07:42:24.898 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-17 07:42:24.9018413 UTC-05:00] [5748:4896] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-17 07:42:24.9556780 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-17 07:42:24.9560268 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-17 07:42:24.9560506 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-17 07:42:24.9651801 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-17 07:42:24.9651956 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-17 07:42:24.9653023 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 07:42:24.9677325 UTC-05:00] [5748:8752] [sslvpndaemon  373    info] 
+[2026-04-17 07:42:26.5163662 UTC-05:00] [5748:8412] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 07:42:26.5248058 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 07:42:26.5250043 UTC-05:00] [5748:9212] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000524
+[2026-04-17 07:42:26.5250406 UTC-05:00] [5748:9212] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 5536
+[2026-04-17 07:42:26.5252195 UTC-05:00] [5748:9212] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-17 07:42:26.6087358 UTC-05:00] [5748:9212] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-17 07:42:28.1667972 UTC-05:00] [5748:9212] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-17 07:42:28.1668042 UTC-05:00] [5748:9212] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-17 07:42:29.0362811 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:29.0836043 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:29.0852427 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:29.0873236 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 07:42:29.0905778 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:29.5829748 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:29.5848779 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:29.5855736 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:32.1535759 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:32.2376832 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:32.2435946 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:32.2520341 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:35.1233855 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 07:42:42.0380169 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:42.0388550 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:44.2032566 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:42:44.2107723 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:44:14.8328455 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:44:14.8360792 UTC-05:00] [5748:8528] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:44:14.8371549 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 07:44:14.8407433 UTC-05:00] [5748:8516] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:44:21.1226980 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 07:49:26.8346142 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:26.8374493 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:27.8315338 UTC-05:00] [5748:4952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:27.9439454 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:27.9546855 UTC-05:00] [5748:4952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:28.1328996 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 07:49:28.2895346 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-17 07:49:28.2896547 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 07:49:28.5393593 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:31.6193325 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 07:49:34.3428712 UTC-05:00] [5748:4952] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:37.4573769 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:49:50.5379760 UTC-05:00] [5748:8412] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 07:49:50.5532805 UTC-05:00] [5748:1796] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000654
+[2026-04-17 07:49:50.5533356 UTC-05:00] [5748:1796] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 11948
+[2026-04-17 07:49:50.5538274 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 07:52:18.4301573 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:18.4487729 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:18.4504135 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:18.4944781 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:18.5302410 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:18.5437554 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:21.1970540 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:21.2022170 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 07:52:21.2225134 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:21.3008131 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:21.3034810 UTC-05:00] [5748:3856] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 07:52:22.2193621 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-17 07:52:22.2200844 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 09:02:11.7281769 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:02:11.7593961 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.1032931 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.1073448 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.2408949 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.2418806 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.3291939 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.4398204 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.7893732 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.8820837 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:12.8956352 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-17 09:02:12.8957900 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 09:02:12.9990302 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:15.6249479 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:02:17.3520361 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:19.1512410 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:02:20.7041752 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:30.3897334 UTC-05:00] [5748:8412] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 09:02:30.4164489 UTC-05:00] [5748:18412] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000690
+[2026-04-17 09:02:30.4165476 UTC-05:00] [5748:18412] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10856
+[2026-04-17 09:02:30.4172621 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 09:02:39.4636779 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:39.4672323 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:02:39.4873141 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:39.7424265 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:39.7468376 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:02:40.4796186 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-17 09:02:40.4796926 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 09:03:36.7502610 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:03:36.8214100 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:36.9172544 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:36.9262286 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:38.0951884 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 09:03:38.3458467 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:41.0519819 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:42.1384377 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:43.1261460 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:03:44.4222585 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:44.4894368 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:44.5167973 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:44.5501552 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:45.3653089 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:03:47.6530197 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:03:48.6723143 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-17 09:03:51.6111010 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:04:03.9991450 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:04:04.0078362 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:04:04.0134306 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:04:04.0408376 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:04:04.0768802 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:04:04.0883318 UTC-05:00] [5748:6696] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:04:07.1306957 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:04:14.6968972 UTC-05:00] [5748:15540] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:07:55.3429285 UTC-05:00] [5748:18412] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 09:07:55.3442313 UTC-05:00] [5748:18412] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 09:15:08.9035427 UTC-05:00] [5748:8412] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 09:15:08.9226258 UTC-05:00] [5748:7068] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006B0
+[2026-04-17 09:15:08.9226833 UTC-05:00] [5748:7068] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 9920
+[2026-04-17 09:15:08.9238505 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 09:15:09.6678358 UTC-05:00] [5748:7068] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 09:15:09.6678476 UTC-05:00] [5748:7068] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 09:50:03.9818920 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:50:03.9821760 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:50:03.9982863 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:50:04.3536343 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:50:04.3651175 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:50:05.0067438 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-17 09:50:05.0071881 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 09:53:39.7588367 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:53:39.8982464 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:40.8584588 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:40.8679390 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:41.0228912 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 09:53:41.9657555 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:43.3748937 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:43.3795010 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:47.1859292 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:53:48.8715369 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:49.0217463 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:49.4582921 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:49.4711073 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:50.6097326 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:52.1913451 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:53:52.7759670 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:53:53.2192328 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-17 09:54:28.1678601 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:54:28.1845631 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:54:28.1891569 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:54:28.2053327 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:54:28.2168142 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:54:28.2288908 UTC-05:00] [5748:18884] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 09:54:31.6828103 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 09:54:38.7759321 UTC-05:00] [5748:12128] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 10:06:05.8505207 UTC-05:00] [5748:8412] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 10:06:05.8705861 UTC-05:00] [5748:1768] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000688
+[2026-04-17 10:06:05.8706662 UTC-05:00] [5748:1768] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1524
+[2026-04-17 10:06:05.8706836 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 10:06:06.5845017 UTC-05:00] [5748:1768] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 10:06:06.5845126 UTC-05:00] [5748:1768] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 10:12:54.2082691 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 10:12:54.2114746 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 10:12:54.2253124 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 10:12:54.4967713 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 10:12:54.5070632 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 10:12:55.2317555 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-17 10:12:55.2322420 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:18:36.7693915 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:18:36.8390870 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:37.6011261 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:37.6088016 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:38.6971982 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:18:38.9427462 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:43.7407631 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:18:44.4352829 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:44.4370332 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:49.4911743 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:49.5094125 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:49.5232114 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:57.8247052 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:58.0293108 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:58.4914713 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:58.7219971 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:18:59.3557195 UTC-05:00] [5748:15552] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:19:01.2554186 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:19:02.7894571 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-17 11:19:08.1097576 UTC-05:00] [5748:16040] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:19:16.7666000 UTC-05:00] [5748:8412] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 11:19:16.7830830 UTC-05:00] [5748:8412] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 11:19:16.7841712 UTC-05:00] [5748:5064] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x00000000000006F4
+[2026-04-17 11:19:16.7842528 UTC-05:00] [5748:5064] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 12268
+[2026-04-17 11:19:19.2002430 UTC-05:00] [5748:5064] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 11:19:19.2002589 UTC-05:00] [5748:5064] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 11:35:51.0181172 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:35:51.0204984 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:35:51.0338937 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:35:51.2857127 UTC-05:00] [5748:19088] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:35:51.2862039 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:35:52.0399145 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-17 11:35:52.0399943 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:39:03.7763102 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:39:03.7982683 UTC-05:00] [5748:19088] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:04.3166458 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:04.3175154 UTC-05:00] [5748:19088] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:04.3497217 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:04.3533680 UTC-05:00] [5748:19088] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:04.3995241 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:04.7982877 UTC-05:00] [5748:19088] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:05.0039797 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:05.0135039 UTC-05:00] [5748:19088] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:05.0451260 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:05.1517244 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-17 11:39:05.1519403 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:39:07.5975609 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:39:08.2159342 UTC-05:00] [5748:19088] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:39:11.0021975 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:39:20.4635238 UTC-05:00] [5748:9864] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:41:52.5781645 UTC-05:00] [5748:1796] [sslvpndaemon  673 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 11:41:52.5783623 UTC-05:00] [5748:1796] [sslvpndaemon  680 warning] CListener::_ReceiveMessage() ERROR_BROKEN_PIPE
+[2026-04-17 11:42:08.5773450 UTC-05:00] [5748:12216] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:08.5812018 UTC-05:00] [5748:12216] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:08.6005041 UTC-05:00] [5748:8420] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:42:08.6027495 UTC-05:00] [5748:14008] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:08.9566600 UTC-05:00] [5748:12216] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:09.3717496 UTC-05:00] [5748:14008] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:09.3780837 UTC-05:00] [5748:12216] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:09.4262553 UTC-05:00] [5748:14008] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:09.4303986 UTC-05:00] [5748:12216] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:42:09.6200000 UTC-05:00] [5748:8420] [sslvpndaemon  595    info] prevIf=16, currIf=
+[2026-04-17 11:42:09.6218228 UTC-05:00] [5748:8420] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:43:18.2761218 UTC-05:00] [1840:1912] [sslvpndaemon  1359    info] (Time Zone: Central Standard Time) (Wed Dec 10 12:40:05 2025, 37s) 2026-04-17 11:43:18.272 type: 0x1ff size: 128 memory: 0x0000000000000000
+[2026-04-17 11:43:18.2768668 UTC-05:00] [1840:1912] [sslvpndaemon  834    info] sslvpn daemon is started
+[2026-04-17 11:43:18.2989532 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] GetAdapaterFullDNSRegistrationEnabledListFromRegistry() called. vpnType: 0
+
+[2026-04-17 11:43:18.2993011 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] Key AdapterFullDNSRegistrationEnabledList does not exist.
+
+[2026-04-17 11:43:18.2993210 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] AdapaterFullDNSRegistrationEnabledList size:0
+
+[2026-04-17 11:43:18.3192896 UTC-05:00] [1840:8432] [sslvpndaemon  373    info] 
+[2026-04-17 11:43:18.3213751 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] convert ok: len:48
+
+[2026-04-17 11:43:18.3213910 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] SetSecurityDescriptorSacl return:1
+
+[2026-04-17 11:43:18.3214786 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 11:43:19.3298699 UTC-05:00] [1840:8200] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 11:43:19.3384272 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 11:43:19.3385676 UTC-05:00] [1840:8964] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000544
+[2026-04-17 11:43:19.3385989 UTC-05:00] [1840:8964] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 1048
+[2026-04-17 11:43:19.3387589 UTC-05:00] [1840:8964] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-17 11:43:19.3662514 UTC-05:00] [1840:8964] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-17 11:43:19.8823719 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:20.9913995 UTC-05:00] [1840:8964] [sslvpndaemon  1455    info] lockdown status changing
+[2026-04-17 11:43:20.9914313 UTC-05:00] [1840:8964] [sslvpndaemon  1458    info] lockdown status changed
+[2026-04-17 11:43:26.6577041 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:26.6593206 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:26.6603360 UTC-05:00] [1840:8212] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:43:26.6621170 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:27.2147428 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:27.2162048 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:27.2172584 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:29.5924648 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:33.1196326 UTC-05:00] [1840:8212] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:43:33.6535485 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:35.8083665 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:35.8125695 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:52.4430322 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:52.4448574 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:53.4788397 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:53.5391414 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:53.5595655 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:53.6749452 UTC-05:00] [1840:8212] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:43:53.7105884 UTC-05:00] [1840:8212] [sslvpndaemon  595    info] prevIf= currIf=16,
+[2026-04-17 11:43:53.7106904 UTC-05:00] [1840:8212] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:43:53.8687744 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:43:57.1267261 UTC-05:00] [1840:8212] [sslvpndaemon  718    info] found addr change
+
+[2026-04-17 11:43:58.9788417 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:44:03.0683360 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:44:15.8101475 UTC-05:00] [1840:8200] [sslvpndaemon  555   debug] CListener::Initialize() A pipe client connected.
+[2026-04-17 11:44:15.8222838 UTC-05:00] [1840:8200] [sslvpndaemon  523   debug] before ConnectNamedPipe
+
+[2026-04-17 11:44:15.8224290 UTC-05:00] [1840:7564] [sslvpndaemon  740   debug] Thread CListener::SReceiveMessage() created. pipe handle: 0x0000000000000648
+[2026-04-17 11:44:15.8224721 UTC-05:00] [1840:7564] [sslvpndaemon  601    info] CListener::_ReceiveMessage() PID of pipe client: 10588
+[2026-04-17 11:45:12.5081773 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:45:12.5113632 UTC-05:00] [1840:8436] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:45:12.5117811 UTC-05:00] [1840:8212] [sslvpndaemon  727    info] found route change
+
+[2026-04-17 11:45:12.5149468 UTC-05:00] [1840:8424] [sslvpndaemon  678    info] Found IpInterfaceChange
+[2026-04-17 11:45:18.6324807 UTC-05:00] [1840:8212] [sslvpndaemon  718    info] found addr change
+

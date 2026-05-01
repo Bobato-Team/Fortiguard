@@ -1,0 +1,104 @@
+[2026-04-07 15:07:50.8942078 UTC-05:00] [9076:9432] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-07 15:07:50.9048584 UTC-05:00] [9076:9432] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-13 07:08:37.8955082 UTC-05:00] [9024:9224] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-13 07:08:37.8973743 UTC-05:00] [9024:9224] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-15 07:40:50.3448953 UTC-05:00] [8404:8860] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-15 07:40:50.3793392 UTC-05:00] [8404:8860] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-15 08:35:07.0393060 UTC-05:00] [5048:5688] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 08:35:09.3577342 UTC-05:00] [5048:5688] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-15 08:35:09.8330385 UTC-05:00] [5048:8540] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 08:35:09.8782469 UTC-05:00] [5048:8540] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-15 08:35:14.9336451 UTC-05:00] [5048:8540] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 08:35:14.9478036 UTC-05:00] [5048:8540] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-15 08:39:25.4294325 UTC-05:00] [8204:8208] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 08:39:25.4376749 UTC-05:00] [8204:8208] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-15 08:41:02.6972423 UTC-05:00] [8368:8372] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 08:41:02.7055605 UTC-05:00] [8368:8372] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-15 08:41:04.2598237 UTC-05:00] [8368:8996] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 08:41:04.2660964 UTC-05:00] [8368:8996] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-15 09:05:59.5725775 UTC-05:00] [8368:8992] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-15 09:05:59.5827022 UTC-05:00] [8368:8992] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-15 10:22:19.6036833 UTC-05:00] [8364:9064] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-15 10:22:19.6208045 UTC-05:00] [8364:9064] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-15 11:08:53.4010598 UTC-05:00] [8364:9064] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-15 11:08:53.4024355 UTC-05:00] [8364:9064] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-15 11:09:06.4219964 UTC-05:00] [8364:9064] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-15 11:09:06.4221512 UTC-05:00] [8364:9064] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-15 11:09:32.3464877 UTC-05:00] [8364:9064] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-15 11:09:32.3466280 UTC-05:00] [8364:9064] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-15 11:09:33.9431754 UTC-05:00] [8364:9064] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-15 11:09:33.9433906 UTC-05:00] [8364:9064] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-15 11:09:39.1700774 UTC-05:00] [8364:8368] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 11:09:39.3180082 UTC-05:00] [8364:8368] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-15 11:09:39.5295300 UTC-05:00] [8364:9068] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-15 11:09:39.6563736 UTC-05:00] [8364:9068] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 07:49:24.6491941 UTC-05:00] [1824:8780] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-17 07:49:24.6508232 UTC-05:00] [1824:8780] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-17 07:52:15.8153571 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 07:52:15.8167886 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:02:11.6706587 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:02:11.6753596 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:02:11.6790610 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:02:11.6791404 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:02:17.6779253 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:02:17.6781465 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:03:36.6118061 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:03:36.6171562 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:03:36.6266407 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:03:36.6267697 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:03:51.9820464 UTC-05:00] [1824:5092] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-17 09:03:52.0934283 UTC-05:00] [1824:5092] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 09:03:52.3594403 UTC-05:00] [1824:8784] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-17 09:03:52.4061783 UTC-05:00] [1824:8784] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 09:03:59.0498485 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:03:59.0499985 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:04:01.9733913 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:04:01.9735518 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:04:04.4929154 UTC-05:00] [1824:8780] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-17 09:04:04.4930515 UTC-05:00] [1824:8780] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-17 09:43:12.9130712 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:43:12.9181733 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:50:00.3784192 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:50:00.3788301 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:53:40.0084196 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:53:40.0099560 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:53:40.0103005 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:53:40.0110127 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:53:56.7298743 UTC-05:00] [1824:8784] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-17 09:53:56.7683763 UTC-05:00] [1824:8784] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 09:54:01.8027467 UTC-05:00] [1824:8784] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-17 09:54:01.8105737 UTC-05:00] [1824:8784] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 09:54:18.3350294 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:54:18.3351619 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:54:21.9208667 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 09:54:21.9215029 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 09:54:50.5980711 UTC-05:00] [1824:8780] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-17 09:54:50.5982127 UTC-05:00] [1824:8780] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-17 10:05:07.4877560 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 10:05:07.4879227 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 10:12:48.6006694 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 10:12:48.6008879 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 11:18:37.0222763 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 11:18:37.0224101 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 11:18:37.0225774 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 11:18:37.0227180 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 11:18:37.0228850 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 11:18:37.0230720 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 11:19:16.2746145 UTC-05:00] [1824:8780] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-17 11:19:16.2747136 UTC-05:00] [1824:8780] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-17 11:19:21.6403861 UTC-05:00] [1824:5092] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-17 11:19:21.6475839 UTC-05:00] [1824:5092] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 11:35:45.0926921 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 11:35:45.0931846 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 11:39:03.7148597 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 11:39:03.7151845 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 11:39:03.7220794 UTC-05:00] [1824:8780] [FortiVPN  1337   error] fortivpn::IFortiVPN_Impl::LowPowerWakeUp() NOT PBT_POWERSETTINGCHANGE
+[2026-04-17 11:39:03.7222135 UTC-05:00] [1824:8780] [FortiVPN  1362   error] fortivpn::IFortiVPN_Impl::LowPowerSleep() NOT  PBT_POWERSETTINGCHANGE
+[2026-04-17 11:39:13.3294375 UTC-05:00] [1824:8784] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-17 11:39:13.6481973 UTC-05:00] [1824:8784] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 11:39:14.5492979 UTC-05:00] [1824:5092] [FortiVPN  100   error] fortivpn::IEndpointControl::queryState() could not receive from server.
+[2026-04-17 11:39:14.8313887 UTC-05:00] [1824:5092] [FortiVPN  118   error] !!! fortivpn::IEndpointControl::queryState Empty response
+[2026-04-17 11:39:23.4648014 UTC-05:00] [1824:8780] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-17 11:39:23.4687091 UTC-05:00] [1824:8780] [FortiVPN  610   error] Could not find shared memory in session(1)
+[2026-04-17 11:43:50.7419272 UTC-05:00] [1088:1152] [FortiVPN  601   error] VpnConn for 1 is not created.
+[2026-04-17 11:43:50.7691097 UTC-05:00] [1088:1152] [FortiVPN  610   error] Could not find shared memory in session(1)
